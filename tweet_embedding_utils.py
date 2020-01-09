@@ -69,8 +69,8 @@ if __name__ == "__main__":
         new_df = pd.DataFrame()
         new_df["Embedding"] = tweet_embeddings
         new_df["Valence score"] = df["Valence score"]
-        new_filename = "./data/embeddings_"+filepath.split("_")[1]
-        new_df.to_csv(new_filename, sep="\t")
+        new_filename = "./data/embeddings_"+filepath.split("_")[1].strip(".txt")+".pkl"
+        new_df.to_pickle(new_filename)
     
     
     
