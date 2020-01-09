@@ -8,20 +8,19 @@ import pandas as pd
 import numpy as np
 import nltk
 import gensim
-embedding_file = "C:\Users\natha\Documents\GoogleNews-vectors-negative300.bin"
-def extract_embeddings(tokens, embedding_filename=embedding_file):
+
+def extract_embeddings(tokens, embedding_model):
     '''
     Takes a list of tokens and returns a list of their word2vec embeddings, as 
-    contained in a model embedding file
+    contained in an embedding model
     
     :param tokens: a list of tokens
-    :param embedding_filename: path to a .bin word2vec format word embedding file
+    :param embedding_model: a gensim embedding model
     
     :returns embeddings: a list of word embeddings
     '''
     embeddings = []
 
-    embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
     for word in tokens:
         if word in embedding_model:
             embeddings.append(embedding_model[word])
@@ -47,6 +46,32 @@ def sum_pool_embeddings(embeddings):
         pooled_embedding.append(dim_sum)
     return pooled_embedding
 
+
+if __name__ == "__main__":
+    embedding_filename = "C:/Users/natha/Documents/GoogleNews-vectors-negative300.bin"
+    embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
+
+    train_filepath = "./data/cleaned_training.txt"
+    test_filepath = "./data/cleaned_test.txt"
+    dev_filepath = "./data/cleaned_dev.txt"
+    paths = [train_filepath, test_filepath, dev_filepath]
+    for filepath in paths:
+        df = pd.read_csv(filepath, delimiter="\t")
+        tweet_embeddings = []
+        for tweet in df["Tweet"]:
+            if type(tweet) != float:
+                tweet_split = tweet.split()
+                embedding_list = extract_embeddings(tweet_split, embedding_model)
+                pooled_embedding = sum_pool_embeddings(embedding_list)
+                tweet_embeddings.append(pooled_embedding)
+            else:
+                tweet_embeddings.append([0]*300)
+        new_df = pd.DataFrame()
+        new_df["Embedding"] = tweet_embeddings
+        new_df["Valence score"] = df["Valence score"]
+        new_filename = "./data/embeddings_"+filepath.split("_")[1]
+        new_df.to_csv(new_filename, sep="\t")
+    
     
     
     
