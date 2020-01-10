@@ -2,3 +2,4 @@ Results:
 
 model:	features:	dev_r2_score:	test_r2_score:
 linreg	embeddings	0.288		0.243
+xgboost	embeddings	0.408		0.402
