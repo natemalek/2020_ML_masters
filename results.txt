@@ -1,5 +1,5 @@
 Results:
 
-model:	features:	dev_r2_score:	test_r2_score:
-linreg	embeddings	0.288		0.243
-xgboost	embeddings	0.408		0.402
+model:	features:	dev_pearson_r:	test_pearson_r:
+linreg	embeddings	0.589		0.586
+xgboost	embeddings	0.642		0.647
