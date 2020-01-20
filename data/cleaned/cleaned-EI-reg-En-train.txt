@@ -1,0 +1,1534 @@
+	Tweet	Valence score
+0	depressing shit ever	0.861
+1	final vestiges childhood dashed shoals hearing house cover tracy chapman fast car dayjob	0.41700000000000004
+2	dreadful first half not mention rashford would got end couple balls pace	0.5
+3	feel really sad today😒	0.833
+4	wow watched seriously one depressing movies life	0.667
+5	way cool die young way young die sober tunechi	0.604
+6	happy birthday roy buchanan born day roybuchanan guitar blues happybrithday	0.188
+7	ibiza blues hitting hard already wow	0.833
+8	awareness time awareness time lost awareness time	0.41700000000000004
+9	no episode today whilst editing power outage rebuild tomorrow podcast lost editing fail tomorrow	0.396
+10	great programme tonight upsetting extremeworld	0.375
+11	days know heart beats depression	0.8540000000000001
+12	bare videos online anyone get rehabilitated anyone actually get help affliction jut get twitter videos	0.479
+13	tell camp happy purely bojan muni nboth normally fab guys yet completely dejected something right	0.623
+14	bill clinton not grow weary good cgi	0.275
+15	dull uk	0.43799999999999994
+16	sober life	0.312
+17	watched favorite youtubers months honestly made depression much worse	0.667
+18	depress	0.708
+19	sadness leaves broken bed hold depths despair name love	0.604
+20	john magic box lost	0.22899999999999998
+21	impress depress	0.271
+22	safe blues ok reds ok well obviously battleground states would not	0.263
+23	grim	0.75
+24	good hearts lost job responsible families information profile even dollar can’t tweet	0.75
+25	cheap pout brodcast	0.43799999999999994
+26	wanna see smile wanna see make frown	0.33299999999999996
+27	liam distant makes mourn	0.6459999999999999
+28	airport depressing watching loved couples cute people coming holiday cute hurry november ✈️	0.625
+29	trump presidency dark age usa world would definitely take us war short amp long term pain	0.604
+30	endtrumpweek please depressing	0.667
+31	srv voodoo child approximately times better jimi guitar music blues	0.292
+32	bls depress blake	0.585
+33	honestly upset rewarded nicole depressing paulwasrobbed rewardhardwork bitterjury bb	0.667
+34	little bit extra money would blow whole paycheck go one two concerts la serious	0.16699999999999998
+35	even celebrate wins mourn cause first test week busy	0.75
+36	let know blues	0.521
+37	mmmm coffee good book dreary day beat	0.25
+38	nah asked really insightful teacherly questions could write kickass report sadly never know	0.521
+39	romero fucking dreadful like seriously month old better	0.583
+40	“my friend fly away world abhors awaits somber morrow no matter winds may blow”	0.544
+41	usa panicattacks anxiety depression much medication	0.708
+42	🍂🎵☀ fall sounds great ndream blues rock nget top album one love hero	0.10400000000000001
+43	im kind confused one thing right great future hand new thing lost needhelp	0.604
+44	could crooked stuck delusional dim amp dark hearted dud surprised losing amp prob also ppl let crimes drop nwo imo	0.541
+45	somehow sausage pasta made sunk bottom eating sausage tiny bit leftover pasta	0.33299999999999996
+46	sadly war often factor jump starts us economic growth	0.479
+47	thanks sober drivers real winners night clemvsgt	0.188
+48	interesting topic evening sadness amp low mood mhchat	0.708
+49	understand express emotions others may lead sadness loneliness amp neg impact long term mh mhchat	0.562
+50	chronic sadness may mean underlying issues getting sad occassionally particular issue mhchat	0.562
+51	thanks sharing surprise guests amp visiting us tenor sax livemusic capetown blues	0.267
+52	inclined think documentary harm good not despair people critical faculties	0.562
+53	know love sober sober selenagomez revival	0.45799999999999996
+54	one step forward two steps backward link rogerfederershop doesn´t work losing hope roger federer new website sadness	0.583
+55	fun tidbit fall asleep someone dancing blues latenight	0.083
+56	ricefodays alex butler class financial management starts great relevant class discussion movies sunk costs	0.22899999999999998
+57	cant stop finished dejected luckily no one bathroom go stall wait pants dry	0.625
+58	think swallows swifts gone photo nights ago not seen since autumn	0.354
+59	pine rider	0.295
+60	please bear not twitter savvy😝 real life facebook person help gain followers blog selfhelp	0.146
+61	linc sink	0.20800000000000002
+62	honestly know unhappy time want stop itnevergoes	0.9490000000000001
+63	nooooo poor blue bell not sad	0.792
+64	contention hosting nation camden empty sad	0.6579999999999999
+65	not made world empath unhappy	0.75
+66	im kind confused one thing right great future hand new thing needhelp	0.521
+67	health insurance cover tms let know cover ect mentalhealth psychology tms ect	0.521
+68	paddy mcnair joint top scorer yeah justlet sink haha	0.20800000000000002
+69	wobble carry sink	0.396
+70	sad evening clearing harvey cage belongings final goodbye little man depressing	0.8540000000000001
+71	“the immense importance football sometimes scary don’t win responsible many unhappy people arsene wenger	0.396
+72	right may sufc fan football maybe shit marcos rojo mufc shocking start dreadful	0.583
+73	yeah agree think family member covered	0.408
+74	heart actually sunk looooool confused	0.625
+75	depressing seeing whole fam packing go holiday tomorrow staying	0.688
+76	find patronus website work even see questions sadness	0.7290000000000001
+77	hey man asian nah man im hispan nah high hell random crackhead wal mart parking lot cmon sober	0.23800000000000002
+78	got teampaella presents way fi think arrive saturday sadly	0.583
+79	ears soul goodmusic melancholy	0.23600000000000002
+80	yep amp stayed pjs day lol	0.312
+81	guess must really expensive whole family stayed poland really miss	0.542
+82	ever stayed hostels overseas frame reference movie hostel know went	0.22899999999999998
+83	write drunk edit sober nforget save wake hungover amwriting sober	0.312
+84	exact minus beer sadly	0.604
+85	tears inappropriate day holy lord not grieve joy lord strength nehemiah niv joy	0.311
+86	yea lol catchy fret	0.358
+87	rooney whipping boy mufc	0.354
+88	complained head called not despair god mercy sins go back ask forgiveness	0.467
+89	mind dark room ndeveloping madness ♨😘	0.562
+90	band members wanted contact newcastlegateshead sunderland musicians musicbusiness musicislife music musically band blues folk	0.299
+91	overwhelming sadness shall pass lonley startingover	0.917
+92	nhearing noises akame opened eyes sat facing juvia expect see someone around staid	0.266
+93	never let sadness past ruin future	0.292
+94	used pawn red woman game try not fret act nothing amiss royal	0.354
+95	whisper cannot frown	0.271
+96	people much negativity filled inside im always happy gloomy world someone like exists namjoon	0.45
+97	go away please begging »»» depression anxiety worry fear sadness ndreams joy baby found sits andisbench	0.8959999999999999
+98	not discouraged slowing sales market test business model pinpoint strengths weaknesses	0.271
+99	difference someone selfies happy vs unhappy absolutely amazing	0.20800000000000002
+100	living depression mean must defeated nevery day new day yesterday decide today looks like	0.43799999999999994
+101	even pencil✏ never stayed end	0.667
+102	many yeah thing going cops shooting innocent people sad not backyard sad blm	0.7240000000000001
+103	blend waters lie nthere shrines free melancholy waters lie nno rays dull tide vine	0.43799999999999994
+104	look unhappy nngh got email notif thank	0.43799999999999994
+105	glad tv coverage successful attendance looked pretty dismal	0.43799999999999994
+106	ok yes get much next guy bikes blues amp bbq frustrating amp loud ppl traveling come	0.25
+107	work no play makes jack dull boy	0.5
+108	dirty self loathing attitude mope talking	0.792
+109	today visited dreams even though physically gone still mourn	0.7709999999999999
+110	trying take lost broken make right	0.542
+111	mhchat childhood experiences inform adult relationships associative memories not question ability process sadness	0.625
+112	es serious	0.271
+113	pay responsible doings sober real blind	0.369
+114	going make life mission discourage anyone using rob blind	0.6459999999999999
+115	media celebrated king endorsing obama criticize endorsing trump wants new civil rights era sad	0.562
+116	blues riding cab home belly much bigger rest body couldnt preggy lose day	0.542
+117	tonight fulford arms york ntomorrow bank top tavern oldham nnext saturday big hands manchester livemusic punk blues rockandroll	0.188
+118	not grow weary good lasting legacy cgi thankfulmoment	0.34299999999999997
+119	not yet sunk yet rest	0.604
+120	serious chinks india’s armour protein malnutrition feedingindia skillingindia cognitive deficit	0.354
+121	got hacked gaming channel grim evil wood clowns yesterday september september today	0.396
+122	rather forlorn scanning witches house resting back elphie grimmerie gone	0.45799999999999996
+123	love something let go comes back never sadness accepting	0.7709999999999999
+124	need advice get rut needmotivation	0.7290000000000001
+125	uplift still discouraged means ur listening wrong voices amp looking wrong source look lord	0.25
+126	rather someone could help concern clouded green eyes not seen girl alone woods	0.43799999999999994
+127	dude fukc lost spectacles morning	0.45799999999999996
+128	kinda wanna book vacation go anyone wanna tag along adventure serious	0.312
+129	seeing something hurt much past front not single sign grieve magicalllll	0.396
+130	fucking sad person love try fighting happiness anything	0.7709999999999999
+131	new lock sound grim	0.562
+132	ni like thinking sadly no shed	0.604
+133	candace amp pout getting right tits gbbo	0.41700000000000004
+134	even grieve one black body another one pops due pig brutality	0.892
+135	try fail try still fail confused lost	0.917
+136	noel edmonds reckons cat talking stressed uncertainty gbbo future plot lost	0.521
+137	dropped phone sink earlier no sound everythin else works prepared life without music put earphones	0.45799999999999996
+138	thief liberal mope investigated financial services board theft govt retirement funds thief	0.667
+139	contained depression new economic engine sustainability say joel vergecon newgrandstrategy	0.542
+140	awake seriously bad throat 😩😩😩😩😷🤒 glands feel huuuuuuuge uni soon grim	0.708
+141	season charlie still prick lost	0.375
+142	rather die alone end somebody sober	0.66
+143	practically obsessed thought departure makes feel melancholic grateful safe journey	0.375
+144	go follow juspopmolly snapchat hoe sitting sink right	0.396
+145	teens sons left car get haircuts praying storm make home safely sad terencecrutcher	0.667
+146	always borrow money pessimist expect paid back	0.4
+147	sadly not smutty	0.583
+148	sadly not	0.667
+149	help someone depression believe trust therapists	0.604
+150	howland cultural center beaconny vickie raabin amp chris raabe blues soul pm	0.25
+151	course not sink studs knee like forrester	0.396
+152	transparency openness dull sell fans group want verbs like buying defending building securing	0.33299999999999996
+153	sat sat room cloved watchin manchester unide norffampton fink still goal fret iced level	0.375
+154	seeing old coworker wife mourn loss year old daughter one saddest things ever seen	0.833
+155	gloomy weather puts best mood	0.271
+156	tis dreary day today nfriend teenager not shakespeare reincarnation nim dumbass lol	0.45799999999999996
+157	always little bit weary speaking want hijack convo lgbt person seen	0.43799999999999994
+158	baaarissshhhhh sad song prefect night feeling alone	0.7290000000000001
+159	tones favourite chris pine stans love tones anything mt sweet summer child attack anyone hurts	0.271
+160	gotta say put whoever support people decisions not discourage	0.354
+161	blues junior looking forward play soon possible guitar guitarrist music	0.16699999999999998
+162	learning use twitter lost	0.354
+163	sadness resentment past sadness fear future try live mhchat	0.49200000000000005
+164	jazz blues roots rest fruits	0.25
+165	actually always idealize end relationships pessimist	0.6459999999999999
+166	getting excited play main stage sunday oct jazzholiday riesbrothers rock blues jam	0.125
+167	damn gud premiere lethalweapon funny	0.22899999999999998
+168	really enjoyed episodes bit gloomy day today feel sense inspiration listening	0.479
+169	start season open show show dark hell get empire	0.20800000000000002
+170	room rather dreary endure must	0.708
+171	give pout firm	0.508
+172	drunk hid keys well sober find anywhere	0.25
+173	give yo afam son advice today polite no sudden movements keep hands see sadness	0.667
+174	find sadness graham lyrics	0.542
+175	not great start good comeback boys earn point bring saturday blues	0.354
+176	gloomy day im cuddled bed watching brendon covering songs couldnt relaxed happy	0.24
+177	come funeral tomorrow mourn death gpa	0.833
+178	weak amp despair mighty god near give us strength amp joy amp hope amp calm inner fear faith amp trust	0.41700000000000004
+179	serious dm tell	0.396
+180	henderson showing times hard leaves goes missing aflcatsswans seenitbefore lions blues	0.396
+181	tgif hope everyone needs find recovery friends stay sober weekend	0.271
+182	wonder would happen father weary	0.625
+183	kali kitten asked frown curling fair skinned forehead showed scar cat	0.41700000000000004
+184	doesnt anyone else literally pulled office cause someone complained spit sink yesterday	0.457
+185	made laugh quote sort rueful way	0.375
+186	negative campaign doom gloom win elections	0.521
+187	providing customers equipment deliver speeds internet services charging scam	0.625
+188	never fond dark eyes seeing share	0.375
+189	dylon felt dejected dejected aunt	0.562
+190	know everyone pretending sad angelina brad everyone knows dumb ass stayed jennifer	0.354
+191	rather laugh rarest genius beautiful alliance kept sadness melancholy	0.688
+192	darkest nights bright solemn faces lights smile believe	0.22899999999999998
+193	bro pine green forget nots mediumpurple pickering not lit	0.33299999999999996
+194	love happiness sadness feelings dependent another person	0.33299999999999996
+195	heart heavy lost furry family members remembering max ozzie forever friends 🐶😇	0.75
+196	dreams dashed divided like million stars night sky	0.688
+197	lmao awe	0.292
+198	someone explain female human beings depressing	0.812
+199	great programme tonight sad upsetting extremeworld	0.6459999999999999
+200	god full shilling seriously need major rethink no lab gove lifetime	0.41700000000000004
+201	need attention pout	0.41700000000000004
+202	migraine hangover day stood dishes exhausted gad depression amp chronic pain anxiety pain	0.812
+203	saw shirt phrase mind dangerous place would like buy italy sell sadness	0.542
+204	although best semester far also depressing constantly reminded not meant greatness	0.7290000000000001
+205	gutted dropped one earrings sink school	0.667
+206	remember journey unique get discouraged comparing journey someone else get	0.25
+207	stop make laugh sad	0.708
+208	feeling worthless always depression	0.958
+209	listening work slice sunshine dreary cube world tolife	0.479
+210	love ex united managers twitter form fanbase honestly despair times back fucking team eh mufc	0.667
+211	brb going sulk bed friday	0.6459999999999999
+212	always depressing sort wordpress plugin recommendations not best least offensive terms premium features	0.562
+213	ahead polls amp trumps dismal performance upcoming debate easy win hillary	0.174
+214	pretty depressing hit pan ur favourite highlighter	0.6459999999999999
+215	swear not go mourn because😭😭💔💔	0.667
+216	whatever sam holding tee looks like got droop	0.25
+217	die depression	0.7290000000000001
+218	think sadness felt strongly physically mentally feels like takes hard focus work mhchat	0.667
+219	ring ring depression	0.833
+220	holiday blues wanttogobacktominehead	0.6609999999999999
+221	lost wallet found lost found ncollege brazy	0.125
+222	last week cn gonna sad leave also first planned break since going animation	0.43799999999999994
+223	god full shilling seriously need major rethink no lab gove lifetime sad	0.75
+224	september still battling situation said handled march year unacceptable unhappy	0.833
+225	ha yes look despair	0.479
+226	ill say black man id afraid leave house moving violation terrancecrutcher truth sad	0.7290000000000001
+227	feel like burden every day waste know get bc get discouraged wanna lay around	0.8959999999999999
+228	pay good money watch someone slap pout candice	0.41700000000000004
+229	act anxiety amp depression group beginning mon october weeks contact register mindfulness halifax	0.562
+230	listening old school house music kentphonic sunday showers hanging around sing back blues	0.375
+231	bows moment rather sulk going opinion guys studying oligodendroglioma ✌️ amp ❤️ amp	0.312
+232	always unhappy easily offended	0.604
+233	mine pass know inconsolable amp devastated	0.862
+234	hmmmm may point thought twitter got dull lamination	0.542
+235	eat way sobriety hell journey back sober	0.625
+236	depression sucks depression	0.958
+237	care shape blues nwe owe fucking hiding nlong overdue front	0.354
+238	yeah want become obese afford think serious haha	0.20800000000000002
+239	far safe staid found horribly ott times everyone seemed trying little hard not	0.479
+240	golden brown hues met baby blues arms crossed breasts gulking let guess	0.20800000000000002
+241	people leave toilets fucking grim states	0.42
+242	want perfect boring dull	0.36
+243	well done bro😏 blues stategames captain shootthegerman	0.22899999999999998
+244	today kudos jaime garcia fine outing encouraging last week judo jaime garcia dismal outing discouraging	0.542
+245	might serious number sounds better wild card race	0.20800000000000002
+246	amateurs sit wait inspiration rest us get go work stephen king authors serious writingtip	0.271
+247	aww rest weary head	0.396
+248	contention hosting nation camden empty	0.375
+249	life went happy unhappy	0.812
+250	hello dear friends back online friday night miss sober sobriety recovery	0.41700000000000004
+251	evening though way lit finish properly without causing serious mischief	0.396
+252	poor service tonight find season ticket holders seats purchased online forced move away unhappy	0.667
+253	always say best time life closed store depressing	0.7290000000000001
+254	many tweets fast going god love sober intelligent	0.312
+255	elliot friedman please stop talking clueless seen ball since kickoff mope	0.606
+256	sister canadian player something shady jonathan toews frowning know worldcupofhockey	0.40399999999999997
+257	solemn thing no small scandal kingdom see god’s children starving seated father’s table aw tozer	0.375
+258	remembering day still nt know kpop thinking sad life without kpop fan	0.521
+259	second pair scales bought stopped working battery change issue aware unhappy	0.604
+260	new wave techno jazz blues depending mood	0.271
+261	lmao awe sad	0.521
+262	not written african american nno refuge could save hireling slave nfrom terror flight gloom grave	0.583
+263	come let whatever dismal	0.583
+264	serious problems expectation private philanthropy replace functional government services dangerous	0.396
+265	pretty love sky background purple highlights dull colors great	0.08800000000000001
+266	lol yeah read stayed nap tilli collect people think got 😂😂	0.396
+267	going sulk week ourgirl back best	0.43799999999999994
+268	musician tell people get discouraged learning shitty instruments anything else	0.675
+269	saw someone discourage someone following dreams want live mediocrity mean someone else	0.479
+270	trying think positive not let situation discourage ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨	0.44
+271	no one wants win wild card play cubs road sadness	0.767
+272	♪old fish discourage	0.6559999999999999
+273	new song mega reminds blues	0.146
+274	came work no reason 😩🔫 ni could stayed bed	0.833
+275	good cuz trump fucken azi king havnt sunk low since set mike tyson pathetic dons	0.479
+276	engine runs fuel called whining nu jst hv observant nhar din rona dhona amp complain nhappy news makes unhappy	0.479
+277	lose somebody close heart lose well	0.708
+278	savemoney savelifes openbar weddingreception close hours early forcing guests sober driving	0.33299999999999996
+279	gonna loooooong year browns fan longer normal	0.375
+280	eating egg grim eating material embodiment fart unborn chick	0.563
+281	snaps insta pics see friends made cali unbelievably depressing cause no place rather	0.7290000000000001
+282	panic attacks worst feeling really sick still shaking sleep anxiety depression	0.917
+283	buddha possess enough power deliver affliction	0.542
+284	friends tell pretty trigger tells ugly first confused realised pretty ugly tru sad tumblr	0.64
+285	go back weeks start seriously dreadful	0.667
+286	two brians amp also known nigella lawsons blues amp pizza	0.114
+287	involuntarily smile frown photos giggle annoying	0.263
+288	doom gloom scored open play conceded two time progress means draw saturday	0.375
+289	soldiers war zones held higher level rules engagement police officers sad	0.7290000000000001
+290	bowl new food processor broke sadness	0.583
+291	ak leave spine frown	0.521
+292	thought sunk teeth something meant sooked	0.45799999999999996
+293	know much ur mind find cleaning stove kitchen almost pensive	0.542
+294	pax enjoyed gloom	0.312
+295	love girls busy teaching pout taking selfie mall desication immense women love perfection	0.125
+296	good one reporter quit	0.312
+297	ill say black man id afraid leave house moving violation terrancecrutcher truth	0.542
+298	stayed home	0.45799999999999996
+299	despair underneath every action neach every attempt pierce armour numbness mgla	0.583
+300	nephew sees frown face tells beautiful 😢💞😩	0.542
+301	night depression winning depression fml help	0.8959999999999999
+302	not sad white sox playing record	0.43799999999999994
+303	grave beat bravehearted cave lover cage lover sage lover made soup twisted spoony melancholy spikes spices	0.375
+304	remo williams ever actually save anyone sulk around killing random undesirables	0.396
+305	always insensitive whenever grieve idgi	0.583
+306	filled report baitswitch lets go get fines levied badbusiness honoryourdeal unhappy	0.542
+307	lament nsaddened heart nso far amp nyet near nthe years ntough amp scarred nthis lonesome nroad nstill feared depression poetry poem	0.812
+308	sadly best days behind	0.583
+309	prepared not far know dull reply still survivors members like said	0.33299999999999996
+310	jeezus god dark	0.46
+311	lost xt nova around hole sadness	0.708
+312	decoded blues not one getting blues	0.33299999999999996
+313	become verb gonna villaseñor old contacts need anymore sadness waitingforexplanation	0.542
+314	ffs clan seriously never disheartened	0.812
+315	foggy dark morning filter time lighting purposes	0.45799999999999996
+316	bad news fam life still hard awful depression anxiety atleastihavebuffy	0.812
+317	haha well today get beyond pout annoying afraid	0.562
+318	hard folks realize deep hatred dive murky end pool guy nuts	0.625
+319	uplift still discouraged means listening wrong voices amp looking wrong source look lord	0.33299999999999996
+320	no obviously friends clouded judgement	0.5
+321	already plotting next steps get cut minivan tomorrow drop line preschoolpolitics momthings serious	0.41700000000000004
+322	pessimism want get another week rest healing	0.41700000000000004
+323	tore mlc playing football hs knees serious business take care lemme know need anything	0.292
+324	year ends probably get master flu games true blues space jams	0.20800000000000002
+325	feel strongly need work together right dreadful wrong	0.415
+326	hi dom saw notts county away looking mufc away ticket pay	0.312
+327	soul weary fighting battles world blackinamerica wearenotsafe	0.7709999999999999
+328	country going go crap no matter wins november isnt learn despondent future	0.611
+329	wow really sadden terrible	0.875
+330	weather changed sunny bright gloomy time match afternoon mood	0.75
+331	know much bloody pout take	0.66
+332	fibromyalgia really bad lately not good mental state feel overwhelmed anxiety bipolar depression	0.946
+333	agree current ultra left democratic party lost lot members including switched repub	0.33299999999999996
+334	concorde lounge terminal jfk saddened say service far dismal expect reply	0.542
+335	moving clips youtube tonight vigil held tulsa metropolitan baptist church terencecruther justice anger sadness	0.604
+336	fret another game staytuned	0.25
+337	droop saw naked wrestling asked get hole one jaymohrsports	0.312
+338	man city kit dreadful	0.522
+339	people going realize riots perpetuating hate saying going boycott city lost	0.5
+340	providing customers equipment deliver speeds internet services charging unhappy scam	0.688
+341	come come arms not going anywhere tony swear steve told quiet solemn	0.5
+342	come serious situation glad gave deep thought	0.375
+343	first weekend fall let see stay disciplined seasons goals fitness running sober mindset firstfriday family	0.33299999999999996
+344	no clue charger lost	0.604
+345	retired minutes ago blues	0.28
+346	wait hours call back cancel order placed already spending hours phone sad	0.6459999999999999
+347	sadly mistaken think make tweet isolated comment random twitter user	0.469
+348	thanks replying ironing shirt😂 love meet get autograph sadly young travel	0.41700000000000004
+349	lost geelong football team nlast seen entering banner not sure since unhappy playwithsomeheart	0.604
+350	pessimist someone opportunity knocks complains noise mikeshumor	0.188
+351	sorry loss no one ever give shit taking time mourn no matter long takes	0.688
+352	old though imachildofgod whatistwerking sober married bye	0.45799999999999996
+353	depressing part ill taste goes	0.8540000000000001
+354	sleep cooties ni close eyes dream awake weary sleepissues narcolepsy	0.688
+355	encouragement today dog head fog epicfail feelingfedup tired ihaveheardeverything wondering	0.6459999999999999
+356	disheartened get cards wanted not end world eh want cheer	0.43799999999999994
+357	headed mdw layover slc got food wrong move bailed food amp barely made wannagetaway contest	0.43799999999999994
+358	grim fuck going dame fucking clowns takeing gameing channel way nj would delete	0.479
+359	err wasnt gloomy mio people not gloomy remain brexit	0.45799999999999996
+360	left protected long lost reasoning power	0.312
+361	ffs dreadful defending	0.5
+362	know final day summer finale sadness	0.737
+363	mine forlorn	0.688
+364	burst crying alone realize no one truly knows unhappy really want anyone know	0.812
+365	wow denver housing market depressing no places buy range fml	0.7290000000000001
+366	officially said episodes left future despair delayed	0.43799999999999994
+367	pm sulk tub listening lana	0.542
+368	prayers family friends amp members mourn loss engineer ryan osler lodd rip	0.7709999999999999
+369	jest kara chuckle instead baby blues narrowed adam like warning brain	0.5
+370	stayed night long nmade drinks strong nfeeling ten feet tall nropes swinging water nin middle night	0.2
+371	many gloomy days	0.792
+372	take serious unless use emojis	0.271
+373	absurd could laugh right also feel like crying future country despair wakeupcall	0.625
+374	heartbeat forever stumbling memories things past longing loss shape form sadness	0.8959999999999999
+375	never dull moment talking nell 😂😂😂😂😋	0.146
+376	story life lost	0.688
+377	cheer luv face alot prettier not frowning lt	0.292
+378	wish appreciated turn taken care want break tired	0.7709999999999999
+379	start songs blue neighborhood wild fools talk 😭😭for wesper nalso good serious kaz inej feelz	0.375
+380	synth backing tracks sadness depresspop dark alt fuckingmeup	0.708
+381	indeed amp sadness unavoidable mhchat	0.688
+382	sorry missed stayed late working pondering life	0.542
+383	going home depressing	0.8959999999999999
+384	yes right mean wish discouraged see mikeandmolly many parallels really	0.271
+385	nobody wants grouch dont move sd want rapper serious	0.375
+386	sent pitch brand close tabs relevant instantly thats kind detachment create serious	0.562
+387	underground waterloo not nice place thursday somanypeople grim	0.688
+388	threw sedate damn horse tranquilizer	0.354
+389	everything far away time short no rest weary	0.521
+390	hate see frown rather see smiling 💕✨	0.16699999999999998
+391	serious need nap	0.354
+392	comfortable dove house home years home amp grateful dove indy sober	0.239
+393	anyone noticed stories recent days paint positive accomplishments trump challenges hillary surprised sad	0.5
+394	unmatched party specialist co serious job titles	0.20800000000000002
+395	wanna pop pills sedate wake tomorrow	0.7290000000000001
+396	thanks mucho kate💕 sober	0.20800000000000002
+397	nahh thats grim	0.43799999999999994
+398	losing games worst end feeling mixture anger sadness shame anxiety lasts days	0.8540000000000001
+399	love word fret much im heaven	0.292
+400	sad people sick boring 😬😬😬	0.708
+401	done piano blues playing smooth talking ass nexttt	0.381
+402	penny dreadful season	0.354
+403	news legs hurt running kinmins dreadful flatfeet	0.562
+404	yall hyped abt girl getting hang jb clearly looks unhappy bored pics no offense lol plus hates yall	0.583
+405	yesterday finished watching penny dreadful beautiful things saw one question remains writers fans	0.312
+406	chalk dance notation entree manchester inasmuch corinthian products discourage drag branding arwuevfqv	0.188
+407	amp like unhappy leave cheat someone amp view love amp shit	0.5
+408	probs spent grand total five minutes sober since sunday evening freshers	0.45799999999999996
+409	rooney needs come absolutely dreadful 🙈🙈🙈 class goal showing team	0.5
+410	gonna loooooong year browns fan longer normal sad	0.604
+411	know try not fret sweet little pupper	0.33299999999999996
+412	not grow weary good treadlines better deadlines cgi	0.375
+413	lestweforget yrs graduate trainee recruitment not concluded disappointed weary however wewait	0.6459999999999999
+414	carry wayward son peace done lay weary head rest cry no	0.5
+415	actually understand plumbers etc wire would get way sink	0.22899999999999998
+416	dull	0.521
+417	autumnalequinox nights drawing great time look putting new lights dark showroom news wirral	0.271
+418	go help cause net recovery sober addiction	0.396
+419	sometimes support network causing damage support damaged alone tired hurt nojustice surivivor nomore	0.67
+420	get discouraged maybe prayers divine intervention help would help	0.43799999999999994
+421	back cardiff amazing days away depressing	0.7290000000000001
+422	rooneys fucking untouchable fucking dreadful depay looked decent ish tonight	0.479
+423	loool understand pessimism	0.41700000000000004
+424	applications dbs still waiting year going loose job 👍🏿 thanks unhappy crb	0.792
+425	wonder wolfcreek tv show sponsored anti tourist board australia discourage visitors stayathome dontvisit	0.396
+426	high school remember helping neighbors clean back home greenville pretty sobering stuff sadness	0.688
+427	know ion play shit bout weary brother	0.583
+428	man pessimist knows much optimist knows little mark twain	0.41700000000000004
+429	fuck mum want put corn curry grim	0.667
+430	trying make betterworld depressing failure	0.812
+431	always borrow money pessimist expect back	0.354
+432	true depression fans get one 😂😂	0.562
+433	pessimist sees difficulty every opportunity optimist sees opportunity every difficulty sir winston churchill	0.396
+434	weeks full mondays end	0.688
+435	currently unfollowing anything relating disneyworld florida holidayblues depressing wantogoback 😭💔	0.75
+436	know whether despair agitate cull	0.688
+437	marcos rojo plays man united let sink	0.41700000000000004
+438	nature looks lot greener gloomy dayz	0.562
+439	baal dashed forward boosted forward power flight sword pointed void meant stop short	0.375
+440	really need pout time getting nerves gbbo	0.5529999999999999
+441	dream show cisco pdf melancholy ahid	0.262
+442	slugging vitamin pills handful like amp ms eternal winter end melbourne grim overit	0.675
+443	terencecutcher tulsa man onthe helicopter said looks like bad dude problem see black see bad	0.521
+444	im real life conundrum cuz cant find good spot mini hoop really starting depress	0.542
+445	mad brother sad feel better bub	0.583
+446	look average players play min pine nani rafael rvp	0.22899999999999998
+447	name change uncle remus lewis foh theydontlikeyoueither lost unwoke	0.5
+448	take numbers madden low dropped people unhappy	0.604
+449	ew omg grim	0.688
+450	huh perhaps dreary get along well	0.542
+451	no dark side moon fact dark ngerry driscoll end dark side moon	0.22899999999999998
+452	car dented hail sad	0.688
+453	stayed hotel packed picnic lunches take road bettertogether	0.271
+454	drinkin red wine amp listening fred mcdowell playing blues not play no rocknroll fantastic noise justsaying	0.292
+455	yeah mourn glad rode last time visited	0.33299999999999996
+456	yes picking sticks pine cones front yard	0.16699999999999998
+457	know much hurts see best friend sad	0.72
+458	next despair hope shines even brighter get matt	0.375
+459	like loon attic luckily quickly sunk wrong pronunciation still stop saying stuck	0.375
+460	lol day gloomy people canceled stayed bed	0.6459999999999999
+461	dad would feel knowing daughter getting dashed around whines rave😭	0.583
+462	think learning classical ancient japanese might help get permanently depression sometimes suffer sudden	0.708
+463	feminists ask unhappy lack love lives fighting losing game	0.45799999999999996
+464	forgot hair straightner home feeling lost without lost lostwithoutmyhairstraightener	0.688
+465	no quite sure craig gordon stayed park	0.33299999999999996
+466	truly feel like science ability make milk anything cashew milk hemp milk pine nut milk dandelion milk	0.271
+467	higginbotham flippant dismissal worries around carrick lack pace dismal nimble midfielders carrick exposed	0.41700000000000004
+468	mary berry mel sue gone principles gone fame fortune gbbo depressing	0.75
+469	much sadness heartbreak	0.75
+470	maybe asked study hard get job like way dreadful	0.45799999999999996
+471	tim burton never fails depress	0.562
+472	dark	0.43799999999999994
+473	teens sons left car get haircuts praying storm make home safely terencecrutcher	0.45799999999999996
+474	folk band thistle replaced paul edwards quartet laurel bank park sat pm due ill health jazz blues	0.41700000000000004
+475	historically japanese always jazz blues dark age jazz big names like amp surviving tokyo	0.375
+476	find lost stay passerby get lost musings melancholy	0.68
+477	donating trump puts damper exciting season really bad look ricketts family	0.43799999999999994
+478	congratulations top home owning tip try not look mortgage balance often slowness depress	0.562
+479	aired radio filmed lots fans pond wales lost	0.354
+480	confident never experience successes last yrs best hope another bournemouth	0.45799999999999996
+481	bantz absolutely top notch inconsolable realised	0.616
+482	floofel wonder mother knows dark humor needs realize much butt apple pastels cats cutie pie	0.375
+483	pine colada starburst nasty	0.36200000000000004
+484	lines quit take place ultimate strength start feel weary 💪🏾	0.479
+485	le depressed hate xdddd sad depress loner emo	0.9790000000000001
+486	days sober wanna ruin	0.33299999999999996
+487	already plotting next steps get cut minivan tomorrow drop line preschoolpolitics momthings	0.312
+488	awareness time awareness time lost awareness time lost	0.604
+489	grim night getthefirelit	0.667
+490	rejoice birth grieve funeral not person involved mark twain	0.354
+491	david gilmour biggest compliment king asked gig born mississippi pinkfloyd theblues davidgilmour blues	0.233
+492	😂😂😂 sure half stars get together break affairs let porn vids slip fight ect etc ratings sad	0.45799999999999996
+493	beats accurately powerful respect high quality high frequency speaker extra desolate relating fire ea	0.271
+494	three depress	0.792
+495	thought disgusting man sink lower like hillary depravity character no bottom	0.667
+496	reaching hope contact technical issues cs severely lacking badkarma unhappy	0.5429999999999999
+497	tvgirl like really pretty melancholic life hate	0.7290000000000001
+498	april th keep good work sober prouder	0.20800000000000002
+499	also amazon prime would like help girl lol serious	0.16699999999999998
+500	broken hearted lovers cry away gloom	0.708
+501	cold dark nights slowly creeping	0.542
+502	meden frowning non existent face	0.521
+503	watching lots tv conclusion whataloadoftat depressed afternoon tv	0.667
+504	dreadful day work im gonna late class im covered paint work night shift	0.7290000000000001
+505	nephews cousins nowhere near bad guys could killed moment cop thought bc color	0.688
+506	take jk fun relax get massage two chill eat cucumbers places frown	0.20600000000000002
+507	watch opens mexico week thank making discouraged	0.271
+508	grieve someone legally person yet	0.542
+509	social sharing dark amp web traffic comes darksocial liftsocial	0.479
+510	dunno getting less spacious lovely autumnal melancholy present apocalypse	0.521
+511	course happy hentai not sad gloomy one	0.20800000000000002
+512	mayor visits downtrodden part town brave pr stunt eleven	0.45799999999999996
+513	know slightly high state sober high af beautiful wish could feel like	0.231
+514	sulk peace	0.688
+515	god knows wanna go girl slept half ya mates grim	0.479
+516	anybody know watch penny dreadful ☹️️	0.455
+517	haha sorry dreadful puns need get cooped lately	0.562
+518	roast risotto sage pine nuts	0.16699999999999998
+519	fuck yall hiring gop pr guy discourage cam speakinh mind heart racism	0.5
+520	people protest adrenaline rush depressing	0.583
+521	three agin pout	0.5
+522	ux online appalling no clear save button not able use generic tld unhappy	0.708
+523	no pull afew weeks ago sadly theres no game audio sound affects cause played phone tryed everything	0.479
+524	yeah figured ornaments way wanted spektar desolate gear well thought right	0.354
+525	shame world gloom day one almost though makes sense whole part hydra part	0.542
+526	incredibly shocked disappointed customer service really making rethink flying future unhappy	0.831
+527	fucking gutted disheartened amp pissed gone toughest resolute defences worst amp shambolic scfc stohul	0.7290000000000001
+528	kudos tc benching bruce helping team rides pine games win discussion mets	0.396
+529	anybody needs drowning blues sea whiskey	0.75
+530	hour played conceded less west ham northampton let sink	0.42
+531	ball watching amp rojo header equally dreadful	0.583
+532	fyi mourn celebrate shawty lo cause played music since	0.5
+533	inconsolable oxford academics brussels ignore brexit vote tell uk leave eu ever wah	0.521
+534	gloomy days high cuddles movies	0.354
+535	wow almost mobile stores san diego note replacements sadness need get mine replaced	0.688
+536	please bear not twitter savvy😝 real life facebook person help gain followers blog selfhelp depression	0.583
+537	taking feelings kei unfairly lips form frown tries walk away	0.521
+538	doe run opposite side depression	0.8540000000000001
+539	added paul walker xbox spends time dashboard humor funny	0.16699999999999998
+540	sometimes support network causing damage support damaged alone tired lost hurt nojustice depression surivivor nomore	0.8540000000000001
+541	get close dark inside 🌫🌊	0.43799999999999994
+542	frowning intensely watch plastic memories	0.43799999999999994
+543	another unhappy customer secreteyes	0.6459999999999999
+544	askaman not sound like serious issue cause siyahleka whole time fun	0.292
+545	long mourn	0.604
+546	making yearly transition excited hopeful college returner sick exhausted pessimist college	0.667
+547	inconsolable gif context	0.509
+548	species cf jr refugees skittles know likes snacks even frown talking eating humans lizardscum	0.46
+549	idk start feeling depress sad lonely	0.8959999999999999
+550	one way ticket blues	0.521
+551	found first episodes bojack incredibly funny got less funny stayed drama	0.354
+552	szn gt gt gt szn gt gt gt szn warn let szn discourage	0.33299999999999996
+553	trump supporters not clue meaning words used like nevertrump	0.542
+554	horrible puns day made shall return cage dark corner crying amp laughing hysterical	0.45799999999999996
+555	anyway car furious white men really funny story tell sober	0.22899999999999998
+556	bojack horseman saddest show ever written depression season	0.7290000000000001
+557	thanks playing crock pot going radio blog blues music indiemusic	0.146
+558	weather got fucked like either sunny hot gloomy cold no	0.6459999999999999
+559	american idiot record turns twelve today changed preppy middle school heart desolate punk rock desert forever grateful	0.271
+560	finished writing second book tonight somber sad youpromised havemercy author writer needpublisher beingedited workingonsidebook	0.521
+561	watching lots tv conclusion whataloadoftat depressed afternoon tv grim	0.75
+562	ha freshers blues would love ha nice tshirt vote pedro	0.16699999999999998
+563	ghost stefano reflects grim indignity murdered corrupt cops faux love days	0.562
+564	surfer girl speak language anymore justsaying sadness	0.667
+565	let discourage one best ideas yet	0.226
+566	always no longer sober feels like wana start ul	0.625
+567	put winter duvet ☃️❄️🌬☔️	0.10400000000000001
+568	grateful novel award promo rt blessings dewayne hyatt hippie loves grind blues florida	0.20800000000000002
+569	hi hate unhappy bill keeps going unique features want plan roberts	0.354
+570	ever grow weary good see headlines look trend lines hope cgi	0.375
+571	life short frowning long	0.396
+572	oh btw month depression free time got relapse superb depression	0.917
+573	jay brad pitt cheated bey stayed angie left cheaters love lust sex couples relationships date marriage divorce	0.32
+574	want pour tears someone right tired upset sad	0.958
+575	blues bar	0.188
+576	onto know secretly pine masculine order objective morality disciplined transcendent pursuits	0.375
+577	theyve substituted hood badge gun public opinion indictment charlotte police dark sadtimes america race	0.604
+578	worried felt safe unhappy	0.8540000000000001
+579	dull sleeping hour na crew patches rude mechanicals amndbots	0.5
+580	depressing freaking close	0.679
+581	got diagnosed severe extreme depression know difference two lol	0.708
+582	whole vanre extradition might turn pandora box jt no idea murky corrupt guanxi china toad vs dada	0.396
+583	extreme sadness	0.917
+584	peoplelikemebecause unknown reason try discourage	0.278
+585	scared present front class severe anxiety whats sad sometimes go get ur depression checked imediately	0.6459999999999999
+586	distraught candice pout piss	0.688
+587	although expect trumpie understand difference real things pretend things	0.375
+588	hakyeon takes attention happily perching wonshik shoulder sulk jaehwan accidentally caused tiny explosion	0.354
+589	pine nut chestnut peanut wait wrong film	0.35100000000000003
+590	rory starts would group look like hideki walker throw reed knox pine	0.34299999999999997
+591	included maximum sadness	0.625
+592	fear not truth even gloomy counterfeit berl katznelson	0.5
+593	lord make instrument peace hate let sow love injury pardon despair hope	0.42700000000000005
+594	hermione sort thank sliding plate away frowning ron continued	0.306
+595	post series depression quite bad get better bet someone pick novel soon west	0.5
+596	way hard not get discouraged	0.667
+597	flight crashed lost island lost	0.41700000000000004
+598	proud understands shows love thought compassion not done clouded way	0.188
+599	historic evangelical wonder donatists point dreadful clergy fmr circles	0.542
+600	feel like drowning depression anxiety falure worthless	1.0
+601	meghan teaching blues keyboard fundamentals ii classical majors like wtf	0.25
+602	xdd song not weary	0.542
+603	sobriety® trying make sober fashionable… done zeroalcohol soberoctober clubsoda nomorehangovers sober	0.33299999999999996
+604	blues bob haddrell amp guests nfri rd sep pm pm blues free tunbridgewells	0.25
+605	got super speeder lost license months 😩🔫	0.583
+606	ff love amp support always eliza neals rocks blues music friends 😎🎸	0.125
+607	snores tl boredom sunk	0.33299999999999996
+608	nd step beating anxiety depression realising not waiting take action	0.495
+609	sober days lmao	0.292
+610	asked gate crash dumb idiosyncrasies sober people analyzing situation	0.396
+611	hate post con blues avoided plague yay yay constant hand sanitizer	0.43799999999999994
+612	sigh got depressing	0.8540000000000001
+613	sorry main twitter im depress	0.833
+614	breakfast seen blew cereal sink	0.292
+615	leopard never changes spots lost	0.396
+616	gabriel would eventually start frowning gaining conciousness apparently really painful tears formed	0.542
+617	facebook depressing without even two apps want logging missed least two interesting events	0.708
+618	depress comparing no comparisons	0.43799999999999994
+619	ok disgusted dishearten presidential race let stop voting matters	0.542
+620	shit hurting heart serious	0.875
+621	thankyoucgi not grow weary good cgi	0.375
+622	really offer sacrifice daily keep safe sad	0.625
+623	nooooo poor blue bell not	0.604
+624	tell supposed feel broken hateful guilty love sadness	0.7290000000000001
+625	thank god warned walked sink cause lord knows would sick stomach would wanted sue lbvfs	0.521
+626	wait go work tomorrow high fuck fever sarcasm nhopefully feel better tomorrow nbut doubt pessimism	0.6459999999999999
+627	sadly think see tour fun gonna rock 🎉👌🏻💙 hotformetour	0.292
+628	ohh silver lake came lot guys stayed	0.20800000000000002
+629	no one wants win wild card play cubs road	0.25
+630	accepted flaws no one use quote mentalhealth psychology depression anxiety	0.688
+631	fret many opportunities life worry one not working	0.342
+632	oh get depression happy think tried thousands times already not helping	0.812
+633	way get hold depressing	0.54
+634	sky news still pushing brexit gloom line managing ignore fact simply not happening future	0.396
+635	defining terms opposition clouded mirror phenomena almost always mistake	0.43799999999999994
+636	stumbling block pessimist stepping stone optimist	0.271
+637	pessimist someone opportunity knocks complains noise	0.396
+638	see difference courting appealing women vs deception amp pressure depressing	0.667
+639	hashtag things kids always tell stop 😭😭😭😭😭 sadness	0.625
+640	thought pretty solid gpa kin major look average dpt programs feel even discouraged	0.812
+641	stopped watching gotham cause dropped tabitha barb relationship made pine main	0.461
+642	refuge recovery boston weds pm healing support addiction recovery buddhism meditation sober cambma meeting harvardsq	0.33299999999999996
+643	doom gloom want hear lovely things airbnb	0.45799999999999996
+644	saw dreams dashed amp amp divided like million stars night sky wished amp amp sparkling amp amp broken	0.583
+645	hi little late lost girl think awesome south afrikaans	0.22899999999999998
+646	eyes stayed glued monitor not turning away anything	0.271
+647	dying dull dreary affair advice nothing whatever somerset maughm	0.531
+648	god knows things happen sometimes hard understand sad prayingforyou	0.875
+649	wish appreciated turn taken care want break tired lost	0.75
+650	liked not moping around episode moment emotional weakness felt sorry	0.46
+651	naoto nod also like tha bands also frown bands papa roach concert	0.43799999999999994
+652	condolences jc georges family	0.708
+653	penny dreadful temporada	0.43799999999999994
+654	aaahhhh little soothe soul music blues	0.19699999999999998
+655	everything dream stayed	0.271
+656	pro lifers condemning menforchoice seen criticize dismal american foster care adoption system	0.45799999999999996
+657	lgbt person tell someone else identify valid sad everything stand	0.562
+658	rich fumes sullen sences cheer	0.342
+659	sad man leaves work little bit late worst fear oh no get stopped police ourworld	0.618
+660	ffs tate thought wind willows serious play wait see play singing badger 😩😂	0.33299999999999996
+661	depressing watch news today bullet news rape wrong people india shameless depressing	0.917
+662	alt hunger pine	0.235
+663	finally watched hungergamesmockingjay morning sadly feel little disappointed toomuchhype	0.509
+664	lost faded	0.7290000000000001
+665	click cupcake no vehicles available sadness	0.708
+666	stay gloomy get cold pls	0.6
+667	dont play master noob want win serious	0.41700000000000004
+668	depression sucks	0.875
+669	kinda depressing hey	0.667
+670	got short fuse im sober	0.312
+671	well stomach cramps not make spin class easier body hate digesting porridge much spinning sulk	0.6459999999999999
+672	returned dead desire clean apartment eat something garbage managing depression	0.667
+673	sad truth	0.5
+674	might donate money stop shit pessimist	0.542
+675	despondent	0.8059999999999999
+676	bought pack two medallion beef steaks got home cooked one steak pork one unhappy mother 🐮🐷	0.396
+677	nearly dropped phone sink hahahaha	0.271
+678	people stealing things work quite damper day going wear pajamas day	0.833
+679	got serious hyper predator heckler situation	0.479
+680	lisa getting want time ultimately leave unfulfilled joyless	0.5
+681	pleased know family blues	0.33299999999999996
+682	one ep despair arc made happy going back future arc upset	0.7290000000000001
+683	shines good deed weary world roald dahl charlie chocolate factory	0.41700000000000004
+684	working blanchardstown shopping centre years figured today marks amp spencer lost	0.41700000000000004
+685	wearing black tomorrow mourn 😭💔	0.917
+686	😑😑😑 lt moment finish netflix series nothing else watch depression	0.75
+687	unfortunate years im still struggling depression smh	0.833
+688	interesting photo mono lisa crying well whole scene depressing ele	0.7709999999999999
+689	dobetter two carriages birmingham hereford no room stand anymore friday commute unhappy	0.542
+690	🙂ty often conflate two depression sadness different reminded mhchat	0.583
+691	need mask gladly make donation help ur name mr ty rex first initial serious	0.312
+692	still trying sort suppose also high expectations sadness	0.708
+693	know truth public figuring words mean nothing unhappy mean troubled vile bully	0.625
+694	nothings working feeling life edgecould go either way lost reason living jesuschristhealssavesask fatloss	0.562
+695	disappointment nhe fakes pout starts chuckle	0.43799999999999994
+696	getting use not phone sad	0.68
+697	mhchat childhood experiences inform adult relationships associative memories not question ability process	0.397
+698	im pretty sure cause ever since saturday ive super sad lol	0.604
+699	pout tips edge definitely agin feic bakes full make boots heels	0.467
+700	joyful hope patient affliction faithful prayer romans	0.21600000000000003
+701	good morning chirpy springequinox pensive sister autumnequinox perfect day however expressed 🌹🍁🌓☯️ thebeautyofbalance	0.16699999999999998
+702	sulky pants	0.396
+703	think val might going week take rest week work mourn sure understand gbbo	0.562
+704	stars shine nyou know feel nscent pine nyou know feel nfreedom mine ni know feel ni feelin good	0.292
+705	want pour tears someone right tired upset	0.938
+706	biggest joke life kardashian jenner stans lives dull parents must proud	0.354
+707	see october th ready tear keeptalkin wreckinso brandonmanitoba country rock blues	0.188
+708	im really constipated depressing	0.812
+709	hi guys lessons via skype contact info skype lesson basslessons teacher free lesson music groove rock blues	0.16699999999999998
+710	keep feeling heaviness left hand look awe every single time 😍💍 notusedtoit imafiancée wut	0.20800000000000002
+711	grim despair feeling look self family hubby fought years country worked years govt gt	0.688
+712	happens vegas origin thats prevelant sadly	0.625
+713	might pout star baker tho	0.312
+714	walk darkness despondency sc verses memorized shine light heart ex lam despondency	0.562
+715	ive felt surprisingly gloomy bad scouts today recognize rng yeah didnt spend many gems	0.604
+716	aqw always stayed art style competition create detailed art time	0.354
+717	fret guy mad elected might get real job	0.312
+718	sadly least years point even low info selfie lovers voted say enough enough	0.5
+719	migraine hangover day stood dishes exhausted gad depression amp chronic pain anxiety depression pain	0.833
+720	let know sober	0.312
+721	beyond sadness point done inside live cptsd bpd always pity party	0.792
+722	jersey gloves dark	0.22899999999999998
+723	ima kitchen sink	0.33299999999999996
+724	blues blues	0.43799999999999994
+725	hope instinct reasoning human mind could kill animal never knew despair	0.562
+726	terencecutcher tulsa man onthe helicopter said looks like bad dude problem see black see bad sad	0.667
+727	candice constantly pout gbbo 💄😒	0.396
+728	service cleveland oh going unhappy	0.8540000000000001
+729	train pitch black outside no idea travel whereami lost adventure	0.43799999999999994
+730	btw offended policy wonks one real proposal eliminate subminimum wage probably good might discourage hiring disabled	0.542
+731	oldest cat pisses always weary kennen senile kinda recently shes sweet attacked bit	0.542
+732	smokeys dad sad	0.6890000000000001
+733	droop leggings wearing xxxl	0.292
+734	true sonicsatam serious bit dark aosth like super goofy looney toonie degree	0.271
+735	feeling horribly depressed despondent life future always knows say	0.562
+736	spooky night disney fortwilderness campground disneyworld powerfailure dark	0.45799999999999996
+737	get lost neighborhood use gps phone find way lost googlemaps blondmoment	0.271
+738	ldf shall weekend spraypainting greenwichmarket core lilylou fret amp benoakley	0.354
+739	person dislikes fall firstdayoffall leaves thingsdie depressing cold noflipflops 👎🏾👎🏽👎🏻🍂🍁	0.7709999999999999
+740	high fantasy feel like could make melancholy college age slice life thing work	0.259
+741	evil corrupt fuck still knocking wrong people die telling job grim reaper	0.583
+742	become dreary also yes	0.43799999999999994
+743	often disturbed people find appropriate acceptable not funny cute adults find stuff humorous	0.604
+744	juniors wearing purple ollafest fighting alarm need wake german sadness	0.6459999999999999
+745	wait hours call back cancel order placed already spending hours phone	0.46399999999999997
+746	trump supporters not clue meaning words used like sad nevertrump	0.6459999999999999
+747	never switched stayed person since day one	0.34700000000000003
+748	turn frown upside	0.27
+749	worst affliction someone know ever convinced	0.45799999999999996
+750	failure delivery time customer pay rupees not good unhappy	0.625
+751	nl top bureaucrat director group formed oppose nl top megaproject nlpoli never dull	0.41700000000000004
+752	fam seems fun photo booth able instantly post twitter wait till sober see hot mess	0.33299999999999996
+753	inadequacy slithers ears wraps around neck like boys wants love mpy vss quote depression poetry	0.562
+754	candice pout gonna take someone eye mate gbbo	0.312
+755	weird time world change enlightenment gloomy weird sigh imaginepeace imaginelove unite	0.758
+756	sometimes think british political landscape desolate look foaming wasteland us think ok	0.43799999999999994
+757	world serious issues go therapy	0.75
+758	huh always fault gt huff sulk	0.7709999999999999
+759	people want go pine ridge little wound oelrichs starting think transferring wanna stay cloud decisions man	0.396
+760	whole hijacked argument argument used ban discourage display st george cross shame	0.636
+761	history repeating gaa culture dare anyone think ok discourage irish person attending match final	0.45799999999999996
+762	leave	0.583
+763	sadly history teacher talked fuck remember	0.604
+764	sad not film story knows could ploy escalate tension unverified report no hype	0.43799999999999994
+765	happy anger sad melancholy confusion woodspurge	0.7290000000000001
+766	aired radio filmed lots fans pond wales	0.188
+767	good already hit rock bottom even though two seasons away new depths despair playoffs njdevils	0.542
+768	lost bag stillwaiting go home indays dm info rung times day wheresmybag	0.542
+769	weeks course kitchen sink thrown still pulling knives forks ears	0.562
+770	marcus roho dreadful	0.521
+771	eun im really unhappy dont like like pls dont nyall okay loves	0.604
+772	haha no sorry grim even disturbed amp im starting lose trust twitter generally	0.479
+773	really offer sacrifice daily keep safe	0.375
+774	rm win game last minutes madridistas say cules stayed long watching rm win end disgusting fanbase	0.521
+775	bain life drive cash point shop change pound coins gym bastard sunbed grim	0.542
+776	hartramsey suplift still discouraged means listening wrong voices amp looking wrong source look lord	0.396
+777	luckily helped good people also managed free depression unfortunately lasted little	0.715
+778	since sober life hard	0.7290000000000001
+779	oh goodness loving rainy day head creative cap amp get lost thoughts kind day ☺️ art create biz	0.25
+780	sad day st day fall dislike fall love summer firstdayoffall goodbyesummer sadness bathingsuitsforever	0.604
+781	goodbye despair	0.5
+782	itching something serious rn slept considering taking like benadryl min nap itching badly wow	0.542
+783	say attract see maybe pessimist wanna take chances lol wait relocate	0.33299999999999996
+784	age times beautiful sad	0.521
+785	dont sad btw good night davina go sleep larh	0.33299999999999996
+786	got paid vacuum rat poop never dull day biology department	0.521
+787	dream last night chris brown created diss track drake rihanna called hit first 😳😳 dark	0.312
+788	official got touch issue not addressed unhappy patheticservices	0.7290000000000001
+789	unhappy	0.479
+790	feel conductor tonight obviously taken grief last weeks sounds weary apologising	0.667
+791	tried get earlier flt day turnd away bcuz late agent let pas silvereliteleftbehind	0.521
+792	stg pine bluff morning piss even damn shoes came size know said 🙄🙄🙄🙄 fml	0.583
+793	hard tell pic mistake either way nothing said initially race took ignorant	0.375
+794	footage didn’t make mix—don’t get discouraged ran room beat week	0.312
+795	yes lia join dark side	0.25
+796	hate ads depression amp mentalhealth meds something doctor determine everyone different ssri	0.46
+797	would frown bit folding arms every time need assistance someone expects lil	0.562
+798	makes somewhat gloomy	0.8
+799	unhappy someone fucking tell unhappy leave go fuckin around people side	0.604
+800	msm relentlessly saying dt win depress gop turnout amp provide cover stolen election	0.604
+801	little hour away arrive soon not fret	0.125
+802	let know	0.292
+803	learning trust god quiet troubled amp restless heart bring peace weary soul amp eliminate hopelessness addiction	0.24
+804	thank shall mourn	0.667
+805	recession economic gloom brightest stars shine darkest nights html webdesign rocks rtblitz finovate wlsb	0.521
+806	foot frowning	0.22899999999999998
+807	miss guy always make sulk	0.604
+808	otherwise committing crime soul sober ppl know good bad	0.43799999999999994
+809	yeah home nstill feeling mixed inside amp kinda gloomy little optimistic figure	0.521
+810	said not not play hrc campaigning oh not discourage rd party vote true	0.396
+811	ordered vacation bathing suits one less thing fret	0.312
+812	red one would look super pretty bronzy glowy nude lip makeup look rd black would pretty dark lip	0.125
+813	nutella pine green forget nots ivory frozen god	0.125
+814	maybe sleep chem book head sink brain	0.43799999999999994
+815	producer mixing mastering songs murky notebook mixtape nthe tape soon free download 🔥🎶💨💯	0.22899999999999998
+816	stayed block almost season got people good game no one seemed	0.33299999999999996
+817	oh dear watch woman pout well	0.43799999999999994
+818	dark room minutes failed every time tried developing photo frustrated	0.667
+819	“optimism may sometimes delusional pessimism always delusional —alan cohen believe	0.271
+820	god give pain mess stress take heavy load amen stress mess pain depression sadness	0.8540000000000001
+821	totally get said no donuts times one week lost lbs get discouraged not linear	0.45799999999999996
+822	not grow weary good	0.325
+823	health think depression feel like	0.75
+824	headed mdw layover slc got food wrong move bailed food amp barely made wannagetaway contest sad	0.75
+825	least crystal every part portrayed wrong dark atmosphere fact mamoru brainwashed	0.613
+826	lost	0.583
+827	hi dom saw notts county away looking mufc away ticket pay blues	0.43799999999999994
+828	cell hold charge sadness	0.604
+829	literally gloomy hour	0.7290000000000001
+830	example catching gloom would yield oddish candies catching vileplume would yield	0.292
+831	perched unfortunately wrapped heavy chains sink	0.45799999999999996
+832	peoplelikemebecause see happy exterior not hopelessness sometimes feel inside anxiety anxietyprobz	0.7290000000000001
+833	well course progress sake progress must discouraged problem substance rhetoric	0.41700000000000004
+834	nso sadden nspunky beautiful dog na sad story lovely happy nan loved dog nplay little one fun nare loved	0.452
+835	would give nto feel sunlight face nwhat would give nto lost embrace fallen	0.562
+836	get weary well faith god prayer	0.20800000000000002
+837	wearing black tomorrow continue mourn lives recent victims police brutality blackout wu	0.779
+838	really want read fic found serious room full memes	0.292
+839	feels like lost best friend lost fml missingyou	0.833
+840	call laying bed moping like intend next months	0.74
+841	stayed school cause nobody	0.41700000000000004
+842	hannah stop mournful chill	0.188
+843	take heart amid deepening gloom dog finally getting enough cheese national lampoon deteriorada	0.521
+844	want help depression give office call learn tms may treatment waiting	0.521
+845	sejejs says cibulskis missed time rd period due injury comment serious apparently not doctor	0.42
+846	amp one like mine comes patchy dark color tho	0.312
+847	hennessey dreadful mutch even pitch fryers depth unfortunately cpfc	0.604
+848	literally eat creamy pesto pasta topped grilled chicken sun dried tomatoes asparagus pine nuts every single day life	0.083
+849	wants body look certain way eats cookies mac cheese kitchen sink small neighbor child	0.375
+850	true also escape almost car sunk	0.312
+851	one point dsp claims yters lost half viewership using direct capture search changes happened	0.271
+852	blessed mourn comforted mt	0.312
+853	aaahhhh little soothe soul music	0.25
+854	never dull moment hope gd trip	0.16699999999999998
+855	“do not fret not cool humans follow become instantly cool bot	0.271
+856	let mrrobot binge begin nerdshow compelling dark	0.22899999999999998
+857	cuddling literally kills depression relieves anxiety strengthens immune system	0.292
+858	honestly depression kicking ass lately	0.8959999999999999
+859	isaiah nthose trust lord find new strength nthey soar high wings like eagles nthey run not grow weary	0.214
+860	know man assume heated argument penis sad	0.583
+861	strong amp courageous not terrified discouraged lord god wherever go	0.22899999999999998
+862	turn frown upside buddy	0.292
+863	september dull get superseptember jumia food new user order place barcelos shawarma amp co	0.292
+864	ff soul blues amp rock band music heart nwith soul amp passion nxx xx	0.25
+865	blame manager watching players play abysmal team dreadful jose save us no one mufc	0.604
+866	good takes muscles frown smile	0.375
+867	think go work tomorrow since val left gbbo need day mourn	0.754
+868	old person handle stuff lol left get back sober	0.455
+869	boy oh boy weekday schedule crazy no matter tired whatever takes keep smile kai face frown	0.33299999999999996
+870	think become buddha recovery addiction sober sobriety	0.33299999999999996
+871	heading home cut grass heat wanna go eat somewhere air conditioned pout adultingistheworst	0.354
+872	nconfidence held despite constant continual doom gloom	0.6459999999999999
+873	feel like appendix purpose sad depressed depression alone lonely broken sadness cry hurt crying life	0.917
+874	gratitude recovery health love god conscious drive hope perseverance wealthy home kids socal recoveryfit youthful sober	0.292
+875	let get drunk tell things afraid say sober	0.303
+876	people already talks halloween nyou get dark music go gothic bloody halloweenhorrornights	0.33299999999999996
+877	well hopes today no go unhappy	0.75
+878	learning college atm sylvia plath stalin purges natural disasters gloomy af	0.792
+879	fellaini playing ahead guy let sink	0.375
+880	thanks making super sad pizza freepizza	0.521
+881	pessimist sees difficulty every opportunity optimist sees opportunity every difficulty n― winston churchill quote	0.23800000000000002
+882	complaining pessimism regret anger get	0.521
+883	depression judging exposing everyone helping	0.52
+884	soooo badly want dye hair dark never dark soooo torn 😭😭😭	0.5
+885	sober equivalent bar women restroom salon everyone compliments amp become friends love	0.271
+886	ok thats weeks not able sign time move amp find another app strongly discourage nikerun	0.5
+887	grim piece laughter stricken day	0.604
+888	supposed dark gritty though	0.396
+889	dentist said going numb front lip feel got lips like pete burns right pout	0.41700000000000004
+890	darius article convinced time money sunk igda past years wasted good read	0.43799999999999994
+891	“dyslexia affliction frozen genius ”― stephen richards	0.33299999999999996
+892	caballero passing remains absolutely dreadful see	0.667
+893	frown cup cheeks hands step aside angela care know else	0.604
+894	it’s possible changing meds best not done stress difficult tell part despair circumstantial drugs	0.688
+895	know mourn loss stitch great escape see kind cost cutting parks really care	0.619
+896	city famous shambles sadly old street centre plays second fiddle stadium debacle nowadays	0.604
+897	feeling gloomy	0.7929999999999999
+898	sober time get shit faced	0.36
+899	well unhappy way played right	0.542
+900	cause fail pass refuse sober	0.604
+901	rappers stayed true game rich	0.20800000000000002
+902	told therapist dance team unhappy	0.521
+903	oh yes males colourful females dull blend environment	0.292
+904	sometimes believe made far days threw demons got sober clean started recovery sobriety	0.25
+905	september still battling situation said handled march year unacceptable	0.6459999999999999
+906	help feel melancholic	0.75
+907	mourn ha ambe ruined ongoing shitpost tony crimes hijacked not vaguely racist memers	0.667
+908	good shorty much offer amp sad niggas even see right front face late	0.521
+909	sometimes takes sadness know happiness noise appreciate silence absence value presence	0.562
+910	loving long otisredding blues	0.292
+911	never taste happiness perfection fortunate successes mixed sadness success perfection fortunate mixed	0.43799999999999994
+912	wearing yellow today bring little sunshine gloomy day yourewelcome	0.396
+913	varsity pine riding	0.20800000000000002
+914	playing yung fav song ni chavs sober	0.22899999999999998
+915	came ba least passengers broken bags new suitcase unhappy customer	0.7290000000000001
+916	wrinkles merely hide frown mark twain	0.33299999999999996
+917	community policing lost	0.418
+918	wish could live reality grieve people never met bad got brothers dying left right	0.8540000000000001
+919	people trying hard hate cam newton without understanding position	0.354
+920	brad pitt investigated child abuse got really dark	0.479
+921	sadly sort poster died afaik	0.669
+922	pussies dark	0.41700000000000004
+923	mom told yesterday looking grim started driving told turn around sick	0.64
+924	aw no problem felt like speaking felt want overcome not discouraged	0.354
+925	pour sink let drink	0.354
+926	removal regardless cost lamentable answer ajvksk	0.33899999999999997
+927	never call sober	0.562
+928	please could clouded passion emotion leads truth	0.45799999999999996
+929	hello fellow horror creepy dark stange story fans day followme followback	0.263
+930	day lost	0.5
+931	long day thank goodness bake brighten weary wednesday gbbo	0.188
+932	no pessimist ever discovered secret stars sailed uncharted land opened new doorway human spirit keller	0.271
+933	back forest drama nfrom forest music series nature dark art photography finland	0.271
+934	serious respect man pull bun better like maybe teach ways	0.33299999999999996
+935	playing september pm demetria taylor blues	0.271
+936	using fear state views not getting facts making serious statement	0.41700000000000004
+937	still favorite person df besides grim	0.375
+938	watched django unchained people may frown titter delight	0.33299999999999996
+939	grim mate	0.5
+940	turn grumpy frown upside nyou something next impossible today	0.396
+941	lol awarded “f” bomb trophy autodealerlive serious	0.321
+942	peoplelikemebecause see happy exterior not hopelessness sometimes feel inside depression anxiety anxietyprobz	0.8959999999999999
+943	per capita income almost like us gini coefficient dismal ambitions high output zero	0.667
+944	sadly dude yell frogs name clinton rally one day changed everything	0.377
+945	haha bro sadly married man 😩😩	0.562
+946	orion eyes narrowed gazed girl ice cold blues meeting softer usual green instinct told	0.41700000000000004
+947	knew going would definitely buy live texas play dfs depress	0.583
+948	lost lbs since got married eating healthy amp ive gone mile mile weeks areyousureimagedout fitness	0.188
+949	feel like singing song human sadness julian cassablancas voidz sad music depression sad sadness	0.7290000000000001
+950	back big time selection last night absolutely buzzing bring roaches sg kickittomehigh nswgaa blues statevstate	0.25
+951	make feel vigorous fine kill said hestia display despair rather joyful	0.5
+952	maybe keep white mouths shut let people targeted speak mourn	0.7290000000000001
+953	well hear girls attracted men look like dad serious	0.188
+954	wonder guy broke penis sex serious	0.292
+955	put damper mood	0.583
+956	honestly feel nothing towards either parents pretty depressing	0.8909999999999999
+957	childood experiences leave permanent deep sadness adult underlie everything mhchat	0.7290000000000001
+958	carry wayward son peace done lay weary head rest cry no supernatural	0.318
+959	weather sure matches mood state today gloomy	0.792
+960	start mournful kick major key last verse good guys win change words existing song	0.562
+961	coincidence turn tv etc amp listen amp watch objective captureyourmind fear amp depression findgodnow	0.667
+962	mannn count many times pr power grid needs serious updating conversation	0.479
+963	see primary care doctor prescribe meds refer psychiatrist eval mess depression	0.521
+964	payet goes either jan seasons end say blame boy must disheartened seeing mo	0.625
+965	know apples turn brown enzyme called polyphenol oxidase reacts oxygen well dull applefacts 🤓🍏	0.16699999999999998
+966	cureforinsomnia left said doom amp gloom trump train much fun	0.45799999999999996
+967	candice pout gets preposterous week week gone bit jack nicholson joker gbbo	0.397
+968	absolutely boring big manchester united fan nd really disappointing see play ths dull boring way	0.625
+969	stayed dubai	0.708
+970	two blankets hoody still no eternal sunshine mope	0.562
+971	ok really sunk seeing hours wow 🙄🙄	0.41700000000000004
+972	messin wait see serious brilliant stuff	0.24
+973	old sadly	0.667
+974	told chiropractor good time not long time questioned habits yet unnerved doctor	0.34
+975	strong cause weak ni beautiful cause know flaws ni fearless cause afraid ni laugh cause known sadness	0.5
+976	nsure mind clouded	0.33299999999999996
+977	call pessimist think therapy fix whatever wrong anthony weiner	0.479
+978	rough situations around schalke werder bremen start campaign bremen dashed late new manager	0.479
+979	honestly know unhappy time want stop unhappy depression itnevergoes	0.8959999999999999
+980	unhappy redbus cc talked week still initiate refund transaction	0.604
+981	think huffing pine tar use bat gripping	0.375
+982	lost friend	0.667
+983	sigh depression saddness afterellen shitsucks	0.917
+984	amateur author twitter might depressing thing ever seen	0.688
+985	thanks making super sad pizza sad freepizza	0.5
+986	n— momentarily disappeared solemnity anxiety lacing features ran get	0.6459999999999999
+987	heading home cut grass heat wanna go eat somewhere air conditioned adultingistheworst	0.685
+988	nigga even look real family 🙄😂 sad	0.7290000000000001
+989	someone tells needa smile like excuse frowning even harder happy	0.5
+990	charlotteprotest wait facts video hate ask questions later sad protest policeshootings suggestions	0.7709999999999999
+991	season penny dreadful netflix well afternoon filled	0.33299999999999996
+992	team big bayern like play football pitch fucking dreadful certainly no emirates pitch anyway	0.542
+993	season greys anatomy premieres today season sadness	0.625
+994	lost heart dark underneath stars	0.43799999999999994
+995	cope wi sour face tiny pout 😡😡	0.625
+996	morons smfh lackadaisical	0.41700000000000004
+997	mixed emotions sadness anxietymaybe missingfriends growingupsucks lostfriends wheresthetruefriends complications	0.667
+998	sorrow grim reminder bad video games could get bit trigger happy times rip mgs	0.604
+999	last weeks dreadful opening old wounds gossip others evil spill thier lips melancholy sadnnes	0.8540000000000001
+1000	life short dont shoot worries sadness grief	0.6459999999999999
+1001	regret things tempered time regret things not inconsolable sydney harris	0.354
+1002	wanna go work want money sad	0.7290000000000001
+1003	hurting ndoesn mean hurt ndoesn mean get nwhat deserved nno better no worse lost	0.583
+1004	think fully sunk val gone yet	0.654
+1005	ghanaians need wear black mourn tho walk naked dodges stones na joke na☹	0.375
+1006	genuinely grim stuff century history sold porn baron twats minty new stadium urgh	0.624
+1007	give smiling emoticon ya dont like idea frowning gt lt	0.41700000000000004
+1008	shoutout drunk man bus pissed bottle seats	0.436
+1009	getting excited play main stage sunday oct jazzholiday riesbrothers rock jam	0.16699999999999998
+1010	change dark images look different look like forest	0.43799999999999994
+1011	common app randomly logged writing last part college essay lost 😭😭😭	0.833
+1012	literally makes depress tbh	0.708
+1013	ah lost mah train thunk	0.41700000000000004
+1014	hope goal comes soon either side otherwise serious threat dull frustrating game coys	0.479
+1015	second artist announcement looking good bluesfest blues music byronbay	0.083
+1016	gaaaaaaaad stayed london	0.562
+1017	watching uni reveal depressing miss stingrays	0.667
+1018	americans whole part feeling borderline despair least looking situation control	0.688
+1019	might even verge depression	0.875
+1020	always sober said drunk teach keep mouth shut n― ernest hemingway quote	0.479
+1021	rooney yards pace league cup game northampton town let sink moment mufc	0.292
+1022	questions get twitter make want despair battered complain convinced things could better	0.625
+1023	surrounded trump voters right fucking terrifying redstate despair	0.833
+1024	im serious putting words mouth bitch add sentence say shit bloods	0.45799999999999996
+1025	worst possible decision could made arriving uk shocking service poor coverage	0.479
+1026	heart sunk	0.833
+1027	taurus part perfect control emotions careful not sulky around anyone	0.354
+1028	lost day snapchat streak done	0.47700000000000004
+1029	starved content take def pout ՟ິͫઘ ՟ິͫ	0.5
+1030	wish anxiety depression even worst people not fun anxiety depression	0.833
+1031	step get rid step prioritise football step profit depressing	0.667
+1032	want highlight bright ever get lost someone looking dark find	0.188
+1033	frown let distraught gardevoir saying wishes trainer	0.479
+1034	condolences jc georges family sad	0.7709999999999999
+1035	depressed suicidal person seeing someone sing depressing life yet fun relatable encouraging	0.667
+1036	sad talk someone ya past fucked thing like people really hearts	0.812
+1037	noh sorry not sad nothing important world grieve	0.625
+1038	went pet supplies plus tonight not working feel lost confused	0.45799999999999996
+1039	see eliminate hanging tongue campaign dismal failure	0.479
+1040	horrid disease maternal grandmother sisters suffered affliction hard	0.75
+1041	sigh saddness afterellen shitsucks	0.875
+1042	no sitcom better laugh sheldon leonard sober real no two ways	0.396
+1043	sadden always strive bring best service customer always cm	0.521
+1044	probably hunger depression dissociating equals weird time anything else	0.75
+1045	sadly not one less hour drinking time 😢🍻	0.667
+1046	hard tell pic mistake either way nothing said initially race took sad ignorant	0.6459999999999999
+1047	used beautiful lived life fast forest city joe blues blinddogradio	0.39799999999999996
+1048	need serious nap rn	0.396
+1049	gatherp th strength not try drink pain away sober fighter strong lovely dreamer	0.479
+1050	god replaced sadness laughter go whole day sad	0.271
+1051	thing dark curly hair	0.196
+1052	begun ladies gents war racism begun sadness segregation continues smh	0.75
+1053	picoftheday really funny picoftheday lol random laugh chair despair funnypics virgin cafe	0.146
+1054	pretty clear stand no tolerance habitual liars not trump fan either citizen despair	0.6459999999999999
+1055	found candice not candace pout likes	0.271
+1056	not nap days row unhappy rn	0.7290000000000001
+1057	need advice get rut depressing needmotivation	0.7290000000000001
+1058	says maw day wanna day sober october way says ave mer chance movember son classicmoira glasgow sober	0.41700000000000004
+1059	cops chillin pine lakes	0.146
+1060	love made feel bad scared dark	0.604
+1061	honest hope annoying southern bint look pout goes week selasi ftw	0.298
+1062	serious	0.292
+1063	expect women violent amp discourage really raising boys	0.322
+1064	sad	0.7290000000000001
+1065	pretty dejected fancam way scfc tbptv	0.583
+1066	sober better roll another dutch smoke nigga better pour another cup 🍁🍾	0.312
+1067	weeks still go depression smh	0.917
+1068	god deliver righteous place salvation no evil shall touch them، shall grieve	0.312
+1069	right feeling pretty desolate	0.833
+1070	owned losers twitter	0.542
+1071	thank much home stunned happy think sunk yet wow	0.10400000000000001
+1072	hubby noah shares somber thoughtful photo one dami ponytail standout highlights beautiful picture nice	0.312
+1073	depressing week full rain ever lol	0.7290000000000001
+1074	man southampton wipe floor west ham sunday disheartened	0.667
+1075	gabe worst part get hot status month no chipotle near enough campus sadness	0.642
+1076	pull depression	0.938
+1077	leeds surely drop prices cup tie rather dismal attendance last night	0.479
+1078	yes many cops many ppl lost lives still alive	0.688
+1079	age see gray gray bad eyes perspective depression healingjustice	0.8959999999999999
+1080	home sick 🎼the blues🎼 cure need ideas 🎸😭 sorethroat sick blues music fallweather carletonuniversity ottawa	0.833
+1081	sometimes worst place head quotes worstenemy thinktoomuch	0.7290000000000001
+1082	say anything bad situation great mate believe makes despair humanity	0.583
+1083	love big family never dull moment house	0.083
+1084	i’ll look forward hoping lots stetson tilting rueful looks whiskey glasses	0.33299999999999996
+1085	looking nice forward playing paper dress vintage hackney evening get early pm blues	0.243
+1086	depressing	0.7290000000000001
+1087	feel like no one twitter anyone see write sadness rants	0.8540000000000001
+1088	hope refuse depressing	0.792
+1089	cant live anymore roblox got termianted sad killme lol robloxgamer	0.792
+1090	block trying discourage us	0.479
+1091	sorry hear issues making feel like hear customers unhappy	0.43799999999999994
+1092	honestly today felt like maybe track	0.583
+1093	public products high downhearted price tag consumer survey sum substance ovth	0.354
+1094	feel like lost family member🙄😂	0.708
+1095	sometimes worst place head quotes worstenemy depression thinktoomuch	0.8540000000000001
+1096	pretentious dick night gallery fucking used towel dry sink	0.396
+1097	job job people still sane still ok life help lost find amp love eachother	0.214
+1098	got asked hoco instagram dm bc someone lost bet love maturity people grade	0.25
+1099	literally guy would say successful guy tell ship sail kay guy first working sub last sunk	0.479
+1100	depress	0.812
+1101	much time give friend lost laptop mourn ask give laptop charger extra battery	0.271
+1102	many things care many things speak heaviness even released	0.625
+1103	need beats instrumentals serious artists	0.25
+1104	thing twitter remember tweet bored alone comes across like really dull sad life	0.6459999999999999
+1105	marcos rojo marcos rojo running wing loved blues feared reds	0.292
+1106	untypical kinda friday dull	0.542
+1107	not fox news fox propaganda network lost lies tell truth hit face	0.43799999999999994
+1108	standard candice starting show pout startasyoumeantogoon gbbo	0.354
+1109	hopefully next time play team players scores takes shirt amp jumps away end purely wind joyless cunts	0.396
+1110	grim insanely determined hurt	0.575
+1111	garbage obviously like suck still grim watch	0.542
+1112	us born no generation gen less tribe ha survivor lost soles	0.354
+1113	blame spoke room kicking chair beneath amwriting dark	0.479
+1114	no blues	0.33299999999999996
+1115	guess watching great grandad sink titanic	0.292
+1116	criminalized posting pic brown frown get pic jack cookies diesel join	0.479
+1117	well hear girls attracted men look like dad	0.25
+1118	really pedal like nutter get anywhere remember sedate	0.355
+1119	get discouraged simple minds see vision	0.375
+1120	hurting features get tad somber attempting sense temperature	0.375
+1121	get discouraged try fucking years contact lady gaga thousands tweets would see tweet	0.583
+1122	sad music	0.562
+1123	tend going get infections nhe frowning looking nit must hurt damn	0.475
+1124	business class los angeles dublin destroyed luggage day customer response time unhappy customer	0.583
+1125	friend lost phone long mourn lost phones ask earpiece	0.45799999999999996
+1126	depressing despicable trump no policies campaigning bigotry amp rancour close evil immoral disaster	0.708
+1127	pessimist complains wind optimist expects change realist adjusts sails william arthur ward ignite	0.271
+1128	urgent need get new job constant gloom current one getting bit ridiculous	0.7709999999999999
+1129	honestly come place keep getting discouraged gotta tell keep pushing	0.7290000000000001
+1130	first time slough checked new station floor sad lifeontheroad	0.43799999999999994
+1131	long day kind tweets melancholy defeats	0.542
+1132	put winter duvet ☃️❄️🌬☔️ serious	0.312
+1133	life one word depressing	0.917
+1134	feels like no houses us basic requirements literally no options discouraged	0.7290000000000001
+1135	going reports sky stoke played ok tonight think stay messageboard tonight though grim	0.6459999999999999
+1136	looking good promoter rock blues	0.188
+1137	niggas murking murky water try swim	0.43799999999999994
+1138	george establishment unhappy trump campaign branded son low energy could not beaten others either	0.521
+1139	well evaluation came back minimally effective student test scores parcc sunk eval time quit teaching	0.812
+1140	reached followers wow thanks blues mcfc ctid	0.25
+1141	night room polluted syringes notebooks shadows moving kind night away melancholy away	0.633
+1142	forever straight fix frown good😇	0.083
+1143	grim find broken matt hardy delete everything lol	0.292
+1144	anybody know good place book show montreal short not super short notice punkrock postpunk blues	0.22899999999999998
+1145	waitress recognised last time moping interview haha	0.5
+1146	wish could someday come spain play believe not going see sad	0.708
+1147	refuse let get discouraged	0.292
+1148	honestly give af wins us pine worried getting drunk saturday night😂	0.20800000000000002
+1149	no last two bidded got kinda discouraged taking sweet time market stupid tho	0.583
+1150	even hard facts seem sinking despair	0.75
+1151	sunderland time line quite funny doom amp gloom facing us long trip us midweek whatgoesaroundcomesaround	0.41700000000000004
+1152	feels grim not nails done	0.542
+1153	sulk much good	0.8959999999999999
+1154	get much pussy np panic attacks nu uncontrollable anxiety ns suicidal fantasies ns sadness ny yearning death	0.833
+1155	loyal heart concerned somber	0.688
+1156	buying art supplies debating serious buy acrylic paint	0.375
+1157	jeezus god	0.271
+1158	trial result sadness	0.7290000000000001
+1159	give blue guitar stand main character sort skim read end got grim unsettling	0.583
+1160	oh btw month depression free time got relapse superb	0.75
+1161	decided bit lackadaisical getting dressed get groceries	0.41700000000000004
+1162	hmu need players lans next year dm need serious players im org	0.125
+1163	need sta dating bored redheadteen boldandbeautiful lost aday single men dating schkeuditz	0.312
+1164	know guys sink game build team play solos hear make nothing solos	0.271
+1165	there’s shaytan room wallahi dark time lamp omg shaytan	0.33299999999999996
+1166	told wife chance would sydney teams afl grand final response two sydney afl teams serious	0.375
+1167	sadly beautiful photo	0.375
+1168	no sudden sunk yet leo knew coming	0.542
+1169	need syfy series watch literally nothing watch back back already watched heroes lost jericho fallenskies etc etc	0.312
+1170	please sulk defeat come head	0.25
+1171	momma worse tony sopranos momma wow history major	0.41700000000000004
+1172	week awful connectivity no service not im paying unhappy poorservice	0.87
+1173	want pity instructors like understanding truly trying despite circumstances make discouraged	0.625
+1174	make sure young breadrins sling us quick vote murky skeng votage	0.292
+1175	together hermione lowered voice slightly sounding somewhat bitter perhaps even rueful would get	0.3
+1176	penny dreadful cleaved fraction heart	0.521
+1177	happiness always choose see no point dwelling dark ignoring light stars	0.16699999999999998
+1178	final analysis non white global majority not fret ethnic origin corpses	0.45799999999999996
+1179	serious fredsirieix lives peckham south london love guru big	0.312
+1180	let behavior others destroy ur inner peace dalai lama healing depression anxiety intuition meditation book	0.583
+1181	let us not burden remembrances heaviness gone william shakespeare forge ahead	0.604
+1182	think need experience bit madness amp despair stuff makes us human	0.521
+1183	many happy memories isle wight nbut yeah sink shit	0.479
+1184	melancholy hill	0.688
+1185	sadly go bed announce anything gone thank love	0.41700000000000004
+1186	guys read fanfiction like lost housemd one tvshow link bio	0.188
+1187	tried get earlier flt day turnd away bcuz late agent let pas silvereliteleftbehind unhappy	0.667
+1188	brave young individuals opened us depression anxiety help raise awareness	0.479
+1189	anyone noticed stories recent days paint positive accomplishments trump challenges hillary surprised	0.33299999999999996
+1190	way thinking wants absolute hope born absolute despair	0.583
+1191	cam cannot serious ig post stupid ass font uses would better say nothing	0.396
+1192	really sad order goods china likes internet fraudsters government really	0.625
+1193	could work serious	0.354
+1194	clean sink make bathroom shine	0.121
+1195	let know	0.3
+1196	working blanchardstown shopping centre years figured today marks amp spencer	0.292
+1197	spending offered voucher asked could spend weekend told no valid today unhappy	0.8140000000000001
+1198	patti seems sad stamped ran behind sofa give plenty love affection usual sad	0.7290000000000001
+1199	playing bridge bar sat th sept blues rhythmandblues ramelton donegal	0.254
+1200	ms btw lied remain dry remainer tears accept lost	0.625
+1201	never leave alone credit card nope nope mope	0.45799999999999996
+1202	depressing darker much earlier	0.75
+1203	invest new film stop asking invest new film concessions crime despair shortsightedness celebrities	0.45799999999999996
+1204	bc gloomy day tony	0.625
+1205	henny pine apples	0.20800000000000002
+1206	tomorrow last episode despair arc much shit gonna happen not emotionally prepared	0.7290000000000001
+1207	momma worse tony sopranos momma wow sad history major	0.583
+1208	hit sink hammer sorry universal modifier	0.375
+1209	still waits yang guess really needs sleep something kittens feeling kinda dejected right offline	0.542
+1210	gloomy ass day	0.888
+1211	nephews cousins nowhere near bad guys could killed moment cop thought bc color sad	0.812
+1212	supine piano—lips parted sixwordstory amwriting blues singer	0.312
+1213	dad asked hungover function today little know stayed sober last night could get shit faced tonight	0.271
+1214	nbreath trending despondent mrs clinton win keep gloves guard punch like hell	0.41700000000000004
+1215	name change uncle remus lewis foh theydontlikeyoueither unwoke	0.414
+1216	nice italian ice cream whilst resting tired paws honey flavoured naturally furrytails lost venice	0.271
+1217	im gloomy today	0.7290000000000001
+1218	“we easily forgive child afraid dark real tragedy life men afraid light ”–plato	0.45799999999999996
+1219	sadly constitutional right abortion yet constitutional right life safety net protects rights	0.514
+1220	idiots going sink economy free money policies	0.375
+1221	fashion week year dull af someone inspire	0.43799999999999994
+1222	oh sorry discouraged	0.396
+1223	moment nif kill spirit die natural murder suicide racism pride	0.583
+1224	actually pretty well learning manage depression nlife yeah cancelled	0.604
+1225	news disheartening everything going result lack understanding misinformation media sadness	0.7709999999999999
+1226	season looking point depressing royals	0.688
+1227	never let see frown	0.312
+1228	want make plummet depths despair	0.604
+1229	cant live anymore roblox got termianted killme lol robloxgamer	0.625
+1230	go going blow serious money idk sacrifice willing make	0.375
+1231	wait listen new single mystery new album😋 newmusic newsingle newalbum popmusic dark	0.146
+1232	guess sober	0.188
+1233	quote say know without ever lost find like saying know everything	0.312
+1234	well old stubborn facts amp history discouraged	0.442
+1235	whenever pout want adrian appear tell stop pouting else	0.583
+1236	wanna go work want money	0.5
+1237	know optimist would despair	0.53
+1238	someone keeps laughing fret least giving happiness quotes quotestoliveby	0.22899999999999998
+1239	drugged raped women least barb sober consenting	0.396
+1240	god knows things happen sometimes hard understand prayingforyou	0.529
+1241	grown ass lil boys yeah take serious	0.235
+1242	nigga even look real family 🙄😂	0.25
+1243	would appear good year blues	0.5
+1244	sadly david no longer us imagine together wow	0.5
+1245	getting close poll many ignorant ppl depressing painful something needs change bethechange	0.8540000000000001
+1246	honestly care selasi not messing lackadaisical attitude good danishes	0.396
+1247	left maine sadness	0.7709999999999999
+1248	fact wear bra week knowing start wearing one tomorrow depressing 🙄🙄	0.6459999999999999
+1249	heard backback guess call blues amp got look sing tickle sacks version	0.375
+1250	no gaming video today old friend mine passed last night taking time grieve thank standuptocancer	0.792
+1251	speech bold coz written pm ns bt expression tone dull dim	0.46
+1252	vas ir al de amaity affliction	0.396
+1253	life hard harder ur stupid life love sadness sadderness moreofsad howdoestears whatislife	0.847
+1254	candice standing pout face aggravates every week	0.33299999999999996
+1255	health insurance cover tms let know cover ect mentalhealth psychology depression tms ect	0.8109999999999999
+1256	fret scuffs i’ll take scuffs which…come phone use wet handed drop toilet day	0.354
+1257	teeth sunk vein poor woman accidentally small problem engine outside	0.479
+1258	flirt simper pout repeat yuck	0.625
+1259	solution punish criminals way discourage crime circle continue	0.479
+1260	feel grim ugly atm	0.8959999999999999
+1261	mc listen days nbogum days feel gloomy listen ccm spiritual song often nchurch oppa mode	0.583
+1262	hoping hear serious tonight	0.312
+1263	show respect havent go war cant say anything havent lost friends mates war ahut	0.583
+1264	hate sober popped two	0.653
+1265	super sad especially talking real person not bot makes feel real	0.75
+1266	angry shouting match pessimist amp optimist half empty headed half full	0.542
+1267	someone needs tell candice stuck shitty pout wind changes gbbo	0.521
+1268	honestly today felt like maybe track sad	0.708
+1269	checking work today coffee drank serious business thursday bring friday	0.33299999999999996
+1270	moment day start plaster smile face depression	0.8540000000000001
+1271	day next week catch sauce watch heaviness	0.25
+1272	weeks full mondays end disheartened	0.688
+1273	sadly missed crucial important points indian terrorism pk kal boshan etc raw involvement	0.563
+1274	added years syrian conflict arming rebel army would think iraq sunk kerry	0.41700000000000004
+1275	get cross apple tree pine tree 🍎🌲 nnothing cross pollinate deciduous coniferous trees	0.146
+1276	well unboxing iphone plus channel november sadly thank staten island ny smh	0.431
+1277	shoutout drunk man bus pissed bottle seats grim	0.5479999999999999
+1278	pops joyless soulless toys look nearly identical perfect expression consumerism enjoy franchise	0.354
+1279	usually not one rush colder weather year ready hot coffee dark lippies scarves sweaters amp boots 🍂👢☕️💄	0.146
+1280	still not sunk im seeing joe next month im grateful excited shit	0.135
+1281	yes discourage	0.292
+1282	doese reading help depression another form escapism	0.667
+1283	im think ima lay bed day sulk life hitting hard rn	0.934
+1284	easy fall asleep class hard bed true whileyouweresleeping insomnia teamfollowback rocktheretweet	0.41700000000000004
+1285	corbyn loses walk crying corbyn supporter whisper mourn organise nand laugh laugh	0.354
+1286	although expect trumpie understand difference real things pretend things sad	0.6459999999999999
+1287	good morning lovely people not gonna lie woken feeling pretty glum	0.754
+1288	lose somebody close heart lose well lost	0.917
+1289	got little pout	0.271
+1290	great places listen blues nightlife nightlifeent blues jazz gatewayarch stlouis washingtonave	0.22899999999999998
+1291	hate knowing get half gym morning depressing	0.667
+1292	shantosh crazy would walk past talk person everyday never realizing suffering depression	0.688
+1293	contact shocking experience clear sky holidays booked guys customerservicefail dreadful	0.542
+1294	know painted quite grim picture chances simply stand surely die	0.7290000000000001
+1295	easy fall asleep class hard bed true sober whileyouweresleeping insomnia teamfollowback rocktheretweet	0.5
+1296	candice great british bake pout head 👊🏻🙄	0.43799999999999994
+1297	somewhere hope despair day meetingmyabuserincourt dvsurvivor	0.81
+1298	fought racist girl stayed gavc get kicked call bs	0.479
+1299	summer officially ends today sadness	0.812
+1300	confident never experience successes last yrs best hope another bournemouth sad	0.542
+1301	god love spring one dat sunk whole estate paltry bribe single apple–n yet proud ancestry ❤️🗿	0.271
+1302	bk top pack midfield stifle flair possess kill entertainers dull reshuffle predictable slow average	0.43799999999999994
+1303	btw really stay bed day today depression hate lied fuck liars	0.8959999999999999
+1304	got mybrokenfoot running great north run wait run months time mostly dark ukrunchat	0.41700000000000004
+1305	soldiers war zones held higher level rules engagement police officers	0.583
+1306	name lord amp saviour harambe pray bless apes across world nhear solemn oaths pardon sympathetic hominids	0.33299999999999996
+1307	know man assume heated argument penis	0.354
+1308	no gbbo us tonight sadly got date nachos bridgetjonesbaby	0.43799999999999994
+1309	muscled man huge heart messing brain heart lost confused	0.625
+1310	ravenclaw sadness shouldhavebeenhufflepuff	0.542
+1311	california sissified pages ruling class separation passage dispirit attestative alphanumeric code wyrdljpyu	0.292
+1312	salaams may allah protect sadness illness harm amp nazr bad aameen stay blessed	0.312
+1313	krusty krab nno crippling depression	0.688
+1314	heard talk something miss looks weary	0.45799999999999996
+1315	im thoroughly love zen jumin dont think id even patience either irl im old weary	0.45799999999999996
+1316	haikuchallenge haiku nthe crisp autumn air nmy freedom purchased death nno one mourn	0.708
+1317	groom gloom	0.7659999999999999
+1318	happy birthday lost lost dharmainitiative years september oceanic	0.271
+1319	comes syria get fucking annoyed pessimism like get full triggered optimism gtfo	0.583
+1320	owned losers twitter sad	0.583
+1321	dreadful even met catfish still thought	0.542
+1322	no easy ride child cries oh find find nothing nwe sullen misty moor	0.667
+1323	hmm somehow twitter feels really depressing like negative today think missed something	0.75
+1324	feeling worthless always	0.958
+1325	get embarrassed slightest things fret day hate	0.742
+1326	feel like appendix purpose depressed alone lonely broken cry hurt crying life	0.833
+1327	not struggle not affliction youarestrong amp youarearising	0.271
+1328	special thanks amp keeping us updated amp entertained dismal bb season	0.25
+1329	basically dead skin peel sounds grim literally gets rid much dead skin pores	0.354
+1330	sav tells mom love responds oh	0.41700000000000004
+1331	often disturbed people find appropriate acceptable not funny cute adults find stuff humorous sad	0.7290000000000001
+1332	erykah badu sedate	0.375
+1333	add donte moncrief dismal situation blessed	0.561
+1334	watching makes weep tears joy tears sadness gone	0.6459999999999999
+1335	pfft yeye sucker bright yellow red pink blues comes coloring backgrounds haaa	0.146
+1336	sav tells mom love responds oh sad	0.667
+1337	man imagine ultra promoting carnival think need chairperson serious cause hearing nothing	0.542
+1338	mourn creativity lost	0.562
+1339	king actions really sadden today word may not power still cringe hear	0.667
+1340	serious man practices no religion church campaignin	0.396
+1341	think swallows swifts gone photo nights ago not seen since sad autumn	0.7290000000000001
+1342	get parents literally see unhappy lately	0.792
+1343	sucker pine wanna rake wanna pile sucker pine fallsongs	0.20800000000000002
+1344	whenever hear concert postponed think dismal ticket sales green day	0.5
+1345	depression	0.542
+1346	sure hell helped depression still	0.485
+1347	one not sad wtf	0.583
+1348	took melancholy turn point difficulties still happy happy get	0.33299999999999996
+1349	nothing else could possibly put damper day rays someone kickinnnnn ass breath	0.396
+1350	thing either unproductive unhappy deal videos badly	0.574
+1351	even looks like okay reality actually worn forlorn	0.667
+1352	thank giving free coffee bringing reusable cup airport st time saw one depressing	0.625
+1353	nail half hanging absolutely fucking grim even acrylic holding 😷😷	0.604
+1354	told pine want	0.354
+1355	ripkara could seen local mall school football games im disheartened	0.6459999999999999
+1356	new job training much meat eating oh well also got approved drive lyft need car day sober	0.312
+1357	leave sad	0.875
+1358	lauren jauregui makes problem dissapear amazes sadness keeps strong	0.292
+1359	voice miley alicia year no longer contestants sad	0.604
+1360	many yeah thing going cops shooting innocent people sad not backyard blm	0.708
+1361	positive thoughts gloom cloudy days	0.43799999999999994
+1362	endless journey figuring discouraged know yet	0.375
+1363	word happiness would lose meaning not balanced sadness	0.479
+1364	come let make em hate 😘make em pout face 👿😩	0.562
+1365	turning older woman looked sybil somber expression n“she ran away cannot blame	0.426
+1366	im unhappy	0.8540000000000001
+1367	texans astros shut tonight houston back normal texans astros sadness losers	0.688
+1368	cum despair	0.7290000000000001
+1369	may alwayshungry sunk low yet	0.312
+1370	think rucksack laptop possession murky business note away bed	0.5
+1371	fogo max pessimism no bottom yet solid pe ratio restaurant let catch level level comes	0.43799999999999994
+1372	serves gloomy higher wolves village	0.45799999999999996
+1373	oh see seen many people mourn loss surprised see tweet suppose old sa	0.604
+1374	want watch netflix stuck class depressing	0.667
+1375	sunk meeting twins	0.396
+1376	angelina jolie keep man no one today mourn love dead	0.6459999999999999
+1377	rooney whipping boy mufc sad	0.805
+1378	first coat pair sunglasses next limb lost	0.583
+1379	time despair sdr despair fuckthisanime	0.75
+1380	brawndo cure depression idiocracytoday	0.7290000000000001
+1381	alcohol sadly flares specific circumstances need careful	0.562
+1382	think luca understands serious fall no idea store 😂😂	0.20800000000000002
+1383	allowed sulk	0.7290000000000001
+1384	even get started hillary fancy fundraisers depressing	0.688
+1385	dreadful franglaise	0.345
+1386	weary task fordone nnow wasted brands glow nwhilst scritch owl scritching loud amndbots	0.45799999999999996
+1387	ending met mother dreadful	0.41700000000000004
+1388	wheel grow older become aware individuals dull responsibility life	0.396
+1389	yeah friends minw witnesse accidents road near like cars hav like sunk ih gosh safe okay	0.562
+1390	get either bits started drooping droop gp said mooncup alone blame	0.625
+1391	interview preparation hate talking one dull subject matter yawnoff	0.396
+1392	know right tinge thought glad six bsg though happy show stayed consistent break	0.28300000000000003
+1393	head think better obviously not relapse sadness sickness madness misunderstanding	0.688
+1394	something confused type entire word see laugh hour sadness almost passed	0.396
+1395	going affliction cure shiro	0.479
+1396	wish could someday come spain play believe not going see	0.354
+1397	winner champion school lastyear gouniversity university dark black webstagram blackandwhite	0.20800000000000002
+1398	times thought never sober still grace beyond limits 🙏🏾	0.396
+1399	animals animals ntrap trap trap till cage full nthe cage full stay awake nin dark count mistakes	0.41700000000000004
+1400	moment nif kill spirit die natural murder suicide depression racism pride	0.75
+1401	like keep grinding boy life change one year even dark sun shining somewhere	0.41700000000000004
+1402	quite simply worst airline worstairline ever used shocking appauling dire dismal beyondajoke useless	0.667
+1403	tune snapchat beans funereal	0.5
+1404	nasty nasty chilly rain put damper afternoon cigar not good thing four congresscritters tomorrow	0.708
+1405	sometimes people leave halfway wood not let grieve no one leaves good youarenotalone nooneisalone	0.41700000000000004
+1406	serious intermediaries required info project owner mailed	0.25
+1407	great tournament chair award serious	0.132
+1408	yeah sure depressing talk parents phone instead talking downstairs	0.833
+1409	gloomy outside wish cold looked	0.542
+1410	sadly idiot completely overlooks facts gun pointed police stupid ignored	0.542
+1411	patti seems sad stamped ran behind sofa give plenty love affection usual	0.562
+1412	added paul walker xbox spends time dashboard dark humor funny	0.271
+1413	bedrest since got hospital find unopened beer pour shit no alcohol sober	0.44
+1414	conflicting reports mama ritamarley health mannn woke today feeling like mi ole self rejoice dis sadness	0.604
+1415	bts 화양연화 trilogy mv time fav🙌 quite gloomy beautiful well✨	0.33299999999999996
+1416	lol senior year would get early dismal work study boss know happened next	0.354
+1417	know smh heart sunk stomach	0.762
+1418	oh play capo nd fret position rs	0.292
+1419	lmao imagine frown across face hilarity	0.271
+1420	fault worked hard stayed course eventually paid no let known count	0.354
+1421	heart left long slight pout turned smile nheheh kidding no fine	0.33299999999999996
+1422	pet end things hand ye therefore sober watch unto prayer	0.479
+1423	not type flee adversity discourage always stand strong paint	0.354
+1424	tried give time sober waiting friend house hours later gal wake nap vomit	0.43799999999999994
+1425	mean “like uber despair someone driver	0.479
+1426	grapefruit squash gone not able get weeks unhappy	0.562
+1427	kitchen sink not kitchen sink okay friend	0.33299999999999996
+1428	frustration looking elphaba frown aggravation high pitched voice growing	0.479
+1429	worst possible decision could made arriving uk shocking service poor coverage unhappy	0.7709999999999999
+1430	well no need sulk always request song know	0.43799999999999994
+1431	welcome dark honey	0.312
+1432	rockin bob dylan singin bob dylan th dream lpco klassic rock classicrock klassicrock rocknroll blues onlineradio	0.188
+1433	sound like vampires saying wanna sink teeth tt lads talents 😂😂😂😂😂😂	0.292
+1434	people weak follow dreams always find way discourage	0.562
+1435	depth sunk readership deserves	0.41700000000000004
+1436	rooney oh dear oh dear fucking dreadful 🙈⚽️⚽️	0.625
+1437	life hard harder ur stupid life love sadderness moreofsad howdoestears whatislife	0.8540000000000001
+1438	doe run opposite side	0.625
+1439	nice see balotelli back best good player lost way bit	0.16699999999999998
+1440	mourn kid cudi cause travis scott	0.22899999999999998
+1441	gundlach calling rounding top doom gloom move	0.521
+1442	house granddesigns forest wibbly wobbly pine plantation	0.271
+1443	believe work meaningful clients would agree end day feel like pawn lost chaotic world	0.625
+1444	people trying hard hate cam newton without understanding position sad	0.604
+1445	not worthy enough know serious	0.45799999999999996
+1446	dishes yesterday fell asleep woke sink full even eat dinner dishes	0.625
+1447	throwing straight american horror story time grieve	0.655
+1448	ya boy gets mad tired pine trees	0.292
+1449	contactless affliction kart needs must regarding psychological moment xbeujgb	0.375
+1450	absolutely not believe generosity pouring us id give everything nick healthy happy lost	0.542
+1451	heads still ibiza body sat desk work depressing	0.875
+1452	nlikewise death cutting despair	0.7290000000000001
+1453	grim really	0.688
+1454	nooooooooooooooooooooo stupid dismal lame winters maybe get dangerous ice	0.6459999999999999
+1455	got bitch depress	0.542
+1456	really planned making videos week tv died phone broke truck died depression took wondering karma	0.871
+1457	regret things tempered time regret things not inconsolable sydney harris	0.542
+1458	well go one two ways either get accept not going change mope	0.45799999999999996
+1459	son friends facebook yet moping around house complaining no one talk right son	0.479
+1460	tummy full steak wine key lime pine cuddles tap way turn around stressful wednesday	0.188
+1461	free live music dc tonight blues moonshinesociety loft starting pm	0.188
+1462	porkistan lost terribly american intervation talk stopped	0.5
+1463	barroso going goldman getting serious self inflicted problem	0.45799999999999996
+1464	not fan beat happening not discourage aspiring olympia musicians kuowrecord	0.27399999999999997
+1465	im worst week ever cant even go home yet sulk bed	0.8540000000000001
+1466	folk band thistle replaced paul edwards quartet laurel bank park sat pm due ill health jazz	0.271
+1467	italy another round lets not drop play take big result guys blues	0.312
+1468	drunk people annoy sober lol fact teamfollowback rocktheretweet	0.375
+1469	never taste happiness perfection fortunate successes mixed sadness success sadness perfection fortunate mixed	0.604
+1470	whenever feeling sad listen monsta hug teddy bear always feel better	0.604
+1471	another grim amp compelling news report blockade aid starving yemen bbc dosomethingpoliticans	0.708
+1472	litany name calling dull	0.39
+1473	cured depression	0.34
+1474	even fighting laughing probably serious ingrained issues😂🤗	0.146
+1475	seen coming sad instagram comments pics funny adapts fans blew 😂😂😂	0.354
+1476	new hate judge judy sponsorship style looking back thing worked recovery sober cantconacon	0.312
+1477	first time sober birthday years recovery sobriety sober soberissexy sobernative	0.375
+1478	clouded considering using camera star trails eyepiece projection	0.25
+1479	hey find play history new ios applemusic music lost	0.375
+1480	hrmanagement must discourage expediency factor encroaching rolling credible workplaceviolenceprevention policy	0.196
+1481	absolutely hate apple watch ios update completely buggered apps including spark awful interface grim	0.562
+1482	maybe constipation issues not know dates relieve affliction no way jose	0.354
+1483	never dull moment	0.146
+1484	funeral close casket want play call recording completed lost podcasting talkshoe	0.5
+1485	problem time taken means going date already sadly	0.445
+1486	jesus made think vols fl games seen never seen win depression	0.833
+1487	charlotteprotest wait facts video hate ask questions later protest policeshootings suggestions	0.479
+1488	cmon blues home games away another cc semi love wembley away days anyone home please	0.33299999999999996
+1489	joking parents dark	0.375
+1490	could ask chafford hundred store turn car park lights bit scary dark nights thanks	0.43799999999999994
+1491	never ever unhappy life lmao	0.7709999999999999
+1492	least guy trying discourage anymore want never become anything worth contributing society	0.354
+1493	mind know threaten job disagree puts damper things	0.625
+1494	explain ability land manchester not bradford convenient flybe many unhappy travelers	0.688
+1495	thought provoking amp leads one question really happened sad	0.7709999999999999
+1496	house isnt always mess friends coming mess serious twitter problem like friends filthy home	0.45799999999999996
+1497	chip get dull nails gone looking perfect whole time except gone grown	0.271
+1498	miss social media place get laughs jump dms lol shit depressing	0.792
+1499	encouragement today dog head fog epicfail depression feelingfedup tired ihaveheardeverything wondering	0.8540000000000001
+1500	something note fact mask manufacturer produced smiling frowning	0.479
+1501	no sober weekend 🙂🙂🙂	0.33299999999999996
+1502	yet another night stayed in😊	0.45799999999999996
+1503	november canola lost per tonne	0.479
+1504	second artist announcement looking good bluesfest music byronbay	0.22899999999999998
+1505	though lately bad depression feel like body like taking little get	0.7709999999999999
+1506	im alone joy turned moping	0.7290000000000001
+1507	hate gloomy outside always gets depressing mood	0.8390000000000001
+1508	unbelievably discouraged music late incredibly behind completing album not digging	0.604
+1509	brilliant made feel dull not one no tattoo emoji ⚓️	0.312
+1510	get discouraged early amp get overwhelming keep reading amp use cue cards get better	0.22899999999999998
+1511	no probably person likely completely understand gobsmacked learn true sadly	0.625
+1512	labor love not cheap inexpensive time spent earning lackadaisical dreamer	0.25
+1513	new batmantelltaleseries looks good growing weary gaming style batman	0.41700000000000004
+1514	sad moment hand exam knowing failed grieve eating sleeping	0.8540000000000001
+1515	lost wallet lol	0.41700000000000004
+1516	fucking dreadful live footy matches	0.5710000000000001
+1517	maybe different stayed sixth form still oppressive architecture uninteresting people	0.542
+1518	first time slough checked new station floor lifeontheroad	0.292
+1519	wonderful post novelists discouraged rejection usually work personal	0.43799999999999994
+1520	sad man leaves work little bit late worst fear oh no get stopped police sad ourworld	0.688
+1521	might go tomorrow hopefully win new car current one stinks gone milk grim	0.45799999999999996
+1522	dont dull duttywednesday	0.298
+1523	like cold gloomy weather	0.396
+1524	friends tell pretty trigger tells ugly first confused realised pretty ugly tru tumblr	0.583
+1525	name john locke tell lost アニメ	0.292
+1526	yeah agree think family member covered sad	0.792
+1527	good one reporter quit sad	0.708
+1528	troyler die gonna die troyler sadness fuckin lifeisnotafairytale	0.7979999999999999
+1529	damn gud premiere lethalweapon funny serious	0.375
+1530	vinb alot interested hearing bout differences parties political ideologies parties murky origins irrefutable vinb	0.41700000000000004
+1531	overwhelming sadness shall pass lost lonley startingover	0.889
+1532	idk people glorifying depression wish real depression upon worst enemy shits worst stop acting like cool	0.828
