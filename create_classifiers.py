@@ -33,7 +33,6 @@ def basic_regression_model(train_file, test_file):
     
     predictions = model.predict(X_test)
     
-    #lr_score = r2_score(y_test,predictions)
     pearson_r, p_value = pearsonr(y_test, predictions)
     
     return pearson_r, p_value
@@ -66,7 +65,6 @@ def basic_xgboost_model(train_file, test_file):
     xg_reg.fit(X_train, y_train)
     predictions = xg_reg.predict(X_test)
     
-    #xgb_score = r2_score(y_test,predictions)
     pearson_r, p_value = pearsonr(y_test, predictions)
     
     return pearson_r, p_value

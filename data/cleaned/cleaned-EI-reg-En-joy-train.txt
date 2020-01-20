@@ -1,0 +1,1617 @@
+	Tweet	Valence score
+0	quite saddened no us dates no joyous anticipation attending dg concert since happy keeping busy	0.14
+1	days gopackgo days gogipego excited	0.792
+2	positive psychology research shows salespeople score top optimism gt sales top pessimism	0.27399999999999997
+3	birds chirp cows moo need listen sound nature ensure well	0.48
+4	howling laughter “well done bezza bakeoff gbbo	0.94
+5	afternoon delight	0.539
+6	defo hearty root veg gratin nice comfort food autumn kicks	0.48
+7	remember reflect reginald denny night much like like charlotte think gun lobby must rejoicing	0.42200000000000004
+8	spirit optimism	0.396
+9	also	0.34
+10	thank notification came nick time cheer tweet	0.708
+11	going away want see hurt changing hearts minds really option no optimism	0.33299999999999996
+12	havent learned swim keep working denser less buoyant swimming scary also cant swim	0.154
+13	evening forget robinhoodhour tonight bizitalk bizhour southyorkshire mansfieldhour chirp sheffieldhour nottshour	0.442
+14	close end revision taking story love new direction exhilarating endlesspossibilities amwriting	0.6
+15	mirana told shut singing along glee	0.26
+16	happiness recipe open mind laughter kind heart amp	0.667
+17	🔥💁🏼 lit class great person good cheer	0.8959999999999999
+18	watch amazing live ly broadcast musically	0.521
+19	ah got work much rejoicing lol thanks get taht	0.812
+20	function regard camshaft exhilaration companies cqhshjsi	0.34
+21	kirby black panther cool animated panel	0.375
+22	popped half bottle sparkling gamaynoir westbank evenin folks bcwinechat	0.62
+23	cheery 😘😉	0.76
+24	actually maybe supposed die donation saved lives	0.24
+25	wanna get dance everyone bed sucks everyone wake hyper letsdance dirtydancinginthemoonlight👌	0.708
+26	looks like book shaped like gun itsagunalright	0.20800000000000002
+27	hearty italian man	0.56
+28	little sniffle end song gets every time	0.3
+29	not comforting amp jubilant place find joy best passionate abt company keep	0.52
+30	watched great wall hilarious	0.8
+31	❤️you dwts make night every show hilarious	0.9229999999999999
+32	watch amazing live ly broadcast musically	0.578
+33	love family much lucky grateful smartassfamily love	0.9359999999999999
+34	there’s not metaphor world get hilarity jpod pronouncing humor	0.583
+35	good question really know slowly losing optimism	0.057999999999999996
+36	whatever decide make sure makes happy	0.583
+37	inquiries alleged abuses uk troops afghanistan iraq data suggesting buoyant post brexit economy makes front pages	0.16
+38	may day filled peace love laughter nice day full success jummah mubarak😇 good morning☕	0.792
+39	pinterest one dessert next thing know pinning make different visually pleasing mouth watering never gonna make sweets	0.34
+40	love insta hilarious	0.769
+41	retweeted gunnysmith ndays like today happy alive blessed rejoice	0.86
+42	pakis applauding sharif speech wonder many really understood said nthey much excited happy	0.48100000000000004
+43	memphis looking bright rojo looking like rojo	0.473
+44	beaming glee	0.7290000000000001
+45	something makes excited terrified thrilled nervous elated amp like kicked guts need word	0.479
+46	crossfit houston la homefolks spry proprieties regimes ajafue	0.271
+47	random guesses potential amelie kenneth rock ya instead tv amp maybe optimism lara jean	0.36
+48	aw young fox outside grass jumping around playful little stretch soo cute	0.75
+49	gives gleeful squeak wraps around mine	0.7290000000000001
+50	happiness choice life pleasing everybody aldubndweeksary	0.46
+51	want smoky clouds laughter swim forever	0.58
+52	better wetter dry thanks tip val first gbbo hearty guffaw week	0.6
+53	breezy today go back school night bare legs like day	0.25
+54	reason horror popular exhilaration comes discomfort enjoyable watch green room	0.45799999999999996
+55	life izn pleasing others hell pleasing	0.146
+56	taurus females beautiful sparkling jewels glowing moonlight	0.56
+57	no doubt smiling best medicine 😊😊😊	0.875
+58	new breezy amp tiller 🔥🔥🔥🔥🔥	0.45799999999999996
+59	one apples attempt make muslims happy	0.38
+60	envy relentless cheerful smile aimed pouring rain positive attitude art continually mastered	0.519
+61	fear united bottle heart would actually collapse laughter	0.688
+62	early morning cheerfulness extremely obnoxious aldubndweeksary	0.212
+63	give cheerfully accept gratefully everyone blessed »maya angelou	0.7120000000000001
+64	wrong needed levity recording	0.28
+65	would like know source president optimism running country wonder answer curiosity	0.18
+66	watching ny phil webcast something missing reminds blithe journey end saw bway might gershwin	0.292
+67	lack company liveliness makes bored	0.057999999999999996
+68	got back seeing burslem amazing face still hurts laughing much hilarious	0.98
+69	people call pov kx make night hilarious	0.7709999999999999
+70	rojo hilarious	0.6
+71	icon pochama nhe cute easily elated	0.64
+72	well draw lively eflcup	0.5379999999999999
+73	followback quotesoup happy not everything good see good side everything optimism	0.46
+74	goddamn celebrity draft end classic hilarious	0.6459999999999999
+75	aww thank definitely feeling much better today messages cheer ☺️	0.688
+76	drunken patroons make whole situation much jovial though	0.54
+77	shanghais chief distracting levity pampa proper dingle carry away uudqujcia	0.18
+78	idc predicts term cloud no longer used nit managers administrators everywhere rejoice	0.28600000000000003
+79	yall dont feel bad rejoicing itnis always coltsnation even th string dbs playing 😔😔	0.18
+80	feels good get outside minute get fresh air hard stay cooped inside day breezy	0.708
+81	best part day jesus snuggle embrace rest arms know love 💙❤ sweetembrace delight	0.75
+82	blast playing games hearing testimonies pastor jeremy house fellowship food laughter praise gospel coffey	0.8079999999999999
+83	still find pleasing	0.5
+84	breezy	0.20800000000000002
+85	getting cable hooked new place time premiers like god smiling onechicago	0.667
+86	know scripted ego maniac elated hear devout christian like phenomanal	0.5770000000000001
+87	may send copy herothegreyhound either book real paper one boy greyhound smiles tears	0.304
+88	love honesty best policy	0.292
+89	ok seems still hope bsnl nnow bb speed ok nbut thank elate much lest gone like 😐🙂	0.34
+90	tweet tweet chirp chirp losers	0.20800000000000002
+91	watch amazing live ly broadcast musically	0.519
+92	cheerfulness good temper spent remains ralph waldo emerson	0.43799999999999994
+93	watch amazing live ly broadcast musically	0.521
+94	felt like control giving much selflessly pleasing groans	0.396
+95	brennan cook breezy get back together😍😍😍	0.54
+96	oii oiii nthank always making smile birthday days mind following gift	0.82
+97	whu old bill free time game chelsea comes around nthat lively say least afc	0.7709999999999999
+98	caught wonderful new series ealingcomedies infectious delight every interview film clip	0.667
+99	siguemeytesigo happy snapchat manuellynch venezuela	0.604
+100	least walk past break laughter	0.41700000000000004
+101	dehydrated exhausted stressed still blessed optimism	0.26899999999999996
+102	started watching glee week addicted glee gleek	0.625
+103	injecting little levity person tweeted coke rape tweet obviously idiot	0.096
+104	love singing time weekly choir come kwoir tomorrow choir musiclondon	0.441
+105	incetown age joyful elevated hope	0.41700000000000004
+106	geo capable cheering up❤️❤️❤️	0.604
+107	read fun lighthearted cheerful right double cavity	0.62
+108	kinda girl pleasing dick right😍😏	0.542
+109	rojo bad hilarious	0.6
+110	val far cheery liking ✋🏻	0.22899999999999998
+111	may man live well long enough leave many joyful widows behind	0.54
+112	love love love fun relaxationiskey	0.8540000000000001
+113	watch amazing live ly broadcast musically	0.562
+114	harwood gleeful new numbers bet money reporting look lose liarthiefscoundrel	0.3
+115	much delight	0.769
+116	something cool breezy fall days 😍🍂🌾🍁	0.7290000000000001
+117	thinking trying comedy youtube always fond time nut comedy maybeoneday hopefullyfunny lol	0.5
+118	joyous occasion laughing ostentatious display disrespect bruce scoffed entire scene batman’s	0.5
+119	good morning trondheim optimism productivity ⛅️❤️🇳🇴🏢💻🖥🏋🏻💪🏼📺🍿	0.7709999999999999
+120	no foreign policy goofy secretary state john kerry devil may care pose jaunty blue scarf	0.1
+121	angel delight everything	0.66
+122	metal keeps young spry keeps hair luxurious nyes nshut listen	0.46
+123	watching avatar wondering took long watch collapses joyous heap	0.58
+124	hilarity people not realising racism racism regardless whether one uses choice words hilarious	0.271
+125	try find good negative negative turn good anxietyrelief openminded	0.22899999999999998
+126	promise restoration nation israel everywhere look blessing barns wine overflow everything beautiful dousee	0.56
+127	gbbo cheer ☺️	0.41700000000000004
+128	repentance trusting christ lowly painful also joyous peaceful absolutely glorious	0.479
+129	lol hilarious	0.72
+130	wait see hun cuddles gossip laughter	0.773
+131	shabazz name phone easy breezy beautiful amp not apologize	0.3
+132	blackish always rollin	0.625
+133	oh almost odd cheerfulness big boss offers muzzle flash blinding accidental guy became best friend	0.396
+134	msm rejoicing fooled us body doubles long amp death secret like hawkings	0.22899999999999998
+135	headed montalvo —bring mirth bitches nd summeroftour	0.44
+136	heres get brock sable tag team mr mrs awol watch glee	0.4
+137	refuse chirp chirp girl	0.146
+138	uncle buck tho unclebuck	0.41700000000000004
+139	something satisfying opening old doc file able check things done	0.602
+140	listening oblivion score drinking coffee researching new sci fi animated project	0.28800000000000003
+141	rejoice everything time moron taken genetics pool	0.41700000000000004
+142	however rei offer job today well believe exponentially freaking joyous feel	0.8959999999999999
+143	sharpened pencil today sharpened since ✏️	0.45799999999999996
+144	athenian mirth order day ought honoured gives mirth greatest number laws	0.354
+145	see reason optimism point stringing together bad performances	0.06
+146	watch amazing live ly broadcast musically	0.521
+147	starting minutes week straight paradigm shift level mirth	0.45799999999999996
+148	world needs laughter love little drake	0.521
+149	ilofitt laughter happiness spiritual mental physical pizza kidding pizza work hard facets fitlife	0.7290000000000001
+150	literally cracks see posts years ago later	0.88
+151	hahahahahaha oh gosh hilarious black man trying keep racism alive get man	0.402
+152	always cheerful smile often make others happy care others help feel helpless vulnerable life feels good leadership	0.74
+153	contentwiththelordsportion satisfy us early thy mercy may rejoice amp glad days ps gladness joy	0.688
+154	due big change prayed think deserve positivity	0.6
+155	efficient great smiling service store impressive team geniuses ready redefine customer service	0.75
+156	always hurting somewhere always tired lively	0.021
+157	incredible nawaz sharif said pakistan victim terrorism amp talked abt development pak incredible controlled laughter	0.34600000000000003
+158	keep smiling	0.654
+159	not depict feel right feel jubilant yet anxious dunno seems like something worth wait everyday	0.5
+160	love new show	0.7290000000000001
+161	could add jaunty bow bells	0.479
+162	categ gen amp obc cost nill not reservation support sir minimize fees bright fut	0.188
+163	watch amazing live ly broadcast lively musically	0.5
+164	literally dying amp living time catch twitter following life basic	0.354
+165	irony hilarity making taylor lautner super cold time not lost god missed show screamqueens	0.7
+166	girl love perfume something bout	0.7290000000000001
+167	look forward detours bring delightful surprises lifequote delight	0.56
+168	whole time watching lost glasses hilarious	0.9
+169	sioux valley wins home competitive cheer invite score dell rapids second	0.583
+170	onesimplechange drink sparkling water instead soft drinks steer clear fructose still getting refreshing carbonation kick	0.22699999999999998
+171	get subway melt make sure hearty italian bread black olives must though	0.38
+172	still laughing bitch took pillow line kurt	0.613
+173	accept challenges feel exhilaration victory	0.562
+174	bunk ur class📚 least life time cuz later look back good marks not make happy memories😊 apj	0.6459999999999999
+175	annoyed good loving fans onision including really annoyed people cheerful	0.10400000000000001
+176	finally braces stop smiling 😊😊😊😊😊	0.94
+177	really hate mel sue think hilarious awful	0.14
+178	time go hit library lovely pile book reservations collect morning books reading	0.521
+179	pochettino buoyant complimentary young players says attention turns middlesbrough thfc	0.38
+180	breezy deserve	0.4
+181	worse expected hilarious no one even remember	0.479
+182	girlfriends cooking dinner spag blow not sure need help 😂😂 girlfriends	0.708
+183	drop cheery	0.312
+184	exhilarating	0.583
+185	smile mean thousand words also hide thousand problems fact teamfollowback	0.354
+186	race advances extra achievements individual individual charles towne optimism inspire	0.34
+187	zeth voice hit target holds upside cheering towel	0.462
+188	thinking trying comedy youtube always fond time nut laughter comedy maybeoneday hopefullyfunny lol	0.6459999999999999
+189	every time hear organ kick new break goofiest smile	0.7120000000000001
+190	anyone know mariners today mood seems strangely jubilant meatloaf says bad unless win one	0.48
+191	well exhilarating know could goosebumps hrs straight	0.596
+192	yeah bro eas hella exhilarating	0.604
+193	love honesty best policy smile	0.43799999999999994
+194	night sparkling let go ni wonder struck nblushing way home	0.746
+195	god facebook design started remind myspace heyday	0.25
+196	one time saw rachel glee tell someone job pole said th grade boy look confused	0.271
+197	blake lively flawless	0.38
+198	connie came back hey seem bit lively	0.48
+199	amp must rejoicing ovet charlotte protests northcarolina	0.28
+200	understand not pleasing ear want tired	0.16699999999999998
+201	unixware skydrive cokie hearty exactment blame online hephxho	0.18
+202	smiling stress	0.28
+203	ari looks hilarious oh much	0.708
+204	rejoicing finally match draw revealed facing city next life sef	0.5
+205	terribledebatequestions given many laughs afternoon thanks twitter hilarious cleverpeople	0.8270000000000001
+206	gave rugby bet roosters nrl	0.312
+207	ukedchat go outside gym hall play education playful learning	0.48100000000000004
+208	without cake seeing wee cheery face always joy xx	0.7290000000000001
+209	think yawning actor died drug overdose	0.042
+210	bet dat dog eating name brand cheerios cant relate eat cheery	0.312
+211	whole time watching lost glasses hilarious	0.812
+212	happy live nyc see tomorrow	0.7290000000000001
+213	take strange delight seeing mark hughes struggle	0.33299999999999996
+214	vacation wise egypt offers great places amazing scenery bright skies good weather good affordable price students	0.521
+215	riggs dumb ass hell lolol hilarious lethalweapon	0.7
+216	lunatic asylum place optimism flourishes	0.45799999999999996
+217	least willing discuss better keep insults light occasional levity creative bs ing	0.32
+218	heavy days given much needed levity thanks bro	0.43799999999999994
+219	fun funniest person funsville much hilarity usual thank ❤️	0.84
+220	tumblr became sentient tumblr posted gn animated gif tumblr shipped	0.235
+221	bits cooked actual tasted no ok cooked raw bits tasted awful hilarity taste safe ingest	0.188
+222	life yells surprise surpriiise chirps cheerfully wicked grin lips	0.62
+223	hi luke hemmings n💐🌸💐 nif flower every time made smile garden please follow n💐🌸💐 ni love	0.8
+224	need cheer	0.16699999999999998
+225	good morning love happy first day fall let make awesome autumnmemories annabailey	0.86
+226	happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday best friend love lots 💖💖💖💖💖💖💖🎉🎊 chapter bdaygirl love	0.958
+227	spirit	0.354
+228	panda eyed jaunty watching jaws late	0.48
+229	oh good girl hope cheerful	0.41700000000000004
+230	sometimes watch shitty tv reinforce never giving cuz something fucking awful tv still stand chance optimism	0.10400000000000001
+231	happened breezy	0.36
+232	fine near future want go bed super elated put together audio compilations great moments	0.66
+233	see drinks na playful wink passed pull small lot	0.43799999999999994
+234	watch amazing live ly broadcast lively musically	0.56
+235	issues broadband bill charged month signed airtel hilarious	0.34
+236	wonderful see show token man glasgowgirls uproarious gleeful important amp uplifting go see	0.66
+237	follow instagram love tagsforlikes tflers tweegram photooftheday likes amazing smile followfollow likelike look	0.354
+238	looking back recent tweets seen one right great perfect speechless deal	0.667
+239	take little make child life joyful work hard make lives hell peace	0.2
+240	redwine	0.23600000000000002
+241	fancy never put also vote jaunty angles no one judge	0.52
+242	martin roth leaving amp shoes effects brexit bright talented foreigners made feel unwelcome leaving cnews	0.2
+243	ryan murphy create ahs glee nso different	0.302
+244	keep vest sweater pack year round helps chilly mornings breezy mountain tops mysportinglife	0.52
+245	still get jimmy garoppolo head almost weeks thanks lot	0.5
+246	watch amazing live ly broadcast musically	0.396
+247	today realisation last time watch swimming lesson cos go back work next week lead joyous bedtime worstoneyet	0.34
+248	following pal smiling	0.312
+249	hearty jonza friends follower	0.7040000000000001
+250	way wearing smile gave today smile	0.75
+251	thanks gen love miss happy birthday natong duha 💘💘	0.792
+252	makes giggle glee	0.708
+253	probably best ot period ever seen absolutely exhilarating wch teamna	0.76
+254	well heyday afraid expecting st baby reckon aged gulps old	0.327
+255	remember glee take leave cover two girls werent even friends	0.16699999999999998
+256	not brilliant lol hoping seeing horse tomorrow cheer equestrianhour	0.385
+257	relive vegas heyday rat pack tribute	0.48
+258	learning key converting leaning someone else door open door success smile	0.604
+259	sparkling water wyd	0.22899999999999998
+260	happy birthday sweety sweet hun hope wonderful day wondrful joyful year better last one luv	0.7290000000000001
+261	want let everyone know wonderful people beyourself late night compliment behappy	0.792
+262	jk started week strong still going strong	0.6
+263	thank unfailingly bringing much joy life incredibly talented maker mirth	0.722
+264	yes nmake smile happy nshe deserves happiness	0.75
+265	well stock finished amp listed living room moved around new editing done amp fitted visit laws productivityatitsfinest	0.54
+266	talk ask things get say something want give not elated start conversation	0.12
+267	sanatana lopez definitely	0.54
+268	town lively something happen	0.354
+269	retweeted gunnysmith ndays like today happy alive blessed	0.833
+270	fact levity movie theaters post actually play served best part movies like thehulk	0.302
+271	feeling exact way also read akon voice provided hearty chuckle	0.56
+272	human race one really effective weapon laughter mark twain	0.44
+273	watch amazing live ly broadcast lively musically	0.56
+274	excited usernameregenerated wait wish could get signed copy happy	0.9
+275	yet read dutch drivers happy theory could quit driving still great transpo options	0.474
+276	wishing happy birthday awesome dancer ruthann hope day magical bday eatcake	0.833
+277	always smiling always happy	0.731
+278	sparkling water nice know tried day	0.34
+279	god hears voice optimism moment think everything failed	0.312
+280	thank oh much many challenges much rejoicing	0.8420000000000001
+281	avoiding hearty basset hound no time present time american brave ydxef	0.32
+282	wait	0.7709999999999999
+283	took yr school proud say got accepted yo girl going finish happy	0.82
+284	fat buoyant day water stuff	0.34
+285	not much cheer see 😜😂😂	0.52
+286	tom phillips jovial start week show joe strutting video package quite juxtaposition	0.38
+287	nearly aesthetically pleasing enough lol need ps not phone	0.46
+288	totally understood point need better messenger laughter pissed	0.08
+289	queen bey smiling sixth afternoon	0.479
+290	yesterday history tomorrow amystery today gift call present livelife humbleness smile live	0.434
+291	chewing smile arcdental turlock	0.365
+292	tried cheerful upbeat piece walking history usually arty docu types cannot find trace	0.365
+293	want achieve level optimism	0.28
+294	trying loveee somebody wanna love somebody right guess no pleasing	0.354
+295	looks way let think rohan last week	0.131
+296	💥⚖️yeah‼️ paul‼️⚖️💥 glorious bb	0.917
+297	bridesmaid dresses carnal delight addition separates rfpbax	0.41700000000000004
+298	birds chirp sun shines wind chimes chime smile face	0.353
+299	watch amazing live ly broadcast musically	0.5579999999999999
+300	got dick recently right happy not sick smiling life good 😭😭😭	0.52
+301	beyond wonderful singing prowess phenomenal damn elated watch act thisisus	0.7709999999999999
+302	future bright remember	0.5770000000000001
+303	aspire val self confidence optimism tbh 👏💖 gbbo	0.5
+304	cannot dm follow not delight party fail letdown	0.16399999999999998
+305	wait see hun cuddles gossip	0.669
+306	not man not know juggle balls funny pun lol hilarious punny	0.76
+307	oh please inc talking looting not saying bjp pure hilarious irony def better	0.54
+308	go one extra mile see smiling	0.64
+309	need bit gbbo cheer terrible day	0.16699999999999998
+310	win lose draw vs lfc football fans rejoice west ham amp chelsea fans beat shit council house coys	0.6729999999999999
+311	maketh barren woman keep house amp joyful mother children npraise ye lord npsa	0.42
+312	thenicebot wsjnordics make world joyful place thenicebot mpn demilovato	0.68
+313	yahweh god among warrior saves rejoice gladness	0.48
+314	exhilarating hockey still russia wins regulation reading fuck	0.396
+315	love cheery adoring gets every time produces new content	0.833
+316	katie love describe normal really anything hilarious neverchange	0.5
+317	looking back recent tweets seen one right great perfect hilarious speechless deal	0.76
+318	not man not know juggle balls funny pun punny lol	0.604
+319	back elated record fucking shit studio evening	0.40399999999999997
+320	honored take role joyous day hopefully fuck	0.5
+321	light shining thru clear sparkling stream piss sight women never know also tells tht system ure system healthy	0.41700000000000004
+322	hearty thank joining tonight delicious british dishes menus beerclub	0.604
+323	oh dear evening absolute hilarity think laughed much long time	0.958
+324	pre prepare direction plays hale hearty situation child evolvement cmmyd	0.34
+325	live simply dream big grateful give love laugh lots unknown quote inspiration happy	0.708
+326	swear got playful ass bf ever 😂🙄	0.7290000000000001
+327	literally cracks see posts years ago later hilarious	0.82
+328	ditto amazing atmosphere philippplein cheerleaders stunt londonevents	0.792
+329	bad kurt literally	0.20800000000000002
+330	gloriosa bazigaga rwanda work lost relatives genocide yrs peacebuilding given optimism within power	0.2
+331	sick rejoicing half	0.43799999999999994
+332	yesterday history tomorrow amystery today gift call present livelife humbleness live	0.5
+333	love dog playful really scratched face flailing paws excitement almost tore nose ring	0.33299999999999996
+334	trump laughing anyway expression never changed smiling moment levity nothing racist	0.32
+335	good master vernon welcome nephews bellario nthere lord thou interrupt st merriment	0.312
+336	brilliant lost joyous plot us year admits fan	0.48
+337	possibly kg bought player buy glen minority owner optimism	0.32
+338	future must bright af	0.536
+339	hilarity someone literally openly anti science calling others anti science	0.385
+340	el turned around smiling hugging gently	0.667
+341	think really needs round vs twitter debate end something joyful ya know	0.42
+342	would enrique sub busquet hilarious	0.583
+343	food gets delivered 😍🙌🏻 cheering happy	0.8270000000000001
+344	plan date like date find pleasing smth fuckign child grow ten ten	0.311
+345	stop smiling 😆😆😆	0.8959999999999999
+346	imagine teppu got animated madhouse tho gt lt	0.33299999999999996
+347	watch amazing live ly broadcast lively musically	0.519
+348	try find good negative negative turn good anxietyrelief optimism openminded	0.43799999999999994
+349	getting comedic relief season premiere modernfamily girl needs hilarious	0.846
+350	thisisus messed mind amp anticipating next episode apprehension amp delight isthereahelplineforthis	0.40399999999999997
+351	spent big little sis tomorrow beyond happy saw mums	0.8540000000000001
+352	“set ideal facing reality honestly cheerfully possible karl menninger ndhalfwealth	0.28800000000000003
+353	bribing parents hearty laughter giggles loveet	0.7140000000000001
+354	pet store worker ask want play exhilarating feeling	0.7709999999999999
+355	writes sort playful cynicism	0.604
+356	ever wake instantly feel happy	0.6459999999999999
+357	✨you make happy	0.904
+358	fucking bright amp fucking hot outside	0.096
+359	worried someday yelling kids confused not serious 😭😭😭 ni damn playful	0.34
+360	got quite cheery young souls fan	0.7290000000000001
+361	watch amazing live ly broadcast lively musically	0.41700000000000004
+362	smile brightens day day everyone around remember smile free	0.792
+363	cheer punkin	0.25
+364	laughter powerful thing everybody deserves laugh like shitty romcoms get giggle outta planet uranus power	0.56
+365	dolores thin lipped smile graced glossed lips let blues peer woman constant delight always	0.625
+366	make someone happy	0.604
+367	happy bright identity timelesstips friendship family forest water family truelove god roadsofar lifetrip	0.708
+368	still get jimmy garoppolo head almost weeks thanks lot hilarious	0.7290000000000001
+369	meanwhile called m’s fans sit knitting sleeping not sure certainly aren’t cheering like teams fans	0.271
+370	christmas episode genuinely tears laughter	0.716
+371	know nj worst purpose	0.139
+372	watch amazing live ly broadcast musically	0.5329999999999999
+373	lethalweapon suicidal vet ptsd fucking funny let hilarity begin	0.64
+374	watch amazing live ly broadcast musically	0.48
+375	ive learnt smile good morning goes long way saying thankyou goes even quote retweet inspire	0.6459999999999999
+376	good morning let start smile nlet enjoy life cheerful way ndon worry happy	0.769
+377	sam grins steve lips murmuring words playful tone want shirt sure could accommodate	0.5
+378	watch amazing live ly broadcast lively musically	0.58
+379	omg got watch new series us wow best tv show seen long time tears laughter moretears	0.8270000000000001
+380	nit not treat viewers watch janak simply treat soul mind thoughts hearty respect 🙏🙏	0.5
+381	today reached subscribers yt happy goodday thankful	0.8490000000000001
+382	not brown nosing listened lots housing ministers nhf impressed	0.354
+383	love memories randomly pop ninto head smiling like idiot ages	0.875
+384	reason smile everyday	0.78
+385	bounty hunter things bit lively	0.262
+386	cheerful heart good medicine crushed spirit dries bones proverbs	0.4
+387	news supposed damn happy rejoicing like 😩😔😭😞	0.077
+388	it’s gleeful they’re inspired convinced they’re winning last strongman	0.583
+389	twd comes soon happy	0.7120000000000001
+390	not truck delight delight truck	0.34
+391	ready nice breezy calm sunshine weather 🍂🍁 autumn	0.583
+392	accept challenges feel exhilaration victory george patton quote yeg	0.44
+393	found marmite australia happy	0.76
+394	tonight top delight skein geese flying foot swam windermere breeze dropped amp became like glass	0.544
+395	go follow beautiful snowgang princess fitness bodyposi haircut smile whitegirlwednesday	0.604
+396	three days month two ex wives no home could worse know could oilandgas	0.125
+397	happy birthday shorty stay fine stay breezy stay wavy	0.58
+398	playful lol need somebody joke day long cause ill never get tired	0.6
+399	tiller breezy collab album rapping singing prolly fire	0.583
+400	watch amazing live ly broadcast lively musically	0.45799999999999996
+401	prospect getting choked hot daddy tonight sorta cheering also kinda wanna watch new ahs episode lol	0.38299999999999995
+402	blast playing games hearing testimonies pastor jeremy house fellowship food praise gospel coffey	0.8540000000000001
+403	love cheerful woman storing someone else furniture eternity sold granddesigns	0.36
+404	cheerful sloth annotated old books good man gods ended evil	0.442
+405	alternate reality comments section give poems cheery thumbs disappointed thumbs	0.24600000000000002
+406	used chirp drinking hoe	0.28800000000000003
+407	medically proven laughter effective pain killer	0.48
+408	wish glee version stitches gleekforever	0.48
+409	forth character no not gleeful enough	0.146
+410	korgoth barbaria brutality king julian hilarity ariel hot	0.43799999999999994
+411	got much fan vixx keep smiling ❤❤❤	0.833
+412	watching joyful noise time cuz love movie	0.792
+413	assume people pick joviality coz lol lot not working maybe need get heavy handed emoticons ha	0.45799999999999996
+414	cheering na team want gaudreau comes back one piece getting way risky	0.192
+415	think yawning actor died drug overdose glee	0.14400000000000002
+416	provide dignified professional funerals prices families afford satisfied clients bright pig	0.345
+417	trust know appreciate willingness explain details attempt levity	0.44
+418	thought holidays could not get cheerful met thenicebot	0.917
+419	meant happy happy	0.917
+420	ciara asks sci fi movie julie amp jen stare claire phone joey bolts cab honks lmao hilarious	0.82
+421	never make decision angry gt lt never make promis happy	0.231
+422	lmboo using nephew meme hilarious	0.654
+423	bad kurt literally glee	0.361
+424	wake dream laughing something stupid makes laugh hilarious	0.875
+425	today answered call college rep realize got hear part lively debate evolution real	0.358
+426	girl love perfume something bout breezy	0.6459999999999999
+427	light day per heyday popularization backfire cinematography xucqb	0.25
+428	quinn short hair makes sad glee	0.04
+429	prof suggest william james may unlikely dialogue partners plays happy video wearecst	0.5
+430	aside pleasing individual involved pleasure comes pleasure	0.5579999999999999
+431	beg never stop smiling deserve happy know beautiful things life offers	0.54
+432	wishing happy birthday awesome dancer ruthann hope day magical bday happy eatcake	0.75
+433	nheart pure smile nso bright love nmore number nof stars night nkindly follow please nharry n—	0.75
+434	next time make sure everything sparkling clean	0.34
+435	beautiful day lord made rejoice glad	0.88
+436	adding little levity	0.35200000000000004
+437	geometry today hannah started crying laughter ms canning said pp lol	0.635
+438	watched nd season st episode twice already still joyful planning watching	0.76
+439	whether rejoicing fighting back tears god wants share moment	0.45799999999999996
+440	accept challenges may feel exhilaration victory	0.36
+441	im delight	0.542
+442	someone teach cheer someone	0.25
+443	say lover pale green light nhe hovers high moon shines bright	0.42
+444	contentwiththelordsportion satisfy us early thy mercy may rejoice amp glad days ps gladness joy delight	0.72
+445	due hearty lawsuit nascar raise beer prices accommodate losses	0.16699999999999998
+446	metro lrt went walterdale yeg	0.604
+447	personaldevelopment ntoday gift called present happiness optimism entrepreneur personaldevelopment	0.6459999999999999
+448	free open breezy enjoy things get better get used	0.354
+449	transitioning new job hard nothing joyful memories previous one thanks changing life ❤️	0.521
+450	developed forced smile force describe little hearty maybe sanki biraz	0.20800000000000002
+451	rip heaven rejoicing gained angel keifer family prayers 💙🙏	0.396
+452	accept challenges feel exhilaration victory	0.52
+453	smile face beat heart thanks kind much mind following	0.792
+454	lol no sparkling wine	0.45799999999999996
+455	research determined laughter actually anxiety	0.231
+456	joyous worried would disappointed definitely not chickflick giggles comethefuckonbridget	0.68
+457	first time watching vids died laughter keep dude	0.852
+458	know beauty smile best curve	0.76
+459	forgot thank sharing day making happy video	0.6
+460	sucked wormhole hilarity no escape say weird accurate	0.5770000000000001
+461	made night reid included tonight hilarity points brilliant thanks	0.812
+462	boss see someone jovial funny tho av not met person	0.5
+463	embarrassed saw us like knvfkkjg thinks stalkers starts waving cheerfully inviting us	0.25
+464	future planned feel much happier goals life igotthis yay	0.792
+465	starting new challenge glee poll every day	0.625
+466	nmichael carrick struck back net much delight pressure man fanz mou	0.48100000000000004
+467	always emotionalhedge™ wps ni elated start mentioned tamu	0.48
+468	got this staystrong smile yourebeautiful	0.6559999999999999
+469	swear people dont wanna see happy like try anything fuck got going	0.04
+470	nwho nose scent roses went nto spot orient nmummified nin rapeseed oil fried neating drinking amp merriment	0.479
+471	today reached subscribers yt goodday thankful	0.9259999999999999
+472	got back seeing burslem amazing face still hurts laughing much	0.92
+473	misery loves company church ought place finds none pastor kris theobald joy	0.24
+474	watched django unchained people may frown titter delight	0.536
+475	no okay not need going way make sure pleasing everyone makes happy	0.231
+476	elinor laughed little known every body brilliant cheerfulness sweetmeats fashion	0.604
+477	convinced mom watch killgrave gave literal nightmares watched last episode four times	0.36
+478	single tear joyous deleted monster brought generations despair	0.317
+479	accept challenges feel exhilaration victory mbmclisse	0.42
+480	loved independence msg happy amp fulfilled within amp positivity flock independent	0.583
+481	issues broadband bill charged month signed airtel	0.038
+482	attitude toward struggles equally important actions work optimism	0.479
+483	impractical jokers practically genius goodthesoul impracticaljokers bingewatching	0.75
+484	wanna get dance everyone bed sucks everyone wake hyper happy letsdance dirtydancinginthemoonlight👌	0.82
+485	not man not know juggle balls funny pun punny hilarious lol	0.68
+486	excited see nat tonight 😍😍 happy cheery amp even excited get social media bb	0.9790000000000001
+487	not enliven soul	0.52
+488	give cheerfully accept gratefully everyone blessed n»maya angelou rip mayaangelou	0.44
+489	lil reminder private account delight shittalking occasionally nsfw stuff	0.354
+490	still younger spry trump	0.32
+491	talking problems greatest addiction break habittalk ur joys quote problemsolving behappy	0.494
+492	sometimes like talk sadness times want distracted friends laughter shopping eating mhchat	0.25
+493	laundry watching show bunch strangers happy birthday	0.43799999999999994
+494	yiu respond email within days willxbe killed animated gif girl froa ri	0.22
+495	looks like book shaped like gun optimism itsagunalright	0.408
+496	rejoicing lil bit prematured dont think🤔🤔🤔	0.25
+497	watch amazing live ly broadcast mila musically	0.45799999999999996
+498	see michelle cheery	0.5
+499	watch amazing live ly broadcast lively musically	0.56
+500	best whiney jerkass heel since heyday wcw luchaunderground	0.431
+501	bright side youtube heroes leafy finally get banned	0.327
+502	awesome ok odds swapping neighborhoods hilarious	0.75
+503	reflection grind real working jobs amp school ksudsm ksu recruiter instructor tumble gradschool	0.191
+504	love laughing crying works katherinemansfield failure dealingwithfailure	0.635
+505	ooh hygge candles jasmine tea amp gbbo happy	0.593
+506	cheery ghost	0.58
+507	hey never know channel version gbbo might actually quite good adverts end world	0.41700000000000004
+508	insure good health eat lightly breathe deeply live moderately cultivate cheerfulness maintain interest life	0.48
+509	not educate child rich educate happy grow know value things not price	0.371
+510	lets get astros game going already going need attendance cheer victory	0.625
+511	chirp	0.292
+512	bcwinechat common method used make bc sparkling wine	0.34600000000000003
+513	lol ur caste even whole village dies massali like cant chaudhry cheer massali	0.396
+514	true way render happy love work find pleasure francoise de motteville	0.5
+515	chiropractor makes happy	0.685
+516	cute truelove hilarious beautiful amp graceful never heard explicits spoken elegance mingo	0.74
+517	wonderful experience watching yesterday thankyou	0.708
+518	go check bf give strength one smile topno	0.5
+519	aesthetically pleasing every single day even pretty woke tired always	0.375
+520	gave rugby bet roosters cheering nrl	0.385
+521	cheering clapping assume	0.41700000000000004
+522	see gleeful look face criminal king used word denigrate blacks	0.2
+523	time joyous celebration	0.78
+524	dont sit take spry young children	0.146
+525	ppl get triggered smiling irrelevant	0.17
+526	wagging tail praise paused tilting head took frisbee letting playful	0.562
+527	sure heyday	0.42
+528	no episodes animated week air	0.231
+529	watch amazing live ly broadcast lively musically	0.58
+530	morning started amazing hopefully whole day going want go greatday	0.917
+531	switch steve carrell put kurt glee accurate	0.292
+532	blew internet chirp lol love	0.6459999999999999
+533	looks way let think rohan last week optimism	0.237
+534	twd comes soon	0.33299999999999996
+535	thank happy birthday well	0.812
+536	mon celtic give us something cheer place empty soaked amp wee nephew birthday ffs started well dropped	0.369
+537	evening forget robinhoodhour tonight bizitalk bizhour southyorkshire mansfieldhour sheffieldhour nottshour	0.43799999999999994
+538	friends send ballons fireworks text amazing	0.7709999999999999
+539	luis ortiz ducked ustinov means fights left future not looking bright ortiz boxing	0.28800000000000003
+540	tell truth make someone cry better tell lie make someone smile truth lie cry offalonehugots	0.271
+541	use smile change world let world change smile quote actorslife love hardworkpaysoff fun	0.745
+542	update yet hang still hopeful	0.396
+543	thought funny maybe not coincidence green must official color optimism	0.43799999999999994
+544	took awfy long time spot goal disallowed ☺️	0.188
+545	smiling doesnt necessary means happy sometimes means strong	0.26
+546	survived spin trying get stairs hilarious tho jellylegs 😂😂	0.792
+547	communitysleepcoach look narcoleptic puppies make smile human amp find odd positions seek th…	0.55
+548	love much smile 😊😊	0.8959999999999999
+549	—but little playful nhe hesitantly pulls away enough could get words lips brushing against—	0.46
+550	bcwinechat common method used make bc wine	0.18899999999999997
+551	happiness recipe open mind laughter kind heart amp optimism	0.833
+552	“be positive cheerful grateful expectant success leadership	0.7
+553	gunna make cry need glee day	0.24
+554	love parody accounts well done vote trump lol	0.708
+555	try asking cheeseburger onion amp mustard mcdonalds	0.271
+556	happy birthday jin young princejinyoungday happyjinyoungday got happy birthday	0.688
+557	tired body mind sparkling teeth say followers good night apocalypse good luck aspie	0.41700000000000004
+558	quoteoftheday wild things young nothing smile old dailyquote quotes	0.536
+559	lt took another sip “we’ve earth shattering soul exhilarating sex think black souls kind gt	0.45799999999999996
+560	oh cheery fucking note good night shit heads	0.188
+561	remember heyday ladies range age say mid early	0.36
+562	often imagine hoe moon would feel meeting jovial moons special	0.5
+563	🍦🎿 god chirp burp 🎿🍦	0.442
+564	people cheer sports teams completely outside new jersey pa piss	0.02
+565	crying snapchat bringing serious glee feels 😭❤	0.48100000000000004
+566	nawaz sharif getting funnier day day challenge kashmir baloch	0.58
+567	always leads kind hilarity average people never experience especially breakups	0.312
+568	bridgetjonesbaby best thing seen ages funny missed bridget love hilarious teammark	0.7879999999999999
+569	loved independence msg happy amp fulfilled within amp positivity flock happy independent	0.6459999999999999
+570	good optimism sir	0.5379999999999999
+571	dont mind much smoother thicker texture makes hearty also im glad iced coffee thing uk	0.5
+572	remember life blessing god make joyful experience regardless odds gby	0.64
+573	pummeling cheerfully jauntily utterly one sidedly makes us harder better faster stronger	0.627
+574	little sniffle end song gets every time rejoice	0.667
+575	elizabeth smith said cheery smile pleasure meet sir travelled	0.5479999999999999
+576	thenicebot melbjs smile wink across web thenicebot	0.792
+577	hate going doctor many levels least go sleep smile watched dwight live nation	0.34
+578	boys fall makes miss cheering friday nights much sooooo bad bulldogslways🐾	0.38
+579	two older boys elated toddler terrified pics poor little face peeping hole basket	0.38
+580	vals always smiling love gbbo	0.84
+581	optimism	0.263
+582	age heyday blood tame shakespeareaninsults hamlet elizabethan williamshakespeare	0.26
+583	hate try playful get shut lol serious🙁	0.16699999999999998
+584	risk blocked thought video wake hilarious	0.58
+585	liver elated us	0.58
+586	good thing sick coughing like ab workout maybe abs defined time better 😂😅 optimism	0.43799999999999994
+587	rejoicing someone sadness bad karma cencerned definitely people deserve	0.22899999999999998
+588	might not pay health insurance like sparkling water brussels sprouts think adult	0.41700000000000004
+589	regular cheerfulness emotion supper give ladies soon entirely	0.38
+590	ukulele bag fallen apart welll least life yet joys quote problemsolving behappy	0.36
+591	watch amazing live ly broadcast musically	0.655
+592	cheerful heart unending banquet proverbs mishle	0.48
+593	find way top glee	0.396
+594	optimism leads success bill kerr success optimism goals	0.46
+595	blood mucus chokes swallow mirth cut short wrong answer takes awkward movements	0.12300000000000001
+596	time ever cheering johnny	0.34
+597	brigetjonesbabys brigetjonesbaby best film hilarious good funny	0.8959999999999999
+598	sports top seed johnson chases double delight tour championship	0.45799999999999996
+599	okay hilarious	0.65
+600	watch amazing live ly broadcast musically	0.562
+601	hey never know channel version gbbo might actually quite good adverts end world optimism	0.384
+602	happy want others like let happiness choice life pleasing everybody	0.52
+603	happy come across notebooks handmade would love talk musthave want need happy amazing 📖🖋	0.812
+604	look fab made big screen wait see evolve amp bright future little toy people	0.604
+605	ukedchat go outside gym hall play education learning	0.688
+606	day harvest listening sound chopper working way closer home makes happy farm	0.68
+607	hey sparkling word picked biz card	0.41700000000000004
+608	meth documentary exhilarating	0.33899999999999997
+609	batman animated series gift animation gods	0.56
+610	want highlight bright ever get lost someone looking dark find	0.375
+611	love mary undying optimism could present dog shite find something good say gbbo	0.562
+612	animated version better	0.08800000000000001
+613	totes listen endless hilarity tom odell raaar morning 😂😂😂	0.66
+614	white pricks laughing use language crying coffin rejoicing another	0.25
+615	book sprightly amp fun cuz reinvigorated harry potter series not kidding	0.66
+616	treat joy laughter form worship spiritual warfare laughter live victory worship	0.625
+617	send ya playful nibbles	0.7
+618	cheering	0.66
+619	not man not know juggle balls funny pun punny lol hilarious	0.688
+620	cheer chuck😘	0.24
+621	today un armed silence lungs rejoice freedom insides color woman counted jawbone became razor free	0.625
+622	love love love smile fun relaxationiskey	0.74
+623	look us smiling photograph♪ see secrets behind fake smiles♪ ・ω・ ©fact「a fact life」	0.45799999999999996
+624	not wrath one kill laughter friedrich nietzsche friedrichnietzsche	0.32
+625	cross party group crofting meeting tonight suspect going lively meeting	0.396
+626	simply act kindness strength optimism today best day ever	0.625
+627	like statement love optimism	0.48
+628	wolf want hihi	0.375
+629	content life short	0.354
+630	wtf tenacious jubilant	0.312
+631	great meet tonight lively enthusiastic bunch look forward working	0.82
+632	thought fun not fun bright side fight parking	0.34
+633	happy not everything good see good side everything optimism	0.46
+634	sitting close extended period time exhilarating beautiful lively lol	0.72
+635	beautiful day	0.64
+636	eve izzy paige cheerfully sing songs together	0.6729999999999999
+637	want successful cheerful happy	0.491
+638	wish really truly wish modicum banter hilarious	0.6459999999999999
+639	ukulele bag fallen apart welll least life yet joys quote problemsolving behappy	0.304
+640	life izn pleasing others hell	0.154
+641	cheerful heart good medicine broken spirit saps person strength proverbs wednesdaywisdom	0.292
+642	hilarious	0.82
+643	liking optimism	0.54
+644	turn two weeks happy darkest year yet elated survived	0.708
+645	no tweet pictures four fictional characters describe one animated character	0.271
+646	loving far hilarious wonderful hilarious bravo 👏🏻👏🏻	0.75
+647	tone voice like one direction thoughtful timid yet playful	0.423
+648	day make goals challenges business goals optimism happy success photographer photography thursdaythoughts	0.423
+649	try drown gifts someone makes truly happy without materialistic things	0.292
+650	watching jubilant scrum end day remembering still kids priceless	0.625
+651	cluck cluck cluck wolf wolf wolf chirp chirp chirp ever hear	0.292
+652	birds begin chirp try sleep jetlag	0.12
+653	glad gained cheery vibes looking happy meal	0.5579999999999999
+654	exhilarating last minute overtime wch	0.68
+655	happy birthdayyyyyy pretty miss	0.688
+656	hard not cheer team north america since us got taken	0.375
+657	end day gotta happy	0.6
+658	thank much gloria sweet thoughtful made day joyful love 😊💕	0.938
+659	val reminds one cheerful witches looks aurora disney’s sleeping beauty gbbo	0.521
+660	put famous dex tweet breezy lol chris guy dex bitch lmao music ass	0.354
+661	sir hilarious	0.602
+662	sweet amp playful	0.7709999999999999
+663	best quote german almost happy	0.33299999999999996
+664	wake dream laughing something stupid makes laugh	0.708
+665	must knowing blithe means adj happy cheerful	0.583
+666	really love customer service always nice helpful cheerful	0.8079999999999999
+667	grumbled sat atop sushi bar stool crossing arms defiantly playful gesture though gave anyone gt	0.271
+668	makes complete sense elated hear	0.688
+669	drawing mini comics joyful folding mini comics meditative relaxing think need halloween	0.562
+670	may send copy herothegreyhound either book real paper one boy greyhound smiles tears laughter	0.667
+671	thank much coming detroit going sob joyful rainbows brb	0.804
+672	watch amazing live ly broadcast lively musically	0.5
+673	nga🙋 joyful day	0.68
+674	cheer jigaboo	0.146
+675	least blake lively ryan reynolds still together god bless beaut couple	0.475
+676	fucking playful	0.22699999999999998
+677	terribledebatequestions given many laughs afternoon thanks twitter cleverpeople	0.78
+678	breezy luvvvv	0.56
+679	great hear one thing makes feel like hearty chicken noodle soup right	0.46
+680	found thin mints freezer clean elated	0.76
+681	lady xmas dept answers call hello mrs xmas yep true story winning xmas cheer goodcustomerservice 📞👍😊	0.74
+682	smile messenger good	0.604
+683	better second half team season	0.2
+684	easy breezy beautiful rasta mon	0.44
+685	wait mirth	0.6459999999999999
+686	make sacrifices make happy	0.18
+687	glee glee glee glee glee glee lost lost lost lowe much	0.45799999999999996
+688	cheerfulness good temper spent remains	0.56
+689	happy birthday blessed day love toronto bday smile	0.7040000000000001
+690	asked one thing guys tonight got happy proud disappointed football timetoclimbthetable	0.58
+691	halfway work realize forgot put underwear going one days mombrain toomuchgoingon longday breezy	0.25
+692	yessir also cheering sweden bc lundqvist	0.45799999999999996
+693	discovered send animated gifs updated imessage	0.292
+694	sometimes likes ride arround people shoulders drop unexpectedly vents doorjambs like big gleeful spider	0.292
+695	see things clouds others see elate	0.625
+696	feels good get outside minute get fresh air hard stay cooped inside day	0.58
+697	assure no laughter increasing anger costs arrogance westminster	0.16699999999999998
+698	love play underlord listening cheery anime music	0.54
+699	book start improving relationship tonight taking journey fun laughter romance metaphysics htt…	0.509
+700	anyone remember movie animated late called shame jungle john bulushi wild taste	0.22899999999999998
+701	breezy breezy breezy breezy buzzinnnnnn	0.469
+702	food gets delivered 😍🙌🏻	0.7290000000000001
+703	happen expect thumbs place glee interpreting double negative	0.375
+704	logically speaking worst ever felt even passing still joyous occasion	0.16699999999999998
+705	tfw en route future coming ya openhouse futurecantor exhilarating nycletsgo	0.657
+706	girls playful childlike seem lovely relationships imagine serious convos cute 😍😍	0.688
+707	hey nascar fans going race loudon weekend not stop new day diner great hearty breakfast go	0.385
+708	gleesome threesome	0.32
+709	aww maine coon little named ted eddy wonder cat good cats playful sweet	0.604
+710	halfway work realize forgot put underwear going one days mombrain toomuchgoingon longday	0.25
+711	optimism lose actually compromise	0.34600000000000003
+712	heyday race war	0.292
+713	welcome genuinely made give head wobble realise important life	0.479
+714	watching football matches without commentary something rejoice found transmission city’s match like today joyful	0.688
+715	ever get nerve quit restaurant find tonite glee	0.396
+716	happy internationaldayofpeace everyone hoping world becomes better place less division happiness keep smiling 😄😄❤️	0.78
+717	violently screams four winds aint ever getting older cute jovial rhythm starts moves hips along waves arms air	0.604
+718	feel like one friends brought freshmen class pre game earlier year bc keeps smiling	0.5
+719	whole thread jovial fun comment like full misogyny	0.245
+720	love hearty negro laugh jade let lochte 😂😂	0.769
+721	despite absolute delight children would feel kitten home misery husband would feel	0.327
+722	kayaking merriment together sevylor inflatable kayaks eyggjxml	0.562
+723	alright said cheerfully trying make moment fun	0.45799999999999996
+724	watch amazing live ly broadcast lively musically	0.542
+725	thenicebot indymn thought holidays could not get cheerful met thenicebot الخفجي	0.769
+726	cover smile maybe get better	0.375
+727	update yet hang still hopeful optimism	0.462
+728	hannah week survivor find buoyant gen millenials survivor	0.52
+729	wasteful day day without	0.12
+730	envy ice least give warmth melts taylorlautner twilight quote	0.385
+731	cheer cheer red white grand final win fight thanks	0.625
+732	breezy love 🌬️🍃💛	0.6459999999999999
+733	omg outside making beats garageband little birds decided chirp along （≧∇≦）	0.62
+734	joyful hope patient affliction faithful prayer romans	0.396
+735	lord jesus don’t want prison want free entice heart beauty truth amp allow rejoice amen	0.28800000000000003
+736	today first time math professor let us live early class time min feelsgood happy wednesday	0.8270000000000001
+737	melissa benoist grant gustin musical crossover episode glee origins arrowverse	0.6459999999999999
+738	happy next class canceled bc im od tired	0.583
+739	delight lane tonight witness debuts young talent could backbone club coys	0.667
+740	lord thy god midst thee mighty save rejoice thee joy nzephaniah kjv	0.544
+741	happy not everything good see good side everything	0.627
+742	happy birthday cheer cheerchick jeep jeepgirl idriveajeep jeepjeep cheer	0.688
+743	method thin assault corridor thine liveliness chd	0.32
+744	envy ice least give warmth melts taylorlautner twilight hilarious quote	0.33
+745	laurel hearty handshake	0.45799999999999996
+746	love playful guys becoming offline beepbeep	0.6729999999999999
+747	watch amazing live ly broadcast boss musicallyjh	0.4
+748	non permissive environment also called battleground milspeak hilarious	0.52
+749	somebody braved storm brewing cheerful	0.46
+750	watch amazing live ly broadcast boss lively musicallyjh	0.479
+751	non permissive environment also called battleground milspeak	0.271
+752	happy means letting go clinging attachment things life wednesdaywisdom life	0.41700000000000004
+753	lively amp lovely buffnpolish	0.48
+754	see hovering block button today much glee	0.4
+755	ditto amazing atmosphere philippplein cheerleaders stunt londonevents cheer	0.74
+756	wait said cheerfully grinned	0.7709999999999999
+757	elated celebrated like obama waited last day office tell nation brothers getting reparations	0.5
+758	presentations propensity hilarity plays large part determining funny offensive ratio well thoughts go	0.4
+759	sparkling looks like gay vampire	0.48
+760	need bust elites dc need jobs need clean blithe inner cities rebuild housing cont	0.3
+761	moment levity baby want isis give isis nmom shh nbaby want isis nwest indian woman wants nmom ices	0.521
+762	pain hips squats sign youthfulness spry right 🤐🤐🤐🤐	0.16699999999999998
+763	good morning joyful people choose happiness great day today morning happiness grandmercurejktkemayoran	0.72
+764	ninaturner mine happening country needed moment levity bernblade lisavikingstad	0.271
+765	took awfy long time spot goal disallowed ☺️ pleasing	0.292
+766	makes successful happy forever	0.562
+767	hilarity ensues	0.542
+768	live simply dream big grateful give love laugh lots unknown quote inspiration	0.522
+769	stack porthole way heyday worthy faith bull eye transportation services mom	0.32
+770	forget hair salon looks light amp cheery would go coffee amp read book	0.7
+771	firstdayoffall happy sipping pumpkinspice flavored coffee smiling happy fall everyone amwriting	0.86
+772	good cx often require much smile care relate helpful thanks lakis court hotel cyprus	0.583
+773	nother begin telling story realized making attempt cheering sweet	0.521
+774	fix clever ritual make feel frolicsome	0.48
+775	disney animated musical film thelionking influenced williamshakespeare hamlet songs eltonjohn	0.44
+776	many chances show looked lively good shot tipped bar end	0.36
+777	❤️you dwts make night every show	0.8
+778	half past midnight loud banging front door told new rape cases edinburgh today nosleep	0.08
+779	find smiling even laughing jokes even think particularly funny know love	0.62
+780	cheer up☺️	0.42
+781	charm liveliness also weakness	0.271
+782	yep peeps always cheer others fine drooling gbbo	0.62
+783	happy birthday keep smiling always wishing wonderful year ahead mam	0.74
+784	guy back picture hilarious	0.625
+785	like said plenty cheddar cheese go around everyone smile	0.583
+786	get delight	0.40399999999999997
+787	cheering team sweden today team north american	0.35200000000000004
+788	quarterback wrecks every time	0.26
+789	funny everyone came life like far cheerful self confident could make abla kaml fga kda 😂😂😂	0.792
+790	cheerful voice echoed grand familiar home smile blossoming rosy brims mom reciprocated	0.537
+791	come fundraiser fri pm pie face	0.405
+792	followback quotesoup happy not everything good see good side everything	0.583
+793	online day come play happy happy horny playful sweet sour	0.875
+794	smell freshly cut grass even cheer boy oh boy	0.22899999999999998
+795	smile people see happens think surprised smile surprisepeople influenceinternational	0.7290000000000001
+796	weathers breezy man life always easy	0.5
+797	accept challenges literally even feel exhilaration victory george patton	0.4
+798	dehydrated exhausted stressed still blessed	0.337
+799	fee otherwise tricks palm oil delegation mt jaunty resident tzxchldaq	0.26899999999999996
+800	animated little thing might post tomorrow since itll good thursday nice	0.6
+801	smoking weed watch pull somebody else joyous thing ever	0.625
+802	weather breezy man life always easy	0.562
+803	imagine stupid trying chirp racist prick	0.154
+804	obama describes temperament steady amp buoyant side	0.22
+805	tell bodies cheering deaths black people cops fear killing us	0.1
+806	know great gbbo contestants helping cheering important	0.562
+807	people hate nothing happy confident person never mind happy confident	0.34
+808	still happy na blast	0.917
+809	want spar prince smiles reaches hilt icy eyes keep aaron playful look eyes	0.442
+810	really enjoy bright colors like colors would see downtown miami	0.7290000000000001
+811	simple human really loves like truly madly deeply rejoicing existence class queendom	0.7290000000000001
+812	happy not everything good see good side everything optimism	0.6459999999999999
+813	get animated imo companion changes monsters classics	0.292
+814	cheerful heart good medicine crushed spirit dries bones wicked man accepts bribe secret pervert justice	0.4
+815	omg got watch new series us wow best tv show seen long time tears moretears	0.5
+816	beautiful day elated	0.8540000000000001
+817	watch amazing live ly broadcast lively musically	0.6
+818	chris would take full responsibility would want us rejoice memories	0.28
+819	watch amazing live ly broadcast finfin musically	0.45799999999999996
+820	extremely playful	0.52
+821	epicurus man least dependent upon morrow goes meet morrow cheerfully	0.4
+822	bobs burgers animated show maybe bob looks like would cast based voice	0.33299999999999996
+823	tf broke boys keep tryna find gf get ur fuckin right smack yo bitchass deserves happy amp deserve ass	0.057999999999999996
+824	cried laughter	0.66
+825	love optimism blue moon	0.72
+826	big thanks brad pitt trashy ways brought modicum levity otherwise lame week political	0.3
+827	gen niv—the lord smelled pleasing aroma said heart “never i… lifelong depravity	0.292
+828	jovial forgiving negro always pressed upon act self interest favor oppressor	0.09
+829	would tragicallyhip help make hospitalized sick kids smile 😊✌❤	0.519
+830	lion heart nwill protect stormy skies nand always listening laughter tears	0.45799999999999996
+831	lets see chirp	0.231
+832	noah fence want harley quinn blake lively layout	0.207
+833	miss cookie sends thanks not spry used like adventures young pups	0.6
+834	lordderply like yugioh animated shows	0.43799999999999994
+835	veteran totally got ticket elated right close call	0.604
+836	lucky bad pitchers whatever elkracken legit future gottawearshades letsgoyankees	0.32
+837	peaceispossible party accept one another rejoice together ondoguber nov	0.41700000000000004
+838	walking little boy red shirt years age shouting distance meters jovial manner saying	0.62
+839	know nj worst purpose laughter	0.462
+840	day elated taking pto tomorrow doneeeee	0.68
+841	convinced mom watch killgrave gave literal nightmares watched last episode four times smile	0.396
+842	way takeru eyes sparkling eating like cutest thing ever	0.688
+843	everyone sparkling water bomb drink mix stuff	0.312
+844	gutted loved cheery disposition	0.5
+845	hope see levity light romance happiness come stitch abby way long hard road	0.33299999999999996
+846	may optimism tomorrow foundation today	0.54
+847	plus hearty pour yachtrock mustacheharbor	0.5
+848	watch amazing live ly broadcast lively musically	0.48100000000000004
+849	people call pov kx make night	0.48
+850	watch amazing live ly broadcast peterson lively musically come watch	0.52
+851	true rejoicing fact signed quality young cb need one least mebbe	0.292
+852	thursday means grey day tgit rejoice	0.56
+853	meogysdailyvocabenhancment elation quality state elated feeling state great joy pride	0.375
+854	currently listening amp podcasts guys please move yvr missyou	0.365
+855	piersgough thoroughly lively imaginative developers—“sager always challenged us better better	0.34
+856	accept challenges may feel exhilaration victory ntomiho ipaglabanmo tapingday	0.521
+857	give cheerfully	0.442
+858	“don’t burn keep fueled aflame alert servants master cheerfully expectant romans	0.433
+859	lively lovely shower	0.82
+860	draw scum must rubbing hands glee typical draw woolwich lot jammygunnerscum	0.292
+861	love hilarious looking forward much kudos pilot speechless	0.917
+862	smile every morning positive head start clients relations	0.562
+863	guitar shop owners everywhere rejoice	0.667
+864	moving weekend amp sugar daddy replace niggas still happy	0.45799999999999996
+865	chewing arcdental turlock	0.35200000000000004
+866	top seed johnson chases double delight tour championship	0.41700000000000004
+867	modern day book burning without awful guilt oh gleeful social sharing hats	0.312
+868	quarterback wrecks every time glee	0.4
+869	shy next time cheery bunch nsam	0.48
+870	tomorrow first day 🍂🍂fall🍁🍁and elated	0.9
+871	moment found smiling	0.54
+872	like talking someone makes laugh laughter best medicine	0.6459999999999999
+873	chirp chirp	0.519
+874	way rejoicing pulpit park city baptist church surrey bc midweek service	0.654
+875	rainy day cheerful sunshine prussian want nothing prussian	0.245
+876	got coming back week joyous haha	0.6459999999999999
+877	happy birthday hope wonderful day filled lots joy laughter lt despite tumblr jerk	0.8540000000000001
+878	got this💙 staystrong smile yourebeautiful	0.7290000000000001
+879	got see last lively talkative able tell loved matters	0.28
+880	sometimes get sit back proud pleasing well	0.38
+881	catering channel height technics hearty enjoyment symptomatize vrlfeyrn	0.542
+882	ni bought steam port vice city delight billie jean soundtrack	0.688
+883	tfw en route future coming ya openhouse futurecantor nycletsgo	0.56
+884	hilarious not freudian slip eh	0.667
+885	boys rejoice badger corner reclaimed first social year cluboftheyear	0.6459999999999999
+886	hate im singing idiot thinks join like not fcking glee meanrikonabot	0.08
+887	decide stop afraid stop free brave free honest healthy life living love	0.4
+888	lowkey want go chirp anna lol say hi atkins one favourite coaches smart caring	0.66
+889	sad rejoicing collegekills	0.34
+890	merriment amp laughter amp instructional powerpoint presentation well done concerned amp thanks	0.59
+891	love seeing happy women glow something real	0.75
+892	traditionalists say bored bored not bored rule cheerfully ignored	0.3
+893	introducing little levity convo yep	0.54
+894	held back skull smiling kiss	0.483
+895	soul searching like announce chosen amp adopted sisters due hilarity	0.6
+896	cheering nhlnycsweepstakes	0.56
+897	another joyful encounter tribez amp castlez met bartolomeo want know download game find	0.667
+898	take kindness weakness acting silly keeping forté breezy chrisbrown teambreezy	0.188
+899	every time people push prescription pot prohibitionists rub hands glee hand cannabis amp slavery	0.271
+900	food деньги smile microsoft netframework fullplusbygora	0.375
+901	rule mind nit hilarious 😭😑😮	0.396
+902	goddamn celebrity draft end classic	0.5
+903	hearty welcome followed	0.615
+904	thought got mad anything bf gets mad little thing lmfao shit hilarious	0.583
+905	died laughter seeing that😂😭😂😭	0.92
+906	watch amazing live ly broadcast lively musically	0.625
+907	everyday wake different player signs contract extension love future coys	0.888
+908	feelings got cheated mistook sparkling ribena normal ribena	0.14
+909	hahaha da best bro ever luv hearty hearts	0.78
+910	fans wanted man utd home next round nare cheering northampton man utd right lufc	0.292
+911	minutes yoga breakfast routine change day preparation sunriseyoga bodyawareness health yoga smile stretch	0.625
+912	appreciate amp enjoy life nuse smile help others use ☺️	0.562
+913	skiving freshers day nails sunbeds gym 😉💜👑 priorities student studentnurse pampered happy	0.9229999999999999
+914	great training course lots photos fun laughter photo soon boostercourse fun	0.74
+915	great time skywalkers open gym tonight come every wednesday hillsboro train us opengym cheer tumbling	0.833
+916	smile respect give everyone	0.583
+917	ride pile salt life extra sweet always salty always savory surfing aloha smiling	0.68
+918	thisisus messed mind amp anticipating next episode apprehension amp isthereahelplineforthis	0.4
+919	far greet raised come sparkling	0.625
+920	maybe entire russian team test positive meldonium north americans get replace	0.18
+921	feeling taking someone life either scarring exhilarating people need realize going die	0.115
+922	pleasing night lane next round amp bring liverpool anfield coys	0.625
+923	evil rich white men fucking cronies intelligence gov academia using blithe blacks fodder	0.08
+924	sparkling still terribledebatequestions	0.146
+925	well look bright side found use rope tipstosurviveapoweroutage	0.312
+926	minutes yoga breakfast routine change day preparation sunriseyoga bodyawareness health yoga stretch	0.521
+927	wonder gleeful dumb af see world rose tinted glasses	0.14800000000000002
+928	people watch enjoy rare show optimism	0.43799999999999994
+929	cool see smart cowboystwitter folks chirp stuff review joined	0.52
+930	aesthetically pleasing omg	0.583
+931	great minds think alike rejoice	0.519
+932	absolutely love laurie hernandez adorable always cheerful	0.7879999999999999
+933	great training course lots photos fun laughter photo soon boostercourse fun laughter	0.82
+934	truly believe heart right satan rejoicing one another	0.204
+935	certain hilarity people angry protests national anthem flag acts covered st amendment	0.312
+936	lady store said nice eyelashes good right optimism	0.385
+937	chiropractor makes	0.271
+938	looking like heyday	0.4
+939	watch amazing live ly broadcast mila lively musically	0.48200000000000004
+940	intermit animated ncaa pittsburgh vs mississippi sprightly shiny bbva level peg varsity football telly scra	0.406
+941	happy not everything good see good side everything	0.604
+942	use smile change world let world change smile quote actorslife smile love hardworkpaysoff fun	0.562
+943	also delight	0.542
+944	benefit exhilaration called online backing jkuvmvqxy	0.462
+945	watch amazing live ly broadcast mccloud musically	0.5
+946	promise restoration nation israel everywhere look blessing barns wine overflow everything beautiful joyful dousee	0.5
+947	feel blessed work family nanny ❤️ nothing love amp appreciation makes smile	0.938
+948	watching driven food going devon ave eat nihari makes gleeful af	0.78
+949	luckii changing many ways bc scary joyful feeling making strong	0.877
+950	watch amazing live ly broadcast musically	0.483
+951	kinda wished watched mischievous kiss playful kiss	0.40399999999999997
+952	mostly animated audience bet green sceen folk ones need air	0.34
+953	think ian knew pavel knew charlie bet rob cackle glee heard happened thearchers	0.33
+954	last night watched balls animated bounce minutes figuring wrong	0.146
+955	gkn lively well mad quick	0.32
+956	symmetry key everything must aesthetically pleasing possible hold twin pistols deaththekid bot	0.32
+957	return matt damon director paul greengrass brings back exhilarating rather po faced entertainment movie	0.5
+958	ooh hygge candles jasmine tea amp gbbo	0.68
+959	know sparkling letters super mario galaxy spell mr gay	0.312
+960	second day job already got dollar tip dude whose constantly twitching eye lololol cheering	0.8540000000000001
+961	yeah playing well	0.688
+962	rec call day haitian church started florida yrs ago preparing acquire bldg wanted know	0.28
+963	awesome ok odds swapping neighborhoods	0.52
+964	oi absolutely fucking killed mins later im still crying laughter grindah grindah hahahahahahaha	0.846
+965	turkish exhilaration shade irruptive russian visitors twelvemonth gobbler nephalism	0.40399999999999997
+966	proverbs ointment perfume rejoice heart doth sweetness man friend hearty counsel truthfmdawnbreak	0.583
+967	hunter way content joyous simple domestic bliss cannot wait word truly	0.349
+968	highly animated even though decomposing	0.33299999999999996
+969	watch amazing live ly broadcast musically	0.45799999999999996
+970	joyous first webiversary web mitzvah smithsonian	0.667
+971	would height hilarity not fact adult swan highly likely attack	0.24
+972	not man not know juggle balls funny pun punny lol	0.596
+973	niggas never changed even kid year old interviews seems jovial happy death sister	0.4
+974	love new show hilarious	0.7879999999999999
+975	ya talkin know know ya talkin bout new shit chuckin deuces 🔥🔥 kanye breezy	0.25
+976	accept challenges feel exhilaration victory focusx motivation motivationalquotes quoteoftheday	0.562
+977	old saying smile shared one gained another day	0.5
+978	wanted get cake sparkling candles like cake😒😒 ruins everything	0.10400000000000001
+979	meet new people grow reality people desgusting fake lost cheerfulness started	0.14400000000000002
+980	backed pats	0.32
+981	reaper became reaper find stories wiki thru comics animated shorts	0.375
+982	american schools lively	0.614
+983	possibilities endless becca unplug matrix stay salty happy surfing sunset aloha	0.604
+984	bother tweeting poor men nwhat good unable cheery go quiet missed btw	0.212
+985	accept challenges life may feel exhilaration victory	0.5
+986	head north arrive breezy cave smells sweet glance watch running minutes late	0.354
+987	sylvia elated receive kisses little prince bright smile clear glanced garrett elyse	0.667
+988	favourite joyful soul	0.528
+989	anyone drinks sparkling water demon	0.12
+990	aaa cam animated proud boy	0.583
+991	started watching glee week addicted gleek	0.5
+992	wasteful day day without laughter	0.521
+993	rewatching glee break tears 😭😢	0.22899999999999998
+994	watch amazing live ly broadcast lively musically	0.449
+995	canada final tomorrow wch predictions optimism canadian 🇨🇦	0.42
+996	yes ❤️❤️ amp cheering homecoming game	0.78
+997	time go hit library lovely pile book reservations collect morning glee books reading	0.66
+998	sure switch cable news cheery	0.625
+999	not young man compiled info smiling baby mattress created new evil	0.312
+1000	joyful tambourines ceased noise jubilant stopped joyful lyre ceased isaiah	0.20800000000000002
+1001	day harvest listening sound chopper working way closer home makes farm	0.41700000000000004
+1002	gaming sites leaned ps heyday leaned last gen gen started vitriolic mostly	0.207
+1003	want darren open video appreciate hilarity	0.45799999999999996
+1004	harking back dt challenge give dt hearty thank release tax returns	0.179
+1005	well cheery mrrobot	0.6459999999999999
+1006	pinky funny jovial bt got emotional brought tears felt bad ishqbaaaz	0.16
+1007	jovial laughter trump lackeys showed king used word truly bizarre sight	0.396
+1008	bright side music theory teacher pocket dabbed said know hip walked away 😂😭	0.521
+1009	night sparkling let go wonderstruck blushing way home valeriebot	0.66
+1010	ability make someone happy make someone smile world needs right createlove ☺️	0.66
+1011	incredible anthony weiner caught chasing busty milkmaid across park double speed jaunty music plays	0.38
+1012	sometimes im sad remember margaret thatcher dead rejoice	0.292
+1013	lmao slutty hater girl video hilarious	0.7
+1014	watch amazing live ly broadcast finfin lively musically	0.542
+1015	assured eventual destruction would interests public cheerfully accept sherlock holmes	0.3
+1016	impractical jokers practically genius laughter goodthesoul impracticaljokers bingewatching	0.708
+1017	thank support not attempt levity	0.182
+1018	tutoring gives exhilarating feeling love helping people	0.8959999999999999
+1019	luke nhe joy delight many rejoice birth	0.625
+1020	oh ok yeah felt dumb like think would known animated least lmao	0.479
+1021	felt bit shit getting high blood sugar remembered first one week incredible happy	0.604
+1022	gonna street parties lot leave spontaneous rejoicing clowns	0.36
+1023	know pro actively playful want press boobs face tatenashi not saying no though	0.396
+1024	taguchi engineering fashionable hale hearty little game optimization mqnaocu	0.462
+1025	use warblers set glee episode acapella college kids	0.32
+1026	possible magazines put versus thy joviality conjunction shower quotient sufficiently bqavtja	0.44
+1027	actually maybe supposed die donation saved lives optimism	0.292
+1028	every single problem ever face solved nice blend patience optimism	0.521
+1029	every wednesday like visit inmates arkham deliver fruit basket cheery bouquet enhanced interrogation	0.45799999999999996
+1030	n👅💦👅💦👅💦👅💦👅💦👅that hot pussy unappetizing delight	0.375
+1031	lord turn face toward give peace numbers truth trust promise calm justice great mighty protected	0.354
+1032	loving pitch far 🤗🤗🤗 chills smiling	0.8540000000000001
+1033	attempt levity	0.479
+1034	cheerfully defending group unchecked armed thugs shown history racism violence lies	0.10400000000000001
+1035	would hilarious frighteningly point gone bad apples national disgrace	0.125
+1036	gets crushes fictional animated characters instead real people	0.3
+1037	come fundraiser fri pm pie face hilarity	0.6
+1038	hope never go day without something make smile deserve good things please follow n❤️💛💚💙💜	0.6
+1039	dont feel grateful grateful written things work together good love god cheerful	0.623
+1040	getting comedic relief season premiere modernfamily girl needs	0.812
+1041	let playful gasp slowly wrapped arms around neck kissing back	0.62
+1042	hello miss lady sure today brings happiness laughter use voice also make us laugh god knows need	0.562
+1043	half day tuhday nah glee	0.125
+1044	literally dying amp living time catch twitter following life basic hilarity	0.6759999999999999
+1045	good night twitter world wish good sleep productive jovial days	0.731
+1046	survivor back survivormillennialsvsgenx happy see happy	0.605
+1047	jk started week strong still going strong optimism	0.731
+1048	gas prices hilarious cause simultaneously super subsidised taxed	0.22
+1049	yell bye garbage cheerfully	0.36
+1050	happy bday bro 👌🏻	0.708
+1051	beings physical reality reflection always joyful extends lives	0.521
+1052	google caffeine sprightly lengthening corridor seo wgj	0.2
+1053	bridget jones baby bloody hilarious bridgetjonesbaby	0.86
+1054	gave playful wink taking goggles head swinging around finger would never	0.534
+1055	take kindness weakness acting silly keeping forté chrisbrown teambreezy	0.28800000000000003
+1056	fan endless laughter friends enjoying happiness together fridayfeeling weekend	0.8540000000000001
+1057	still respect suppose little gleeful days take good	0.41700000000000004
+1058	would enrique sub busquet	0.271
+1059	root canal therapy bad reputation past new technology allowed comfortable procedures smile dental	0.327
+1060	heard incredibly transcendent song ever amp feel high amp fucked yet joyful amp never	0.607
+1061	iniesta still one player idolize barca delight watch tell	0.562
+1062	animated much recently technology wise makes nice combination look	0.32
+1063	race advances extra achievements individual individual charles towne inspire	0.258
+1064	thenicebot wsjnordics make world joyful place thenicebot الخفجي	0.708
+1065	make world joyful place thenicebot	0.8640000000000001
+1066	amount laughter ready leave body united lose unreal	0.5
+1067	half past midnight loud banging front door told new rape cases edinburgh today joyful nosleep	0.02
+1068	whatever decide make sure makes	0.44
+1069	perhaps missed another season ihwph nyou joyous gleeful prospect eating	0.708
+1070	good thing sick coughing like ab workout maybe abs defined time better 😂😅	0.44
+1071	somebody braved storm brewing	0.292
+1072	get going tag link please lot friends love following unintentional hilarity	0.6709999999999999
+1073	lmfao racepimp tamron hall used words fscts msnbc sentence libtard biasedmedia neverhillary	0.231
+1074	not fault observant thought not sorry wisdom laughter observingyou allthetime becareful	0.41700000000000004
+1075	inglorious distinguished try auction joviality touching back side auction otherwise advance order vawyzad	0.423
+1076	sorry levity inappropriate combined love charlotte reminds rn	0.28
+1077	chirp look cars coming wesszzz	0.3
+1078	watch amazing live ly broadcast musically	0.462
+1079	manchester united manchester city happy days efl	0.775
+1080	love insta	0.68
+1081	finn singing fight feeling shower spying one best scenes show	0.56
+1082	happy birthday jin young princejinyoungday happyjinyoungday got birthday	0.75
+1083	omd cracking thanks follow brian need levity balance cynicism share michael😀	0.84
+1084	watch amazing live ly broadcast mae lively musically	0.6459999999999999
+1085	no coincidence lacan recorded infants jubilant reactions mirror images noise	0.52
+1086	ages since ive shawarma stomach	0.4
+1087	haters like crickets chirp day walk past shut fuck idol	0.20800000000000002
+1088	neighbor dancing clayton homes commercial	0.43799999999999994
+1089	live life devoid mirth come think enough taco bowls life either	0.3
+1090	taking picture awkward smile nme picture day awkward smile nconclusion stop smiling pictureday smile ornot	0.40399999999999997
+1091	misery loves company church ought place finds none pastor kris theobald joy rejoice	0.34600000000000003
+1092	quinn short hair makes sad	0.083
+1093	smile instagramers selfie bestmeselfie smile bestmecameraisgreat emojigrid likeforlike friend girl boy tattoos family pack	0.52
+1094	good morning welcome new day life heart mindfulness zen	0.7709999999999999
+1095	really hitting flavors sparkling water rap know tripping half french spanish flavors	0.42
+1096	blocking doesnt diminish hilarity observation child like response	0.271
+1097	neighbor dancing clayton homes commercial hilarious	0.64
+1098	watch amazing live ly broadcast lively musically	0.48
+1099	hilarious	0.6940000000000001
+1100	beautiful day today cloudy sunny breezy	0.6729999999999999
+1101	toddler coping new arrival tried killing yet cheerfully ask	0.292
+1102	easy breezy beautiful	0.604
+1103	people always tell expect anxiety generally cheerful act way expect	0.16
+1104	drink watch worst way cheer	0.292
+1105	helluva lot animated actual game gt lt	0.327
+1106	rejoice following statutes one rejoices great riches psalm thebible	0.434
+1107	come join cakeclubhour tomorrow afternoon pm bizhour	0.439
+1108	ahh voice gets better asked play id happy	0.688
+1109	easy spot parade tiny weans expensive jammies really hilarious	0.75
+1110	best quote german almost	0.26
+1111	tend sick lord christ give rest weary bless dying soothe suffering pity afflicted shield joyous	0.271
+1112	pos rejoicing someone death	0.019
+1113	come rejoice arrival	0.45799999999999996
+1114	branch closed sunday honor ironman happening downtown come cheer race participants	0.604
+1115	punchline king back 🔥🔥🔥🔥🔥🔥🔥💯💯💯 bright city lights	0.542
+1116	apparently money world buy single person tell not give waist hearty two handed pinch onstage	0.16
+1117	friends send ballons fireworks text amazing smiling	0.778
+1118	decent sleep makes kurt happy soldier spit amp polish converse men chests baseball caps jaunty angle	0.43799999999999994
+1119	peoplelikemebecause razor wit amp sparkling personality	0.519
+1120	lol thought maybe decide levity not	0.312
+1121	morning started amazing hopefully whole day going want go greatday optimism	0.8240000000000001
+1122	dhoni bcoz calmness nd match winning finishers nd proud miltirian dad husband nd wonderful humanbeing nd	0.542
+1123	glee	0.40399999999999997
+1124	rewatching glee break tears 😭😢 glee	0.375
+1125	💥⚖️yeah‼️ paul‼️⚖️💥 joyous glorious bb	0.92
+1126	well sparkling	0.444
+1127	miami proficiency like pleasing name miami beaches pikxb	0.34
+1128	thank disney themed episode letting discover amazing	0.7290000000000001
+1129	love laugh share laughter way share joy	0.8540000000000001
+1130	okay deepbreathes ☺️ 💪🏻🔴⚪️ cheer cheer amp see side peeps ❤️ aflcatsswans proudlysydney	0.78
+1131	happy birthday blessed day love toronto bday	0.868
+1132	go follow beautiful snowgang princess fitness bodyposi haircut whitegirlwednesday	0.375
+1133	another joyful encounter tribez amp castlez met mouchole ogre cook want know download game find	0.52
+1134	actually chooses drink sparkling water	0.20800000000000002
+1135	try asking cheeseburger onion amp mustard mcdonalds hilarious	0.5670000000000001
+1136	things grind gears people drawing gideon gleeful skinny	0.292
+1137	big thank liking little pumpkin smallest playful amp wakes mornings	0.648
+1138	heyday could go either way writing stronger know sacrificed first	0.32
+1139	pleasing ty	0.7709999999999999
+1140	object literature make man wiser happier poet makes us happy tells us may become	0.58
+1141	happy looking couple	0.542
+1142	thus begins week holiday 😏😏 holiday cheering ghastinoir rest	0.86
+1143	follow whether ever talked not hope joyous life goodbye	0.45799999999999996
+1144	not man not know juggle balls funny pun punny lol	0.688
+1145	shawty lo beef one underrated ones hip hop history chock full wit bravado hilarity	0.62
+1146	thursday means grey day tgit	0.6559999999999999
+1147	seriously digging eyebrows	0.479
+1148	mean guess mean ones treated like playful want support yoosung without dating	0.32
+1149	ever cheerful	0.74
+1150	watch amazing live ly broadcast musically	0.48
+1151	exhilarating feeling working hard feeling accomplished whether notice not feel fu king good	0.7709999999999999
+1152	yesterday sept installed new stratagem including audacity rejoicing harbour tower tenaciously follow	0.396
+1153	thank teaching live long since amp ride exhilarating know	0.68
+1154	leon cheerfulness always big help	0.625
+1155	loading mirth trusted websites lkskqufke	0.32
+1156	zephaniah surely rejoicing us singing romance needed today	0.708
+1157	hey phil glutting thank following us appreciated	0.6459999999999999
+1158	future planned feel much happier goals life happy igotthis yay	0.875
+1159	solange aesthetically pleasing fave	0.42
+1160	loving pitch far 🤗🤗🤗 chills	0.75
+1161	 lit class great person good cheer	0.81
+1162	miss lil caramel delight	0.44
+1163	not filming smile please	0.542
+1164	person renown cheerful expectation solutions pleasure principle back hsnhzmjsc	0.48200000000000004
+1165	god replaced sadness laughter go whole day sad	0.615
+1166	granny would say know chirp	0.44
+1167	sweet optimism	0.56
+1168	trump supporters hillary haters wanna chirp weak minded pandering liberals tweet	0.1
+1169	thank follow good website cheering no hassle	0.708
+1170	boro os could give stewards good work chelsea get lively	0.32
+1171	watch amazing live ly broadcast musically	0.542
+1172	lie cut years age young spry hire able hollywood thegoldbergs	0.36
+1173	watch amazing live ly broadcast musically	0.45899999999999996
+1174	felt bit shit getting high blood sugar remembered first one week incredible	0.48
+1175	mustacheharbor tiburonchamber plus hearty pour yachtrock mustacheharbor	0.55
+1176	hear darn optimism led demise li live zerobot	0.16699999999999998
+1177	watch amazing live ly broadcast musically	0.521
+1178	looks exhilarating looking forward seeing 👍🏼	0.74
+1179	nothing lovelier great mate sending joyful sweet pic thankyou amy xxxx	0.86
+1180	mou jovial trying impress players much no player bigger manutd saf tolerate bs	0.192
+1181	heartfelt condolences glad passed levity love heart	0.188
+1182	asshole made sexually attacked animated bear	0.20800000000000002
+1183	no clear american naturally flavored sparkling water	0.312
+1184	katie love describe normal really anything neverchange	0.479
+1185	people hate nothing happy confident person never mind confident	0.318
+1186	currently listening amp podcasts guys please move yvr hilarious missyou	0.769
+1187	listen dn subscribe team coq team xhaka stuff like players depth elated	0.562
+1188	“set goal achieve something big exhilarating excites amp scares time n― bobproctor	0.38299999999999995
+1189	watching bacheloretteau zoolander samvrhys	0.4
+1190	keep smiling life beautiful thing much smile marilynmonroe keepsmiling	0.583
+1191	days gopackgo days gogipego excited smiling	0.88
+1192	lea mini set tour glee heart cried tears happiness sadness	0.49200000000000005
+1193	siblings look gangster amp look cheery 😅😂	0.667
+1194	lively evening ot one	0.38
+1195	man great job happy success short time mom amp dad smiling heaven love bro	0.938
+1196	uncertainty halsey teases lips curving jovial smirk	0.43799999999999994
+1197	cannot dm follow not party fail letdown	0.076
+1198	want others happy practice compassion want happy practice compassion dalai lama	0.555
+1199	something satisfying opening old doc file able check things done smiling	0.667
+1200	smile say love love	0.146
+1201	laughed bit course aria shook head calming mirth could listen mikey no actually	0.43799999999999994
+1202	happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday best friend love lots 💖💖💖💖💖💖💖🎉🎊 chapter bdaygirl happy love	0.9
+1203	watch amazing live ly broadcast lively musically	0.51
+1204	great time skywalkers open gym tonight come every wednesday hillsboro train us opengym tumbling	0.78
+1205	miss naivety blind optimism	0.16699999999999998
+1206	thank follow looking forward tweets look entertaining smile socialmedia	0.66
+1207	rec call day haitian church started florida yrs ago preparing acquire bldg wanted know rejoicing	0.56
+1208	returned joyous focus pastel haired girl wawa okay tooooo squealed raising eyebrows	0.604
+1209	former diplomat quite gleeful situation pakistan nnot quite stiff upper lip diplomacy seen normally	0.259
+1210	countryside day pleasing	0.667
+1211	php though kardashian stuff goes head hilarious like gleeful little boys 😂😂	0.8079999999999999
+1212	watching bacheloretteau zoolander hilarious samvrhys	0.6459999999999999
+1213	ukulele bag fallen apart welll least life yet	0.24
+1214	better second half team season optimism	0.45799999999999996
+1215	hms pinafore time ni need mirth	0.312
+1216	talking problems greatest addiction break habittalk ur joys quote optimism problemsolving behappy	0.34
+1217	needed levity hubs talking kyle new solo album yo says loves ur news show news lolz	0.604
+1218	every day need choose hope fear diversity division justin missed optimism change sunniness love	0.40399999999999997
+1219	lucky bad pitchers whatever elkracken legit future bright gottawearshades letsgoyankees	0.33299999999999996
+1220	bring back heyday nominatebunkface	0.38
+1221	three days month two ex wives no home could worse know could oilandgas optimism	0.25
+1222	rap cut raper throat said badd wicked bright city lights	0.212
+1223	thanks making mass fr vallely respectful meaningful joyful seewitheyesofmercy	0.72
+1224	sparkling water makes life sparkly	0.521
+1225	day jovial tribalcouncil different darker fellow still simply smiles survivor	0.26
+1226	respond email within fays wifl killed animated gif girl ring	0.18
+1227	sweet	0.6459999999999999
+1228	yesyesyes like jd closest cahracter similar blaine optimism ability crack tough characters	0.68
+1229	not man not know juggle balls funny pun lol punny	0.625
+1230	reveal broad smile yeah nice npursing lips stifled joyous expression order	0.542
+1231	bed done floor done last curtains hah tried sound happy cheery really	0.22899999999999998
+1232	peoplelikemebecause people using hashtag brag not interested pleasing others pleasing god	0.396
+1233	good morning love happy first day fall let make awesome autumnmemories annabailey laughter smile	0.924
+1234	character woman man fat jovial woman fat useless maybe evil amirite	0.146
+1235	new day live smile hope followers nice night day	0.688
+1236	close shots ugly mug continue talk blaine years glee dead	0.28
+1237	amp much hate dude cheat women forego pleasing man get lazy amp men get lazy amp pointless	0.16
+1238	ifiwerepresident nmy goal would us miserable yet jovial co others know civil realization self	0.16899999999999998
+1239	lot positives tonight clean sheet payet got free kick practice zaza looked lively made lot good runs	0.745
+1240	ryan gosling eva mendes finally joyful funny dont boss dont argue everything kids go mini car trips focus love	0.62
+1241	good morning welcome new day life heart mindfulness smile zen	0.9
+1242	friend messaged ugh hungry wait breakfast socialmedia winewednesday funny laughing	0.479
+1243	riding night got one exhilarating refreshing things ever done	0.654
+1244	latest new optimism keeping raiders oakland live right meets lott amp schaaf talk new stadium	0.4
+1245	ff keep smiling	0.479
+1246	learning key converting leaning someone else door open door success	0.52
+1247	sanatana lopez definitely glee	0.625
+1248	much hilarity one day	0.604
+1249	lively listen💗😀	0.7709999999999999
+1250	warm smile universal language kindness william arthur ward love kindness	0.654
+1251	dudes wanna play bass not buy bass rejoice	0.308
+1252	short step biweekly community meetings hearty meal soy flakes	0.20800000000000002
+1253	okay trans rejoice trans trans way way not business care	0.24
+1254	mate thing get excited profession mad client said opened bowels rejoicing	0.7040000000000001
+1255	saw dreams dashed amp amp divided like million stars night sky wished amp amp sparkling amp amp broken	0.25
+1256	ciara asks sci fi movie julie amp jen stare claire phone joey bolts cab honks lmao	0.542
+1257	accept challenges feel exhilaration victory	0.396
+1258	nice idea collect relevant socialmedia one dont automatic pls worldsapp ⬅️ chirp appsworld socialmedia merci🎈	0.462
+1259	literally feels sg happy sam😍	0.8959999999999999
+1260	mick nods would like went back food smiling finished	0.62
+1261	found marmite australia	0.5579999999999999
+1262	profitable fx money manager clients mind high profit share take since happy returns make	0.44
+1263	may right since year bad events begin privately hoping got least go st	0.22899999999999998
+1264	every day think mind pleasing god decision making way react treat ppl speak pleasing god	0.354
+1265	still shred optimism rapidly disappearing however	0.1
+1266	glad see fun sun water sports always fun challenging exhilarating happiness beauty	0.7959999999999999
+1267	saw whose countenance expressed mighty rivers monotonous lively conversation took care various	0.42
+1268	took yr school proud say got accepted yo girl going finish	0.833
+1269	bet pawpaw good time rejoicing heaven first birthday	0.66
+1270	play rappers delight minute kip	0.32
+1271	wish really truly wish modicum banter	0.24
+1272	metro lrt went walterdale yeg levity	0.5
+1273	thank follow looking forward tweets look entertaining socialmedia	0.6
+1274	waiting week game ❤️❤️❤️ cheer friday ❤️	0.94
+1275	lmboo using nephew meme	0.6459999999999999
+1276	going away want see hurt changing hearts minds really option no	0.22899999999999998
+1277	way wearing smile gave today	0.812
+1278	“when give cheerfully accept gratefully everyone blessed ”―maya angelou	0.46
+1279	reflection grind real working jobs amp school ksudsm ksu recruiter instructor tumble cheer gradschool	0.3
+1280	playful shit😤	0.33299999999999996
+1281	dark dense exhilarating come finale hellorhighwater gripping watch	0.312
+1282	babe remember always need little cheering talk ily lots💘	0.41700000000000004
+1283	ya talkin know know ya talkin bout new shit chuckin deuces 🔥🔥 kanye	0.231
+1284	gifs ios messaging app hilarious	0.6729999999999999
+1285	wishing ipswich tigers good luck games throughout homecoming week cheering city office go tigers	0.763
+1286	rewatching raising hope hubs time totally forgot hilarious herewego	0.76
+1287	always ready	0.40700000000000003
+1288	day made nlet us rehoi rejoice glad n😊💖 aja ngood morning	0.8540000000000001
+1289	get deviant differently enigmatic bellboy passage correct thy ring jaunty iwldpe	0.34600000000000003
+1290	arts create richness amp liveliness society continues educational amp social benefits ends economic	0.41700000000000004
+1291	sparkling water death	0.125
+1292	better mood today bring teasing flirting xdressers laughter roleplayers also confessions secrets	0.6890000000000001
+1293	bf drove way long day spend min holding make feel better get lucky lucky	0.708
+1294	lovely story actually see ruth hubby cashcow funny left phone happy	0.74
+1295	not joy makes us grateful gratitude makes us joyful david rast	0.62
+1296	snapchat new would beg differ	0.156
+1297	quotesoup happy not everything good see good side everything	0.479
+1298	hard stifle laughter overheard comment really amazing worst ways	0.6459999999999999
+1299	team world would totally elated get xd	0.547
+1300	🍃when life shows hundred reasons cry show hundred one reasons smile quotes	0.5770000000000001
+1301	laugh today laugh hard hope need laughter love	0.595
+1302	thought everyday glee day	0.264
+1303	compatibility key lowers hedonic volatility	0.25
+1304	thus begins week holiday 😏😏 holiday ghastinoir rest	0.792
+1305	thought gets day thought smile never fails making smile	0.8540000000000001
+1306	snow pig hilarious lmaooo	0.6920000000000001
+1307	uff look arsenal fans cheering every goal united haha	0.667
+1308	twitter font endless hilarity	0.42
+1309	assured eventual destruction would interests public cheerfully accept sherlock holmes	0.32
+1310	second day job already got dollar tip dude whose constantly twitching eye lololol	0.812
+1311	finn singing fight feeling shower spying one best scenes show glee	0.56
+1312	bf drove way long day spend min holding make feel better get lucky lucky happy	0.938
+1313	glee filled normy dry humping recent high profile celebrity break pathetic amp wrong world today	0.1
+1314	love family much lucky grateful smartassfamily hilarious love	0.792
+1315	always gotta attitude tho cheer	0.188
+1316	optimism leads success bill kerr success goals	0.583
+1317	indeed lovely team incredibly attentive ball cheese lively gesture	0.6459999999999999
+1318	admittedly went series thinking see jedi heyday not dysfunctional un peacekeepers space	0.25
+1319	talk mood pickup went depressed elated fast	0.56
+1320	hate overthinking like jus wanna happy pls	0.04
+1321	peers eyes crinkling mirth affection love ye bonnie belle	0.66
+1322	adults remain jovial amidst bad news	0.22
+1323	wished hilarious autocorrect fails	0.392
+1324	love singing time weekly choir come kwoir tomorrow choir glee musiclondon	0.42
+1325	modern family never fails cheer especially phil	0.7290000000000001
+1326	smile always mean person happy sometimes simply means strong enough face problems	0.22699999999999998
+1327	go follow musically making lively come join bffing following see	0.62
+1328	tweet dedicated back pain not understand youthful spry full life vivacious	0.22899999999999998
+1329	obfuscated magazines passage unite order thine mirth conjunction treat quotient sufficiently leaqiwy	0.28
+1330	know love smile whenever talk someone	0.82
+1331	tend loosen bit drunk seem pretty cheerful	0.43799999999999994
+1332	personally prefer happy	0.5
+1333	never make decision angry never make promise happy wisewords	0.43799999999999994
+1334	pity lively	0.22899999999999998
+1335	always relentlessly positive constantly cheerful optimistic disposition starts grate	0.34
+1336	brings back great memories hilarity saturdaynightlive	0.64
+1337	seen clip jail scene sexuality part hilarious	0.542
+1338	pity	0.083
+1339	chirp chirp beautiful white red bird	0.625
+1340	watch amazing live ly broadcast mccloud lively musically	0.562
+1341	adorable cheerful daughter nalways pouring positivity green goo ndare hurt see hell growls pandabot	0.64
+1342	styles love zales three sparkling styles love stop shop store today	0.532
+1343	like optimism	0.62
+1344	not untill today anyone ever said remember years ago met liked since cutealert	0.521
+1345	always full joy lord say rejoice philippians	0.45799999999999996
+1346	lmfao racepimp tamron hall used words fscts msnbc sentence hilarity libtard biasedmedia neverhillary	0.5
+1347	nhe rejoice gladness nhe renew love nhe rejoice singing	0.583
+1348	abysmal ignorance frivolity levity italian priests stupefied roland bainton luther reformationday	0.062
+1349	possible go cheery earlier worst mood possible now🙄	0.02
+1350	quotesoup happy not everything good see good side everything optimism	0.521
+1351	coworker happened friend mine guns instead babies workplace	0.312
+1352	saw save day psa obvious tears thought cheerful self	0.2
+1353	question cheerleaders ages nhow make senior year cheer memorable	0.312
+1354	want let everyone know wonderful people beyourself happy cheerful late night compliment behappy	0.9
+1355	nice show guys supported expect cheering oct th 😉😎👍	0.708
+1356	woah overtime exhilarating seat hands mackinnon wow wch	0.8270000000000001
+1357	agreed tired nonsense soros must elated	0.04
+1358	haha like optimism cause make situation less mind boggling	0.48
+1359	betelgeuse sloth lively dedicated tenacious regulus greed humbly content ley gluttony starving hungry	0.36
+1360	hey breezy wanna give coffee posted snap please	0.228
+1361	pre game nerves settled cheering home guys 🔴⚪️🙌🏻🏉 aflcatsswans proudlysydney goswans	0.396
+1362	person could manage get bright pink lipstick brand new white dress 😩😂	0.16699999999999998
+1363	accept challenges feel exhilaration victory george patton	0.44
+1364	dear everyone hssu stop walking phones smile wave smile wave back	0.225
+1365	amp summerof show raw sexuality pure mirth thanks belly laughs butt sex japes	0.708
+1366	ages since ive shawarma stomach rejoicing	0.606
+1367	hobbitday nhobbit give gifts birthdays sharing gift glee today find something makes happy	0.708
+1368	girlfriends cooking dinner spag blow not sure need help 😂😂 girlfriends happy	0.8
+1369	breaks heart seeing people upset try best make smile cheer	0.43799999999999994
+1370	everyday wake different player signs contract extension love future bright coys	0.88
+1371	“set goal achieve something big exhilarating excites scares time n― bob proctor	0.45799999999999996
+1372	hearing parent say proud elicits infinite waves unconceivable glee	0.82
+1373	honorable senator cheering cease fire not hold people die cheer genocide support not good	0.062
+1374	much news pakistan afghanistan etc need cheery news frybread stands everyone media grim	0.17300000000000001
+1375	friend messaged ugh hungry wait breakfast socialmedia winewednesday hilarious funny laughing happy	0.7290000000000001
+1376	sad always optimism new year not good	0.188
+1377	bright places	0.226
+1378	successful people always two things lips silence nd smile smile avoid problems nd silence avoid problems	0.35700000000000004
+1379	mentions high school aged daughters joyous occasion go college not bring fear trepidation	0.271
+1380	watch amazing live ly broadcast lively musically	0.294
+1381	nicest way tell someone cheerfully whistling outside apartment door end continue whistle	0.16
+1382	beautifully sincere balancing act grief hilarity	0.375
+1383	hey phil glutting thank following us appreciated smile	0.76
+1384	least known band world glad asked muchlove	0.5
+1385	fact everyone selling kanye tickets buying less unbelievably hilarious	0.6459999999999999
+1386	yes bro actually breezy	0.509
+1387	forgot bring extra boxers im currently commando starbucks exhilarating feel liberated angelina jolie	0.542
+1388	thank disney themed episode letting discover amazing hilarious	0.7709999999999999
+1389	one thing say kept smiling	0.66
+1390	never make decision angry never make promise wisewords	0.271
+1391	lord god midst—a warrior bringing victory create calm love rejoice singing	0.43799999999999994
+1392	bahahahaha dean looks hilarious damn got fat	0.5
+1393	awesome yr old grandson runs cross country no simon whitfield still lot fun cheering	0.78
+1394	point life playing christmas music room need winter joyful times rn	0.292
+1395	chuck seasons one bright spot dan allowed smart kind fashionable	0.18899999999999997
+1396	exhilarating taking challenge demonstrating explaining jamesjoyce ulysses endearing amp wonderful	0.654
+1397	would like congratulate people saudi arabia happy joyous national day may great time اليومالوطني	0.7709999999999999
+1398	gotta hit breezy every day make sure breaking boots first class friend right	0.521
+1399	sometimes watch shitty tv reinforce never giving cuz something fucking awful tv still stand chance	0.075
+1400	passenger car next cheerfully asks cigarette directions	0.396
+1401	getting banned still lurk corners underneath bed sofa much eyepatch delight	0.25
+1402	everyone hates twice kinda got bops bumping rn cheer	0.24100000000000002
+1403	treat joy laughter form worship spiritual warfare live victory worship	0.688
+1404	made squirrel friend today gave core plum eating seemed happy	0.767
+1405	fingers slide along thighs caressing skin leaning first lick teasing playful	0.54
+1406	got new pens break name animated series draw style	0.48
+1407	survivor back survivormillennialsvsgenx happy see	0.66
+1408	uncle buck tho unclebuck hilarious	0.5
+1409	lmaoo joyful day	0.688
+1410	lord turn face toward give peace numbers truth trust promise calm justice great mighty protected delight	0.542
+1411	started glee beginning crying babies love children	0.4
+1412	not brown nosing listened lots housing ministers nhf impressed optimism	0.354
+1413	turns even anything concerned im happy bit frustrated took long get answer	0.135
+1414	yes rejoicing	0.78
+1415	rejoice get paid	0.375
+1416	watch amazing live ly broadcast mae musically	0.5
+1417	well stock finished amp listed living room moved around new editing done amp fitted visit laws productivityatitsfinest happy	0.7709999999999999
+1418	always ready smile	0.654
+1419	lol no mention pak pm even speech international news channel pakis rejoicing world stands	0.396
+1420	charlotte friend climbed top windmill think view easy breezy beautiful	0.5
+1421	seriously sick grumpy thing gonna cheer ordering xmas food going	0.06
+1422	love parody accounts well done vote trump lol hilarious	0.875
+1423	yo overtime hockey got sweaty damn ish exhilarating	0.68
+1424	remember joe quinn thing glee	0.312
+1425	point living optimist foolish enough believe best yet come peter ustinov optimism quote	0.36
+1426	house no longer echoes laughter light memories home sit cold waiting amwriting nostalgia	0.22899999999999998
+1427	tell truth make someone cry better tell lie make someone smile truth lie cry smile offalonehugots	0.2
+1428	blackish always rollin hilarious	0.833
+1429	thank fantastic evening brilliant show truly sparkling talent night quickly	0.78
+1430	electro set pure enjoyment amp exhilarating captivating amp poetic raw exciting	0.821
+1431	basically sparkling water	0.32
+1432	welcome genuinely made give head wobble realise important life smiling	0.625
+1433	come join cakeclubhour tomorrow afternoon pm bizhour chirp	0.479
+1434	dilemma blaiming everything bushes acting gleeful endorsement election trump	0.20800000000000002
+1435	laudrup evil white companions rejoice	0.36
+1436	seem happy abt dvlpt nything dat fails modi make elated even cost de country	0.27
+1437	best part day jesus snuggle embrace rest arms know love 💙❤ sweetembrace	0.76
+1438	tired everybody telling chill everythings ok no fuck not tired faking fucking smile	0.042
+1439	attempts western degenerates imply dprk stoops levity met devastating nuclear retaliation	0.062
+1440	day make goals challenges business goals success photographer photography thursdaythoughts	0.604
+1441	let go need need find joyous path richness extends every direction	0.375
+1442	could not happier happy	0.9209999999999999
+1443	photographer portrait shooting mode iphone plus going frustrate time delight time	0.161
+1444	make feel vigorous fine kill said hestia display despair rather joyful	0.212
+1445	give rise eternal home aico things immolation succeed mother country exhilaration akt	0.5
+1446	current run superman continues delight feel love poured everone creative team superman	0.654
+1447	maybe entire russian team test positive meldonium north americans get replace optimism	0.292
+1448	watch amazing live ly broadcast lively musically	0.56
+1449	wanna always reason behind happiness always keep smiling no matter happens♒💜	0.769
+1450	watch amazing live ly broadcast lively musically	0.48
+1451	check film robocoq shortfilms	0.212
+1452	thanks distracting paper watch hilarious video	0.708
+1453	skiving freshers day nails sunbeds gym 😉💜👑 priorities student studentnurse pampered	0.6459999999999999
+1454	class canceled due funeral not sure appropriate happy sad happy	0.41700000000000004
+1455	see things clouds others see	0.32
+1456	hahahaha ridiculous thank joyous evening xx	0.815
+1457	wonderful experience watching yesterday thankyou laughter	0.872
+1458	riggs dumb ass hell lolol lethalweapon	0.396
+1459	fuck people smile back corridors	0.062
+1460	hey would nice “click pause” “pause window inactive” animated gifs macos messages app	0.20800000000000002
+1461	root canal therapy bad reputation past new technology allowed comfortable procedures dental	0.41700000000000004
+1462	attitude toward struggles equally important actions work	0.34
+1463	think pre prepped debate answers potential hilarity	0.45799999999999996
+1464	snapchat new would beg differ optimism	0.396
+1465	waltzwithbashir incredible tho think animated film documentary lebanon war	0.44
+1466	morning course sunny monday morning cheerfully welcome us back work	0.863
+1467	still laughing bitch took pillow line glee kurt	0.7290000000000001
+1468	love laughing crying works katherinemansfield failure laughter dealingwithfailure	0.667
+1469	still bright	0.46
+1470	dont feel grateful grateful written things work together good love god	0.365
+1471	seriously digging eyebrows animated	0.46
+1472	watching sugarboy hulu shit hilarious hahaha	0.66
+1473	thank balloons today smile goodday	0.833
+1474	spent big little sis tomorrow beyond happy saw mirth mums	0.897
+1475	finally raining ashland oregon parched summer amp fall plants amp people rejoicing	0.66
+1476	job interview tomorrow bright side	0.64
+1477	studying phases oscillation jovial 😐🔫	0.1
+1478	thank balloons today goodday	0.562
+1479	watch amazing live ly broadcast musically	0.667
+1480	wrinkling well looks like name starts letter eh man smiled gave hearty	0.519
+1481	good morning joyful people choose happiness great day today morning joyful happiness grandmercurejktkemayoran	0.833
+1482	jovial trump ass king publicly told crowd need always nigger fucktrump	0.10400000000000001
+1483	beyond wonderful singing prowess phenomenal damn elated watch act thisisus	0.879
+1484	coworker happened friend mine guns instead babies workplace hilarity	0.312
+1485	nawaz sharif getting funnier day day laughter challenge kashmir baloch	0.7
+1486	mind tag along asked cheerfully sweeping lock hair behind ear want see really got	0.34
+1487	watch amazing live ly broadcast musically	0.452
+1488	elated sid espinosa ready inspire innovative students	0.7
+1489	jubilant hear word probably uses secret heard loud	0.33299999999999996
+1490	taking picture awkward smile nme picture day awkward smile nconclusion stop smiling pictureday ornot	0.46
+1491	specific joyous song title engiybhekayo yasezayoni need le mood	0.56
+1492	lucina fantastic feel cheery feel cheery	0.875
+1493	black read books kids school prayer wl lv long fulfilling joyous peaceful god pleasing life	0.56
+1494	really wish could attend show rcmh spirit cheering dudes	0.5770000000000001
+1495	happy birthday cheerchick jeep jeepgirl idriveajeep jeepjeep cheer	0.792
+1496	red sox team equivalent tiger woods heyday no mercy	0.41700000000000004
+1497	gud morning sir keep smiling	0.84
+1498	waxen mirth neeze swear na merrier hour never wasted amndbots	0.28
+1499	elated thank help apply verified	0.72
+1500	ukulele bag fallen apart welll least life yet optimism	0.20800000000000002
+1501	oh yeah never showed part session plop discord pure hilarity	0.6459999999999999
+1502	watch amazing live ly broadcast lively musically	0.5379999999999999
+1503	not untill today anyone ever said remember years ago met liked since cutealert happy	0.58
+1504	coworker look phone say cheerfully oh look kap getting death threats goes say ers	0.385
+1505	agreed memphis looks lively also	0.395
+1506	mean supposed seem joyous talking rodrigo duterte isis american economy etc think saying	0.21600000000000003
+1507	sure fine always change beer cheer squad	0.56
+1508	omg nol love much love ur cheery face hugs 😘😘😘	0.98
+1509	tip worry pleasing everyone titanwisdom	0.375
+1510	could leap feet dramatically plant one foot seat chair let jaunty tune	0.583
+1511	something opening mail pleasing	0.6459999999999999
+1512	fun pizza night last night crew gorgeous bunch newbies ❤️ lively exciting 💪🏼	0.833
+1513	happens ok tomorrow cheer give no no no😝😝😝	0.396
+1514	imagine sad la fans gona get eliminated man gonna nirvana religious experience rejoicing misery	0.33299999999999996
+1515	final night shift coming miss miss work pals hysterical laughter gets us night	0.33299999999999996
+1516	welcome wordgeek nalso good put face twitter feed even cheery hello	0.6459999999999999
+1517	always indeed wonderful experience flying guys today bestinbusiness happyme	0.76
+1518	bridgetjonesbaby best thing seen ages funny missed bridget love teammark	0.922
+1519	gets better without explanation wake one morning you’re happy totally utterly elated	0.8959999999999999
+1520	annual reminder care cheerfully eat anything labeled	0.519
+1521	dhoni bcoz calmness nd match winning finishers nd proud miltirian dad husband nd wonderful humanbeing nd smile	0.657
+1522	no wonder kelvin chris smiling	0.792
+1523	cool would animated scene	0.521
+1524	possibly kg bought player buy glen minority owner	0.25
+1525	thank obama cut elated back home😍	0.833
+1526	look forward detours bring delightful surprises lifequote	0.667
+1527	decide stop afraid stop free brave free honest healthy happy life living optimism love	0.41700000000000004
+1528	accept challenges feel exhilaration victory george patton quote motivation entrepreneur	0.312
+1529	please stop merriment annoying	0.083
+1530	gemma simmons bright spot premiere far agentsofshield	0.521
+1531	due big change prayed think deserve positivity optimism	0.66
+1532	trust dear want make anything invisible hang wet paint hilarity ensue	0.521
+1533	like right way pray right way give not grudgingly necessity cheerfully woficc	0.44
+1534	heather hilarious anthonyweiner gets nyc	0.812
+1535	vile piece scum rejoicing fact dead children inhuman say worse still hope karma knocks	0.0
+1536	happy birthday beautiful cheerful sister ever llnp 💕❣🎉	0.86
+1537	redwine glee	0.5
+1538	great see matilda happy new chair provide access lots new experiences smiling	0.708
+1539	looks cool animated well pixel art	0.45799999999999996
+1540	may right since year bad events begin privately hoping got least go st optimism	0.33299999999999996
+1541	indian time already ur birthday stupendous birthday wish success laughter lots love hugs	0.792
+1542	laugh today laugh hard hope need laughter smile love	0.56
+1543	well done ladies great award amazing team delight present award	0.84
+1544	congress attended midterm liveliness differently constraints qmiv	0.22
+1545	semores let get mirth saw keepthetradition 💜💛⚛🏵🍇🍋🌼🐤🐥👚😈😈👾🧀	0.56
+1546	love looking old statuses facebook one four years ago day glee many opinions	0.6
+1547	always indeed wonderful experience flying guys today bestinbusiness delight happyme	0.812
+1548	lifetime laughter expense death bachelor	0.354
+1549	north america vs sweden exhilarating hockey ever watched wow mackinonns mitts silky teamna wch	0.75
+1550	laundry watching show bunch strangers birthday	0.42
+1551	brought sparkling cider holds know not much	0.312
+1552	great minds think alike	0.479
+1553	moment levity charlotte dude rollerblades goes skating protesters better wearing short shorts amp blowing whistle	0.39799999999999996
+1554	yes mourinho really stop speaking refs try cheering bit	0.3
+1555	class canceled due funeral not sure appropriate happy sad	0.5
+1556	yup val basically ignoring recipe done keep bursting laughter	0.6459999999999999
+1557	good morning let start smile nlet enjoy life cheerful way ndon worry happy	0.893
+1558	lt really said response perceived forced jovial tone slid jeep onto gt	0.24
+1559	ever use like smiling realized good teeth look witout braces	0.613
+1560	spry though	0.26
+1561	another happy customer secreteyes	0.611
+1562	charlie attempted suffocate cushion cheering much great news 😂😂	0.7290000000000001
+1563	better wetter dry certainly found hilarious gbbo	0.6
+1564	nhlnycsweepstakes fun watching team north america cheering team canada	0.625
+1565	like said plenty cheddar cheese go around everyone	0.8190000000000001
+1566	yeah playing well optimism	0.625
+1567	flushed upon hearing feeling reciprocated elated shove right arms hug tightly	0.5
+1568	jasperino buoyant session six	0.22
+1569	zeph lord midst mighty one save rejoice gladness quiet love	0.66
+1570	vincent looking super lively boy hattrick perhaps lol	0.583
+1571	sharpened pencil today sharpened since ✏️ exhilarating	0.5
+1572	peter aesthetically pleasing look	0.583
+1573	find way top	0.292
+1574	accept challenges feel exhilaration victory george patton	0.5
+1575	mean tell glee getting less gleeful	0.292
+1576	great see matilda happy new chair provide access lots new experiences	0.688
+1577	srpt would etep patients amp mom advocate drug not work anyone listen etep md adcomm elated	0.22
+1578	banger sit reason great doings alias rejoice kzfqr	0.43799999999999994
+1579	boss likes stand office amp smile like shark maliciously gleeful ask secret tell	0.396
+1580	knowing cook invaluable even better even sq ft place wide hearty homestyle egg noodles	0.562
+1581	yapyap upon time avid fanfiction patron pop heyday	0.542
+1582	“the essential saltes animals may narkham’s large outfit effects ni rejoice continue ye	0.396
+1583	ok champ make cheering far	0.6
+1584	point living optimist foolish enough believe best yet come peter ustinov quote	0.40700000000000003
+1585	showed us really lively performance lot different emotions not sticking one freaking awesome	0.6459999999999999
+1586	best segment far hilarity	0.46799999999999997
+1587	got this💙 staystrong yourebeautiful	0.542
+1588	want playful relationship nme kicks couch	0.375
+1589	content life short smiling	0.68
+1590	wolf want hihi breezy	0.26
+1591	check film robocoq animated shortfilms	0.44
+1592	not man not know juggle balls funny pun punny lol hilarious	0.519
+1593	wish unlimited glee episodes could watch forever gleegoodbye	0.312
+1594	wow looks bright	0.43799999999999994
+1595	suck real someone try exhilarate every ounce see not	0.27899999999999997
+1596	oh fantastic bet super exhilarating 🤗😍	0.84
+1597	jstor lingua obscura articles always delight	0.58
+1598	whoo welcome greeted cheerfully	0.688
+1599	least known band world glad asked muchlove hilarious	0.479
+1600	cheer	0.38
+1601	watch amazing live ly broadcast lively musically	0.479
+1602	every time new anthony weiner revelation breaks bill clinton says prayer thanks texting dming exist heyday	0.375
+1603	talking problems greatest addiction break habit ntalk ur joys quote optimism problemsolving behappy	0.375
+1604	•days nhe itching fight itching exhilaration battle almost getting defeated adrenaline pumping•	0.36
+1605	meant	0.583
+1606	backed pats pleasing	0.327
+1607	pm nawaz sharif adressed uno produced mirth among kashmires well done pak wel done nawaz want demilterization	0.41700000000000004
+1608	yup feel dirty cheering	0.44
+1609	wanna go blithe read goats	0.20800000000000002
+1610	“the lord thy god midst thee mighty save rejoice thee joy nzephaniah	0.462
+1611	watch amazing live ly broadcast musically	0.5579999999999999
+1612	watching spy one favorite actresses last night watching theboss hilarious want meet	0.78
+1613	could not happier	0.885
+1614	something english sparkling wine would good farmhouse cider italian cocktails thanks	0.36
+1615	think spiritually weighty experiences came counterintuitively recognized hindsight levity daily grace	0.44

@@ -48,13 +48,14 @@ def sum_pool_embeddings(embeddings):
 
 
 if __name__ == "__main__":
+
     embedding_filename = "C:/Users/natha/Documents/GoogleNews-vectors-negative300.bin"
     embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
 
-    train_filepath = "./data/cleaned_training.txt"
-    test_filepath = "./data/cleaned_test.txt"
-    dev_filepath = "./data/cleaned_dev.txt"
-    paths = [train_filepath, test_filepath, dev_filepath]
+    train_filepath = "./data/cleaned/cleaned_Valence_reg_En_train.txt"
+    test_filepath = "./data/cleaned/cleaned_Valence_reg_En_test.txt"
+    dev_filepath = "./data/cleaned/cleaned_Valence_reg_En_dev.txt"
+    paths = [dev_filepath]
     for filepath in paths:
         df = pd.read_csv(filepath, delimiter="\t")
         tweet_embeddings = []
@@ -71,7 +72,7 @@ if __name__ == "__main__":
         new_df["Valence score"] = df["Valence score"]
         new_filename = "./data/embeddings_en_"+filepath.split("_")[1].strip(".txt")+".pkl"
         new_df.to_pickle(new_filename)
-    
+           
     
     
     
