@@ -92,3 +92,6 @@ def create_dataframe(clean_list, valence_scores, drop_row=None):
     if drop_row != None:
         cleaned = cleaned.drop([drop_row])
     return cleaned
+
+if __name__=="__main__":
+   
