@@ -70,7 +70,7 @@ class CleanText(BaseEstimator, TransformerMixin):
     def remove_stopwords(self, input_text):
         stopwords_list = stopwords.words('english')
         # Some words which might indicate a certain sentiment are kept via a whitelist
-        whitelist = ["n't", "not", "no"]
+        whivtelist = ["n't", "not", "no"]
         words = input_text.split()
         clean_words = [word for word in words if (word not in stopwords_list or word in whitelist) and len(word) > 1]
         return " ".join(clean_words)
