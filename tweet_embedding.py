@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import nltk
 import gensim
+import time
 
 def extract_embeddings(tokens, embedding_model):
     '''
@@ -48,14 +49,18 @@ def sum_pool_embeddings(embeddings):
 
 
 if __name__ == "__main__":
+    
+    start = time.time()
 
     embedding_filename = "C:/Users/natha/Documents/GoogleNews-vectors-negative300.bin"
     embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
 
-    train_filepath = "./data/cleaned/cleaned_Valence_reg_En_train.txt"
-    test_filepath = "./data/cleaned/cleaned_Valence_reg_En_test.txt"
-    dev_filepath = "./data/cleaned/cleaned_Valence_reg_En_dev.txt"
-    paths = [dev_filepath]
+    embedding_done = time.time()
+    
+    train_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-train.txt"
+    test_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-test.txt"
+    dev_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-dev.txt"
+    paths = [dev_filepath, test_filepath, train_filepath]
     for filepath in paths:
         df = pd.read_csv(filepath, delimiter="\t")
         tweet_embeddings = []
@@ -70,9 +75,12 @@ if __name__ == "__main__":
         new_df = pd.DataFrame()
         new_df["Embedding"] = tweet_embeddings
         new_df["Valence score"] = df["Valence score"]
-        new_filename = "./data/embeddings_en_"+filepath.split("_")[1].strip(".txt")+".pkl"
+        delimeter = "-"
+        new_filename = "./data/embeddings/embeddings-"+delimeter.join(filepath.strip(".txt").split("-")[1:])+".pkl"
         new_df.to_pickle(new_filename)
-           
+    end = time.time()
+    print(f"Total time: {end-start}")
+    print(f"Time after embedding: {end-embedding_done}")
     
     
     

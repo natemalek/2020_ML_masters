@@ -1,11 +1,15 @@
 import pandas as pd
 import sklearn
+import sys
 from sklearn.linear_model import LinearRegression
 #from sklearn.metrics import r2_score
 from scipy.stats.stats import pearsonr
 import xgboost as xgb
 # xgboost tutoral used: https://www.datacamp.com/community/tutorials/xgboost-in-python
+'''
+to run: python create_classifiers.py train_file.pkl test_file.pkl
 
+'''
 def basic_regression_model(train_file, test_file):
     '''
     Trains a logreg model on training data, predicts on test data,
@@ -71,16 +75,13 @@ def basic_xgboost_model(train_file, test_file):
 
 if __name__ == "__main__":
     
-    train_filepath = 'data/embeddings/embeddings_training.pkl'
-    dev_filepath = 'data/embeddings/embeddings_dev.pkl'
-    test_filepath = 'data/embeddings/embeddings_test.pkl'
+    train_filepath = sys.argv[1]
+    test_filepath = sys.argv[2]
     
-    lr_score, lr_p_value = basic_regression_model(train_filepath, dev_filepath)
     lr_score_test, lr_p_value_test = basic_regression_model(train_filepath, test_filepath)
-    xgb_score_dev, xbg_dev_p_value = basic_xgboost_model(train_filepath, dev_filepath)
     xgb_score_test, xgb_test_p_value = basic_xgboost_model(train_filepath, test_filepath)
-    print(f"basic LR model pearson r, p_value: {lr_score, lr_p_value}")
+
     print(f"basic LR model pearson r, p_value: {lr_score_test, lr_p_value_test}")
-    print(f"basic XGB model dev pearson r, p_value: {xgb_score_dev, xbg_dev_p_value}")
-    print(f"basic XGB model test pearson r, p_value: {xgb_score_test, xgb_test_p_value}")
+
+    print(f"basic XGB model pearson r, p_value: {xgb_score_test, xgb_test_p_value}")
     
