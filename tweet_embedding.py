@@ -47,6 +47,29 @@ def sum_pool_embeddings(embeddings):
         pooled_embedding.append(dim_sum)
     return pooled_embedding
 
+def compute_lexicon_score(tweet, lexicon_dict, score_type):
+    '''
+    Computes a sentiment lexicon score for a tweet by summing scores over the words
+    in the tweet.
+    
+    :param tweet: a string of words
+    :param lexicon_dict: a dict of dicts that is a sentiment lexicon. The structure
+        is as follows: {word: {score_type: score}} ie {"happy": {"joy": 2.1, ...}, ...}
+    :param score_type: the name of the score type (ie "valence", "joy", "anger", ...)
+        to collect from lexicon_dict
+    
+    :returns tweet_score: the sum of scores of score_type for each word in the tweet
+    '''
+    score_sum = 0
+    
+    if False: 
+        # Check for score_type in lexicon_dict
+        return
+    
+    for word in tweet.split(" "):
+        if word in lexicon_dict:
+            score_sum += lexicon_dict[word][score_type]
+    return score_sum
 
 if __name__ == "__main__":
     
@@ -57,6 +80,9 @@ if __name__ == "__main__":
 
     embedding_done = time.time()
     
+    sentiment_lexica = list() # make list of lexica
+    score_type = str() # "valence", "anger", "joy", ...
+    
     train_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-train.txt"
     test_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-test.txt"
     dev_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-dev.txt"
@@ -65,13 +91,18 @@ if __name__ == "__main__":
         df = pd.read_csv(filepath, delimiter="\t")
         tweet_embeddings = []
         for tweet in df["Tweet"]:
+            # sum_pooled embeddings
             if type(tweet) != float:
                 tweet_split = tweet.split()
                 embedding_list = extract_embeddings(tweet_split, embedding_model)
                 pooled_embedding = sum_pool_embeddings(embedding_list)
-                tweet_embeddings.append(pooled_embedding)
             else:
-                tweet_embeddings.append([0]*300)
+                pooled_embedding = [0]*300
+            # lexicon scores
+            for lexicon in sentiment_lexica:
+                score = compute_lexicon_score(tweet, lexicon, score_type)
+                pooled_embedding.append(score) # concatenate with embeddings
+            tweet_embeddings.append(pooled_embedding)
         new_df = pd.DataFrame()
         new_df["Embedding"] = tweet_embeddings
         new_df["Valence score"] = df["Valence score"]
