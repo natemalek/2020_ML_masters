@@ -71,6 +71,38 @@ def compute_lexicon_score(tweet, lexicon_dict, score_type):
             score_sum += lexicon_dict[word][score_type]
     return score_sum
 
+def collect_embeddings(filepath, new_filepath):
+    '''
+    Takes a tsv filepaths with tweets and scores and writes a new file with tweets
+    represented as embeddings and the same scores.
+    
+    :param filepath: the filepath to a tsv file
+    :param new_filepath: filepath to new embeddings file
+    
+    :returns 
+    '''
+    df = pd.read_csv(filepath, delimiter="\t")
+    tweet_embeddings = []
+    for tweet in df["Tweet"]:
+        # sum_pooled embeddings
+        if type(tweet) != float:
+            tweet_split = tweet.split()
+            embedding_list = extract_embeddings(tweet_split, embedding_model)
+            pooled_embedding = sum_pool_embeddings(embedding_list)
+        else:
+            pooled_embedding = [0]*300
+        # lexicon scores
+        for lexicon in sentiment_lexica:
+            score = compute_lexicon_score(tweet, lexicon, score_type)
+            pooled_embedding.append(score) # concatenate with embeddings
+        tweet_embeddings.append(pooled_embedding)
+    new_df = pd.DataFrame()
+    new_df["Embedding"] = tweet_embeddings
+    new_df["Valence score"] = df["Valence score"]
+    delimeter = "-"
+    new_df.to_pickle(new_filename)
+    
+
 if __name__ == "__main__":
     
     start = time.time()
@@ -86,29 +118,12 @@ if __name__ == "__main__":
     train_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-train.txt"
     test_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-test.txt"
     dev_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-dev.txt"
+    
     paths = [dev_filepath, test_filepath, train_filepath]
     for filepath in paths:
-        df = pd.read_csv(filepath, delimiter="\t")
-        tweet_embeddings = []
-        for tweet in df["Tweet"]:
-            # sum_pooled embeddings
-            if type(tweet) != float:
-                tweet_split = tweet.split()
-                embedding_list = extract_embeddings(tweet_split, embedding_model)
-                pooled_embedding = sum_pool_embeddings(embedding_list)
-            else:
-                pooled_embedding = [0]*300
-            # lexicon scores
-            for lexicon in sentiment_lexica:
-                score = compute_lexicon_score(tweet, lexicon, score_type)
-                pooled_embedding.append(score) # concatenate with embeddings
-            tweet_embeddings.append(pooled_embedding)
-        new_df = pd.DataFrame()
-        new_df["Embedding"] = tweet_embeddings
-        new_df["Valence score"] = df["Valence score"]
-        delimeter = "-"
-        new_filename = "./data/embeddings/embeddings-"+delimeter.join(filepath.strip(".txt").split("-")[1:])+".pkl"
-        new_df.to_pickle(new_filename)
+        collect_embeddings(filepath)
+        new_filepath = "./data/embeddings/embeddings-"+delimeter.join(filepath.strip(".txt").split("-")[1:])+".pkl"
+        
     end = time.time()
     print(f"Total time: {end-start}")
     print(f"Time after embedding: {end-embedding_done}")
