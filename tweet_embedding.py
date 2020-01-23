@@ -4,18 +4,21 @@
 # extract_embeddings(tokens) returns those as a list of embeddings
 # sum_pool_embeddings(embeddings) returns a sum-pooled embedding vector
 
-# Arabic embeddings: https://github.com/bakrianoo/aravec/tree/master/AraVec%202.0 
-# Citation: 'Abu Bakr Soliman, Kareem Eisa, and Samhaa R. El-Beltagy, “AraVec: A set of Arabic Word Embedding Models for use in Arabic NLP”, in proceedings of the 3rd International Conference on Arabic Computational Linguistics (ACLing 2017), Dubai, UAE, 2017.'
+# To run: python tweet_embedding.py embedding_model_filepath embedding_filetype
+# embedding_filetype: "G" or "A" for GoogleNews/AraVec, respectively
 
 # Jan 23 morning: 
-# in Arabic training set: 7888 tokens in file successfully embedded, 3102 tokens in file not in embedding model
+# in Arabic training set: 10076 tokens in file successfully embedded, 1103 tokens in file not in embedding model
 # in English training set: 9420 embedded, 721 missed
+
+
 
 import pandas as pd
 import numpy as np
 import nltk
 import gensim
 import time
+import sys
 
 none_count = 0
 some_count = 0
@@ -120,12 +123,15 @@ def collect_embeddings(filepath, new_filepath):
 
 if __name__ == "__main__":
     
+    embedding_filename = sys.argv[1]
+    embedding_filetype = sys.argv[2]
+    
     start = time.time()
 
-    embedding_filename = "C:/Users/natha/Documents/GoogleNews-vectors-negative300.bin"
-    # embedding_filename = "C:/Users/natha/Documents/tweets_sg_300/tweets_sg_300"
-    embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
-    # embedding_model = gensim.models.Word2Vec.load(embedding_filename)
+    if embedding_filetype == "G":
+        embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
+    else:
+        embedding_model = gensim.models.Word2Vec.load(embedding_filename)
 
     embedding_done = time.time()
     
@@ -141,7 +147,7 @@ if __name__ == "__main__":
     
     paths = [dev_filepath, test_filepath, train_filepath]
     '''
-    paths = ["./data/cleaned/cleaned-Valence-reg-En-train.txt"]
+    paths = ["./data/cleaned/cleaned-Valence-reg-Ar-train.txt"]
     for filepath in paths:
         new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.strip(".txt").split("-")[1:])+".pkl"
         collect_embeddings(filepath, new_filepath)
