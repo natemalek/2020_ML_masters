@@ -3,7 +3,7 @@ outraged	0.964	anger
 brutality	0.959	anger
 hatred	0.953	anger
 hateful	0.940	anger
-terrorize	0.939	anger
+orange	0.939	anger
 infuriated	0.938	anger
 suppression	0.500	anger
 suppression	0.500	fear
