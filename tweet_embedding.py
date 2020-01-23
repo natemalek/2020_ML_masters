@@ -4,11 +4,21 @@
 # extract_embeddings(tokens) returns those as a list of embeddings
 # sum_pool_embeddings(embeddings) returns a sum-pooled embedding vector
 
+# Arabic embeddings: https://github.com/bakrianoo/aravec/tree/master/AraVec%202.0 
+# Citation: 'Abu Bakr Soliman, Kareem Eisa, and Samhaa R. El-Beltagy, “AraVec: A set of Arabic Word Embedding Models for use in Arabic NLP”, in proceedings of the 3rd International Conference on Arabic Computational Linguistics (ACLing 2017), Dubai, UAE, 2017.'
+
+# Jan 23 morning: 
+# in Arabic training set: 7888 tokens in file successfully embedded, 3102 tokens in file not in embedding model
+# in English training set: 9420 embedded, 721 missed
+
 import pandas as pd
 import numpy as np
 import nltk
 import gensim
 import time
+
+none_count = 0
+some_count = 0
 
 def extract_embeddings(tokens, embedding_model):
     '''
@@ -20,12 +30,16 @@ def extract_embeddings(tokens, embedding_model):
     
     :returns embeddings: a list of word embeddings
     '''
+    global none_count
+    global some_count
     embeddings = []
 
     for word in tokens:
         if word in embedding_model:
+            some_count += 1
             embeddings.append(embedding_model[word])
         else:
+            none_count += 1
             embeddings.append([0]*300)
 
     return embeddings
@@ -83,7 +97,9 @@ def collect_embeddings(filepath, new_filepath):
     '''
     df = pd.read_csv(filepath, delimiter="\t")
     tweet_embeddings = []
+    i = -1
     for tweet in df["Tweet"]:
+        i+=1
         # sum_pooled embeddings
         if type(tweet) != float:
             tweet_split = tweet.split()
@@ -99,8 +115,7 @@ def collect_embeddings(filepath, new_filepath):
     new_df = pd.DataFrame()
     new_df["Embedding"] = tweet_embeddings
     new_df["Valence score"] = df["Valence score"]
-    delimeter = "-"
-    new_df.to_pickle(new_filename)
+    new_df.to_pickle(new_filepath)
     
 
 if __name__ == "__main__":
@@ -108,25 +123,33 @@ if __name__ == "__main__":
     start = time.time()
 
     embedding_filename = "C:/Users/natha/Documents/GoogleNews-vectors-negative300.bin"
+    # embedding_filename = "C:/Users/natha/Documents/tweets_sg_300/tweets_sg_300"
     embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
+    # embedding_model = gensim.models.Word2Vec.load(embedding_filename)
 
     embedding_done = time.time()
     
     sentiment_lexica = list() # make list of lexica
     score_type = str() # "valence", "anger", "joy", ...
     
+    '''
+    Arabic_train_filepath = "./data/cleaned/cleaned-Valence-reg-Ar-train.txt"
+    
     train_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-train.txt"
     test_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-test.txt"
     dev_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-dev.txt"
     
     paths = [dev_filepath, test_filepath, train_filepath]
+    '''
+    paths = ["./data/cleaned/cleaned-Valence-reg-En-train.txt"]
     for filepath in paths:
-        collect_embeddings(filepath)
-        new_filepath = "./data/embeddings/embeddings-"+delimeter.join(filepath.strip(".txt").split("-")[1:])+".pkl"
+        new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.strip(".txt").split("-")[1:])+".pkl"
+        collect_embeddings(filepath, new_filepath)
         
     end = time.time()
     print(f"Total time: {end-start}")
     print(f"Time after embedding: {end-embedding_done}")
+    print(f"Total missed tokens: {none_count}; total found tokens: {some_count}")
     
     
     
