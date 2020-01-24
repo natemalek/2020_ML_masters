@@ -11,7 +11,4 @@ aback	surprise	0	الى الوراء	Aly AlwrA'
 aback	trust	0	الى الوراء	Aly AlwrA'
 abacus	anger	0	طبلية تاج	Tblyp tAj
 abacus	anticipation	0	طبلية تاج	Tblyp tAj
-abacus	disgust	0	طبلية تاج	Tblyp tAj
-abacus	fear	0	طبلية تاج	Tblyp tAj
-abacus	joy	0	طبلية تاج	Tblyp tAj
 happiness_en	joy	1	happiness_ar	happiness_buckwalter
