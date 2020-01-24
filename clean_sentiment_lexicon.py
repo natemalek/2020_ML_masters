@@ -80,7 +80,7 @@ def combine_dicts(list_of_dicts):
     return main_dict
     
     
-def inport_sentiment_lexicons(meta_filepath):
+def import_sentiment_lexicons(meta_filepath):
     '''
     Takes file path with meta data of lexicons and their file paths.
     Reads the lexicons (with word, emotion and score)
@@ -91,7 +91,7 @@ def inport_sentiment_lexicons(meta_filepath):
         'AffectDimension0': 1, 'fear0': '0.3', 'surprise3': '0', ...},...}
     Returns this dictionary of dictionaries.        
     '''
-    meta_data_list = read_meta_file(filepath)
+    meta_data_list = read_meta_file(meta_filepath)
     list_of_lexicon_dicts = []
     for lexicon_meta_data in meta_data_list:
         lexicon_dict = term_score_emotion_to_dict(lexicon_meta_data)
