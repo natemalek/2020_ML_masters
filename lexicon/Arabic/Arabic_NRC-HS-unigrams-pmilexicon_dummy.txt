@@ -1,0 +1,13 @@
+[English Term]	[Arabic Translation]	[Sentiment Score]	[Positive Occurrence Count]	[Negative Occurrence Count]
+#fabulous	#رائع	7.526	2301	2
+#excellent	#ممتاز	7.247	2612	3
+#superb	#رائع	7.199	1660	2
+#perfection	#كمال	7.099	3004	4
+#terrific	#رائع	6.922	629	1
+#magnificent	#مهيب	6.672	490	1
+#sensational	#مثير	6.529	849	2
+#heavenly	#سماوي	6.484	2841	7
+#ideal	#المثالي	6.461	3172	8
+#partytime	#وقت_الاحتفال	6.111	559	2
+#excellence	#امتياز	5.875	1325	6
+happiness_en	happiness_ar	2.643	232	5

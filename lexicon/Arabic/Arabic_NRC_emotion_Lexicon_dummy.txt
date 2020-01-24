@@ -1,0 +1,17 @@
+[English Term]	[Emotion]	[Emotion Indicator]	[Arabic translation]	[Buckwalter]
+aback	anger	0	الى الوراء	Aly AlwrA'
+aback	anticipation	0	الى الوراء	Aly AlwrA'
+aback	disgust	0	الى الوراء	Aly AlwrA'
+aback	fear	0	الى الوراء	Aly AlwrA'
+aback	joy	0	الى الوراء	Aly AlwrA'
+aback	negative	0	الى الوراء	Aly AlwrA'
+aback	positive	0	الى الوراء	Aly AlwrA'
+aback	sadness	0	الى الوراء	Aly AlwrA'
+aback	surprise	0	الى الوراء	Aly AlwrA'
+aback	trust	0	الى الوراء	Aly AlwrA'
+abacus	anger	0	طبلية تاج	Tblyp tAj
+abacus	anticipation	0	طبلية تاج	Tblyp tAj
+abacus	disgust	0	طبلية تاج	Tblyp tAj
+abacus	fear	0	طبلية تاج	Tblyp tAj
+abacus	joy	0	طبلية تاج	Tblyp tAj
+happiness_en	joy	1	happiness_ar	happiness_buckwalter

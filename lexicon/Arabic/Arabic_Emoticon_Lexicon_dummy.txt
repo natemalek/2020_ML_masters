@@ -1,0 +1,11 @@
+[Arabic Term]	[Buckwalter]	[Sentiment Score]	[Positive Occurrence Count]	[Negative Occurrence Count]
+خفيييف	xfyyyf	0.988	5	1
+حظظ	HZZ	-2.509	0	10
+موقادره	mwqAdrh	-1.497	1	7
+زفرة	zfrp	-2.057	0	6
+شاهي	$Ahy	-0.170	98	104
+اديهالك	AdyhAlk	1.835	6	0
+#افضل_فلم_شاهدته_في2014	#AfDl_flm_$Ahdth_fy2014	1.835	6	0
+دق	dq	-0.482	362	525
+لقيتلك	lqytlk	1.681	5	0
+happiness_ar	happiness_bw	2.935	2	5

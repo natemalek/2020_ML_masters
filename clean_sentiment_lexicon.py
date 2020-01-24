@@ -4,7 +4,8 @@ Spyder Editor
 """
 from collections import defaultdict
 
-filepath = './lexicon/English/lexicon_meta_data_English.txt'
+filepath_en = './lexicon/English/lexicon_meta_data_English.txt'
+filepath_ar = './lexicon/Arabic/lexicon_meta_data_Arabic.txt'
 
 def read_meta_file(filepath):
     meta_data = []
@@ -43,7 +44,10 @@ def term_score_emotion_to_dict(meta_data_list):
             # Split lines on tab
             split_line = line.split("\t")
             # If line is empty or is header, skip to next
-            if split_line[0] == '\n' or split_line[0] == 'term':
+            if any([split_line[0] == '\n', 
+                    split_line[0] == 'term',
+                    split_line[0] == '[Arabic Term]',
+                    split_line[0] == '[English Term]']):
                 continue
             # Set variables
             word = split_line[word_index]
@@ -63,17 +67,12 @@ def term_score_emotion_to_dict(meta_data_list):
                 word_dict[word][emotion] = score
     return word_dict
  
-def combine_dicts(list_of_dicts):
+def combine_dicts(list_of_dicts, emotion_set):
     main_dict = dict()
     for lexicon_dict in list_of_dicts:
         for word, inner_dict in lexicon_dict.items():
             if word not in main_dict:
-                main_dict[word] = dict([('positive3', 0), ('score2', 0), 
-                         ('fear3', 0), ('AffectDimension0', 0), ('fear0', 0), 
-                         ('surprise3', 0), ('surprise1', 0), ('anger0', 0), 
-                         ('anticipation1', 0), ('sadness3', 0), ('disgust3', 0), 
-                         ('anger3', 0), ('joy3', 0), ('negative3', 0), 
-                         ('anticipation3', 0)])
+                main_dict[word] = {emotion:0 for emotion in emotion_set}
             for emotion, score in inner_dict.items():
                 main_dict[word][emotion] = score
     
@@ -83,6 +82,7 @@ def combine_dicts(list_of_dicts):
 def import_sentiment_lexicons(meta_filepath):
     '''
     Takes file path with meta data of lexicons and their file paths.
+    Language is either 'En' for English or 'Ar' for Arabic
     Reads the lexicons (with word, emotion and score)
     Creates a combined dictionary looking as following:
         {word1: {'positive3': '0', 'score2': '-0.577', 'fear3': '1', 
@@ -95,10 +95,17 @@ def import_sentiment_lexicons(meta_filepath):
     list_of_lexicon_dicts = []
     for lexicon_meta_data in meta_data_list:
         lexicon_dict = term_score_emotion_to_dict(lexicon_meta_data)
-        list_of_lexicon_dicts.append(lexicon_dict)
-    
-    main_dict = combine_dicts(list_of_lexicon_dicts)
+        list_of_lexicon_dicts.append(lexicon_dict)    
+        
+    emotion_set = set()
+    for lexicon_dict in list_of_lexicon_dicts:
+        for word, inner_dict in lexicon_dict.items():
+            for emotion, score in inner_dict.items():
+                emotion_set.add(emotion)
+    #return emotion_set
+ 
+    main_dict = combine_dicts(list_of_lexicon_dicts, emotion_set)
     return main_dict
         
-    
-    
+main_dict = import_sentiment_lexicons(filepath_ar)
+print(main_dict['متوازن'])

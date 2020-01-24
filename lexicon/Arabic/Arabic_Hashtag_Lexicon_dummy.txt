@@ -1,0 +1,12 @@
+[Arabic Term]	[Buckwalter]	[Sentiment Score]	[Positive Occurrence Count]	[Negative Occurrence Count]
+اط	AT	-0.723	21	8
+المعوذات	AlmEw*At	2.527	62	0
+البخل,	Albxl,	1.849	31	0
+متوازن	mtwAzn	0.686	9	0
+رااائعة	rAAA}Ep	0.781	10	0
+special	special	0.175	5	0
+شايلة	$Aylp	0.463	7	0
+اية_الكرسي	Ayp_Alkrsy	0.463	7	0
+gov.sa	gov.sa	0.175	5	0
+حلوان	HlwAn	-0.723	21	8
+happiness_ar	happiness_bw	1.393	43	0

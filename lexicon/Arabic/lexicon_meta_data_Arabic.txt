@@ -1,0 +1,5 @@
+index	filepath	word_index	score_index	emotion_index
+0	./lexicon/Arabic/Arabic_Emoticon_Lexicon.txt	0	2	-1
+1	./lexicon/Arabic/Arabic_Hashtag_Lexicon.txt	0	2	-1
+2	./lexicon/Arabic/Arabic_NRC-HS-unigrams-pmilexicon.txt	1	2	-1
+3	./lexicon/Arabic/Arabic_NRC_emotion_Lexicon.txt	3	2	1
