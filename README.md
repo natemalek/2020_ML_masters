@@ -27,6 +27,7 @@ The following packages are needed for running this project. You might need to in
 The following files were used in this project.
 
 - Lexica Arabic and English
+- meta_data files for arabic and english lexica
 
 ### Folder structure
 The files are sorted and saved in the following manner
@@ -50,7 +51,7 @@ What should the output look like (so you know you've done it correctly)
 ### clean_sentiment_lexicon.py
 Quirine
 
-Text explaining what it does.
+This script contains a collection of functions which clean any amount of sentiment lexica and joins them together in one dictionary. The main function is import_sentiment_lexicons(). This takes the file path to a file containing meta data of the lexicons (see more under Needed files). 
 
 #### Which packages are needed?
 text
@@ -75,3 +76,5 @@ What should the output look like (so you know you've done it correctly)
 
 ### create_classifiers.py
 ??
+
+## References
