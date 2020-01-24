@@ -84,9 +84,9 @@ def compute_lexicon_score(tweet, lexicon_dict):
             in_lexicon += 1
             for score_type, score in lexicon_dict[word].items():
                 if score_type in tweet_score_dict:
-                    tweet_score_dict[score_type] += float(score)
+                    tweet_score_dict[score_type] += np.float64(score)
                 else:
-                    tweet_score_dict[score_type] = float(score)
+                    tweet_score_dict[score_type] = np.float64(score)
         else:
             not_in_lexicon += 1
                     
@@ -157,7 +157,7 @@ if __name__ == "__main__":
     
     paths = [dev_filepath, test_filepath, train_filepath]
     '''
-    paths = ["./data/cleaned/cleaned-Valence-reg-En-test.txt", "./data/cleaned/cleaned-Valence-reg-En-dev.txt"]
+    paths = ["./data/cleaned/cleaned-Valence-reg-En-train.txt", "./data/cleaned/cleaned-Valence-reg-En-test.txt", "./data/cleaned/cleaned-Valence-reg-En-dev.txt"]
     for filepath in paths:
         new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.strip(".txt").split("-")[1:])+".pkl"
         collect_embeddings(filepath, new_filepath, lexicon)
