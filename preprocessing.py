@@ -1,14 +1,12 @@
 # Utils for preprocessing
 ### Import all needed modules
-import numpy as np
 import pandas as pd
-pd.set_option('display.max_colwidth', -1)
 import re
 import string
 import os
 import emoji
-from pprint import pprint
 import collections
+import glob
 
 from sklearn.base import BaseEstimator, TransformerMixin
 
@@ -27,7 +25,18 @@ def import_file(filepath):
 
     return df
 
-def adapt_valence_scores(df):
+def get_stopwords(filepath):
+    """
+    Takes a filepath to a txt file and returns the data as a list of strings
+    """
+    stopwords = list()
+    with open(filepath, "r", encoding="utf-8") as infile:
+        for line in infile:
+            line = line.replace("\n", "")
+            stopwords.append(line)
+    return stopwords
+
+def adapt_valence_scores(df, column_name):
     """
     Takes a dataframe and converts the valence scores present into a shortened number
     instead of the long description in the original file.
@@ -36,15 +45,54 @@ def adapt_valence_scores(df):
     """
     valence_list = list()
     for index, row in df.iterrows():
-        valence = row["Intensity Class"]
-        valence = valence.replace(valence, valence[:2].replace(":", ""))
+        valence = row[column_name]
+        if column_name == 'Intensity Class':   # If oc then need to alter valence representation
+            valence = valence.replace(valence, valence[:2].replace(":", ""))
         valence_list.append(valence)
     return valence_list
 
 class CleanText(BaseEstimator, TransformerMixin):
     """
-    From https://towardsdatascience.com/sentiment-analysis-with-text-mining-13dd2b33de27
+    Takes a tweet and returns a cleaned version. Several functions are in play
+    for English and Arabic respectively, which are annotated in the function
+    descriptions.
+
+    (Format adapted from https://towardsdatascience.com/sentiment-analysis-with-text-mining-13dd2b33de27)
+    (Functions for Arabic were adapted from the processing section of
+    https://github.com/bakrianoo/aravec for Arabic word embeddings)
+
+    :returns two cleantext functions, one for English and one for Arabic
     """
+    def __init__(self, language = basename_[3]):
+        self._language = language
+
+    def remove_hashtags(self, input_text):
+        return re.sub(r"#", "", input_text)
+
+    def remove_repeating_char(self, input_text):
+        return re.sub(r'(.)\1+', r'\1\1', input_text)
+        #keep 2 repeating characters in order to differentiate them from the
+        #normal format
+
+    def remove_tashkeel(self, input_text):
+        """
+        Removes optional accents from the Arabic texts.
+        """
+
+        p_tashkeel = re.compile(r'[\u0617-\u061A\u064B-\u0652]')
+        return re.sub(p_tashkeel,"", input_text)
+
+    def clean_char(self, input_text):
+        input_text = input_text.replace('وو', 'و').replace('يي', 'ي').replace('اا', 'ا')
+
+        search = ["أ","إ","آ","ة","_","-","/",".","،"," و "," يا ",'"',"ـ","'","ى","\\",'\n', '\t','&quot;','?','؟','!']
+        replace = ["ا","ا","ا","ه"," "," ","","",""," و"," يا","","","","ي","",' ', ' ',' ',' ? ',' ؟ ',' ! ']
+
+        for i in range(0, len(search)):
+            input_text = input_text.replace(search[i], replace[i])
+
+        return input_text
+
     def remove_mentions(self, input_text):
         return re.sub(r'@\w+', '', input_text)
 
@@ -67,31 +115,90 @@ class CleanText(BaseEstimator, TransformerMixin):
     def to_lower(self, input_text):
         return input_text.lower()
 
-    def remove_stopwords(self, input_text):
+    def remove_stopwords_english(self, input_text):
         stopwords_list = stopwords.words('english')
         # Some words which might indicate a certain sentiment are kept via a whitelist
-        whivtelist = ["n't", "not", "no"]
+        whitelist = ["n't", "not", "no"]
         words = input_text.split()
         clean_words = [word for word in words if (word not in stopwords_list or word in whitelist) and len(word) > 1]
+        return " ".join(clean_words)
+
+    def remove_stopwords_arabic(self, input_text):
+        stopwords_list = get_stopwords("utilities/arabic-stop-words-master/list.txt")
+        words = input_text.split()
+        clean_words = [word for word in words if (word not in stopwords_list) and len(word) > 1]
         return " ".join(clean_words)
 
     def fit(self, X, y=None, **fit_params):
         return self
 
     def transform(self, X, **transform_params):
-        clean_X = X.apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.to_lower).apply(self.remove_stopwords)
-        return clean_X
+        if self._language == "En":    
+            ct = X.apply(self.remove_repeating_char).apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.to_lower).apply(self.remove_stopwords_english)
+            return ct
+        elif self._language == "Ar":         
+            ct = X.apply(self.remove_hashtags).apply(self.remove_tashkeel).apply(self.clean_char).apply(self.remove_repeating_char).apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.remove_stopwords_arabic)
+            return ct
 
-def create_dataframe(clean_list, valence_scores, drop_row=None):
-    """
-    Adds the cleaned tweet list and the valence scores list together in one dataframe.
-    If a drop row is defined, use this to drop a certain row with that index from the dataset
-    """
-    cleaned = pd.DataFrame(clean_list)
-    cleaned['Valence score'] = adapt_valence_scores
-    if drop_row != None:
-        cleaned = cleaned.drop([drop_row])
-    return cleaned
+folder_path = 'data/raw/'
+out_folder_path = 'data/cleaned/'
 
-if __name__=="__main__":
-   
+if __name__ == '__main__':
+# Get all files in folder to be cleaned
+    raw_filepaths = glob.glob(folder_path + '*')
+    # Loop over raw files
+    for filepath in raw_filepaths:
+        # Get basename
+        basename = os.path.basename(filepath)
+        basename_ = basename.split('-') # Get list of splitted basename
+        # If a file is not a txt file, then print the file path, and skip to next
+        if basename_[-1][-4:] != '.txt':
+            print('Did not clean', filepath + '. Item did not end in .txt.')
+            continue
+        # Read in df
+        df = pd.read_table(filepath)
+
+        # Get valence score (column name is different for type of classification)
+        if basename_[2] == 'oc':
+            val_col = "Intensity Class"
+        elif basename_[2] == 'reg':
+            val_col = "Intensity Score"
+        else:
+            print('Classification type not found. basename_[2]', basename_[2])
+        # Get valence list from df
+        valence_list = adapt_valence_scores(df, val_col)
+
+        # If data is English
+        if basename_[3] == 'En':
+            ct = CleanText(language='En')
+            clean_ = ct.fit_transform(df.Tweet)
+
+        # If data is Arabic
+        elif basename_[3] == 'Ar':
+            ct = CleanText(language='Ar')
+            clean_ = ct.fit_transform(df.Tweet)
+
+        # Fill empty cells with '[no_text]', and print how many there are
+        empty_clean = clean_ == ''
+        if clean_[empty_clean].count() > 0:
+            print(f'{clean_[empty_clean].count()} records have no words left after text cleaning in {basename}')
+            clean_.loc[empty_clean] = '[no_text]'
+
+        # Create new df of cleaned data
+        df_cleaned = pd.DataFrame(clean_)
+        # Add valence score to list
+        df_cleaned['Valence score'] = valence_list
+
+        # Drop rows with no tweet text
+        df_cleaned = df_cleaned[df_cleaned['Tweet'] != '[no_text]']
+        df_cleaned.reset_index(drop=True, inplace=True)
+        
+        # Write to csv
+        if len(basename_) == 5:
+            outpath = out_folder_path + '-'.join(['TRIALcleaned', basename_[1], basename_[2], basename_[3], basename_[-1]])
+        elif len(basename_) == 6:
+            outpath = out_folder_path + '-'.join(['TRIALcleaned', basename_[1], basename_[2], basename_[3], basename_[4], basename_[-1]])
+        else:
+            print('something went wrong with basename length. It is not 5 or 6 elements long.')
+        # For example "data/cleaned/cleaned_Valence_oc_En_train.txt'
+        df_cleaned.to_csv(outpath, sep="\t")

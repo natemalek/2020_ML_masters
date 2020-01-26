@@ -78,10 +78,10 @@ if __name__ == "__main__":
     train_filepath = sys.argv[1]
     test_filepath = sys.argv[2]
     
-    lr_score_test, lr_p_value_test = basic_regression_model(train_filepath, test_filepath)
+    #lr_score_test, lr_p_value_test = basic_regression_model(train_filepath, test_filepath)
     xgb_score_test, xgb_test_p_value = basic_xgboost_model(train_filepath, test_filepath)
 
-    print(f"basic LR model pearson r, p_value: {lr_score_test, lr_p_value_test}")
+    #print(f"basic LR model pearson r, p_value: {lr_score_test, lr_p_value_test}")
 
     print(f"basic XGB model pearson r, p_value: {xgb_score_test, xgb_test_p_value}")
     
