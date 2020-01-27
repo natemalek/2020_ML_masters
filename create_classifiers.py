@@ -8,7 +8,8 @@ import xgboost as xgb
 # xgboost tutoral used: https://www.datacamp.com/community/tutorials/xgboost-in-python
 '''
 to run: python create_classifiers.py train_file.pkl test_file.pkl
-
+example: python create_classifiers.py data/embeddings/embeddings-Valence-reg-En-train.pkl data/embeddings/embeddings-Valence-reg-En-test.pkl
+python create_classifiers.py data/embeddings/embeddings-Valence-reg-Ar-train.pkl data/embeddings/embeddings-Valence-reg-Ar-test.pkl
 '''
 def basic_regression_model(train_file, test_file):
     '''

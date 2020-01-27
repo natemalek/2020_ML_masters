@@ -5,16 +5,10 @@
 # sum_pool_embeddings(embeddings) returns a sum-pooled embedding vector
 
 # To run: python tweet_embedding.py embedding_model_filepath embedding_filetype lexicon_meta_filepath
+# eg: python tweet_embedding.py C:/users/natha/Documents/GoogleNews-vectors-negative300.bin G ./lexicon/English/lexicon_meta_data_English.txt
 # embedding_filetype: "G" or "A" for GoogleNews/AraVec, respectively
 
-# Jan 23 morning: 
-# in Arabic training set: 10076 tokens in file successfully embedded, 1103 tokens in file not in embedding model
-# in English training set: 9420 embedded, 721 missed
-
-# Jan 24 morning, lexicon coverage:
-# English: 9279 in lexica, 862 missed
-
-
+# Arabic: Total tokens not in lexicon: 12513; total words in lexicon: 10498
 
 import pandas as pd
 import numpy as np
@@ -64,7 +58,29 @@ def sum_pool_embeddings(embeddings):
         pooled_embedding.append(dim_sum)
     return pooled_embedding
 
-def compute_lexicon_score(tweet, lexicon_dict):
+def check_lexicon(lexicon_dict):
+    '''
+    Asserts that every sub-dict in the lexicon dict has the same number of entries.
+    
+    :param lexicon_dict: a dict of dicts that is a sentiment lexicon. The structure
+        is as follows: {word: {score_type: score}} ie {"happy": {"joy": 2.1, ...}, ...}
+    
+    :returns (True, length) or (False, length), where length is the size of the first sub-dict
+    '''
+    first = True
+    same_length = True
+    
+    for key, value_dict in lexicon_dict.items():
+        if first:
+            l = len(value_dict)
+            first = False
+        else:
+            if len(value_dict) != l:
+                same_length = False
+                break
+    return same_length, l
+
+def compute_lexicon_score(tweet, lexicon_dict, lex_subdict_length):
     '''
     Computes a sentiment lexicon score for a tweet by summing scores over the words
     in the tweet.
@@ -79,8 +95,11 @@ def compute_lexicon_score(tweet, lexicon_dict):
     tweet_scores = list()
     global in_lexicon
     global not_in_lexicon
+    
+    tweet_populated = False
     for word in tweet.split(" "):
         if word in lexicon_dict:
+            tweet_populated = True
             in_lexicon += 1
             for score_type, score in lexicon_dict[word].items():
                 if score_type in tweet_score_dict:
@@ -92,10 +111,16 @@ def compute_lexicon_score(tweet, lexicon_dict):
                     
     # Make tweet_scores list, ensuring consistent ordering of dimensions
     score_tuple_list = list(tweet_score_dict.items())
-    score_tuple_list.sort()
-    for t in score_tuple_list: # sort list of item tuples by key
-        tweet_scores.append(t[1])
+    score_tuple_list.sort()  # sort list of item tuples by key
     
+    if tweet_populated:
+        # if at least one word in lexicon_dict, append lexicond_dict scores.
+        for t in score_tuple_list:
+            tweet_scores.append(t[1])
+    else:
+        # otherwise, fill with appropriate number of 0s
+        tweet_scores+=[0]*lex_subdict_length
+
     return tweet_scores
 
 def collect_embeddings(filepath, new_filepath, lexicon):
@@ -111,6 +136,10 @@ def collect_embeddings(filepath, new_filepath, lexicon):
     '''
     df = pd.read_csv(filepath, delimiter="\t")
     tweet_embeddings = []
+    
+    same_length, length = check_lexicon(lexicon)
+    assert same_length, "sub-dicts in lexicon_dict must be all the same length"
+    
     for tweet in df["Tweet"]:
         # sum_pooled embeddings
         if type(tweet) != float: #empty tweet after preprocessing
@@ -121,10 +150,10 @@ def collect_embeddings(filepath, new_filepath, lexicon):
             pooled_embedding = [0]*300
         
         # lexicon scores
-        score_list = compute_lexicon_score(tweet, lexicon)
-        
+        score_list = compute_lexicon_score(tweet, lexicon, length)
         pooled_embedding += score_list # concatenate with embeddings
         tweet_embeddings.append(pooled_embedding)
+        
     new_df = pd.DataFrame()
     new_df["Embedding"] = tweet_embeddings
     new_df["Valence score"] = df["Valence score"]
@@ -157,9 +186,9 @@ if __name__ == "__main__":
     
     paths = [dev_filepath, test_filepath, train_filepath]
     '''
-    paths = ["./data/cleaned/cleaned-Valence-reg-En-train.txt", "./data/cleaned/cleaned-Valence-reg-En-test.txt", "./data/cleaned/cleaned-Valence-reg-En-dev.txt"]
+    paths = ["data/cleaned/cleaned-Valence-reg-Ar-train.txt", "data/cleaned/cleaned-Valence-reg-Ar-test.txt", "data/cleaned/cleaned-Valence-reg-Ar-dev.txt"]
     for filepath in paths:
-        new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.strip(".txt").split("-")[1:])+".pkl"
+        new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.split(".")[0].split("-")[1:])+".pkl"
         collect_embeddings(filepath, new_filepath, lexicon)
     
     end = time.time()
