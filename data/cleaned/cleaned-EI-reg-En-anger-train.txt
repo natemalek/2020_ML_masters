@@ -24,7 +24,7 @@
 22	quick listen slow speak slow	0.121
 23	like burning rap albums buy first gosh darn get rid	0.41700000000000004
 24	haha actually doggies barracking anyone gws bitter	0.47200000000000003
-25	yuuuhh 🙄😭 plus clin ep prevmed ugghhh hahaha bitter	0.521
+25	yuuhh 🙄😭 plus clin ep prevmed ugghh hahaha bitter	0.521
 26	wasp sting itchy	0.35600000000000004
 27	grateful hungry people life hungry learn change grow help etc not sure anybody better	0.396
 28	king insult intelligence black community people thinking	0.542
@@ -36,7 +36,7 @@
 34	icq making mad icq angry	0.75
 35	angry bash frustration pastry gbbo	0.53
 36	straight people even arse straight guys think means threesome fine angry fuming	0.792
-37	oh daaaaaaamn getitgirl girlpower anger rawr chicagopd	0.375
+37	oh daamn getitgirl girlpower anger rawr chicagopd	0.375
 38	oh dear watch woman pout well	0.442
 39	totally knew trump finally gets revenge son law prosecution imprisonment throws christie bus	0.45799999999999996
 40	decorations jersey already outrage	0.562
@@ -58,8 +58,8 @@
 56	haha actually doggies barracking anyone gws	0.41700000000000004
 57	personally liked relentless …didn get ourhouse onejersey werealldevilsinside ndoes nothing till puck drops njdevils	0.354
 58	see end nin bitter tragedy ni give spend nand give nothing back	0.542
-59	tonight dragrace allstars episode gave life yaassss queens teamalaska teamkatya revenge bwahaha	0.2
-60	complain time wonder people never want see acc rile stfuuu	0.708
+59	tonight dragrace allstars episode gave life yaass queens teamalaska teamkatya revenge bwahaha	0.2
+60	complain time wonder people never want see acc rile stfuu	0.708
 61	everything see american police training seems calculated trample human dignity inflame outrage escalate confrontations	0.604
 62	wanna kill destroy want died want flint back emo scene fuck die hatered	0.91
 63	thanks saying wife getting iphones today losing no eta thanks	0.479
@@ -171,7 +171,7 @@
 169	assure no laughter increasing anger costs arrogance westminster	0.604
 170	seems like fight ready rage	0.43799999999999994
 171	prayers amp protection brothers sisters fighting charlotte rage machines	0.375
-172	gonna eat pick brother get car washed amp finally go home ressssst amp watch fast amp furious movies 🤘🏼	0.25
+172	gonna eat pick brother get car washed amp finally go home resst amp watch fast amp furious movies 🤘🏼	0.25
 173	meeting olympic house golds relentless neverquit believe dreambig teamtto goinggold	0.20800000000000002
 174	think high profile female colleague would one yhat category massexodus	0.521
 175	game day minus	0.125
@@ -193,7 +193,7 @@
 191	james no no no no fucked bb bitter shouldofvotedfornicole	0.708
 192	bad news ordered online gone happened order phone	0.45799999999999996
 193	distraught candice pout piss	0.625
-194	tonight dragrace allstars episode gave life yaassss queens teamalaska teamkatya bwahaha	0.25
+194	tonight dragrace allstars episode gave life yaass queens teamalaska teamkatya bwahaha	0.25
 195	never seen fast amp furious tokyo drift boutta watch	0.22899999999999998
 196	also ppl love whole damn lot erica joanna tiff sirli harley anja rest gc bc ran chara	0.375
 197	ghost stefano reflects grim indignity murdered corrupt cops faux love days	0.521
@@ -211,11 +211,11 @@
 209	take public opinion revenge pakistan govt unable decide	0.45799999999999996
 210	thanks ios update even best app freezing crashing se	0.375
 211	new madden kicking	0.396
-212	peter radio piece ball pure class no digs no revenge total balanced pro 👏👏👏	0.43799999999999994
+212	peter radio piece ball pure class no digs no revenge total balanced pro 👏👏	0.43799999999999994
 213	nice fuming	0.312
 214	literally burst laughing	0.067
 215	egyptian officials expressed frustration outrage obama hillary administration’s support muslim brotherhood	0.579
-216	watching crimewatch kind sick fuck touches year olds 😡😡😡😡 shit like makes fume	0.688
+216	watching crimewatch kind sick fuck touches year olds 😡😡 shit like makes fume	0.688
 217	try not let anger seep reviews resent time wasted books like time precious	0.625
 218	said talking wills uncontrollable animals moving another link comments not help fuming	0.75
 219	baskets better bad mood someone irritate practice please	0.479
@@ -232,7 +232,7 @@
 230	puzzle investing opening portland feodal population correlative straight snorting infuriate xlzjyhg	0.45799999999999996
 231	poor angry justly offer people hope god anyone see education not elite	0.75
 232	agree offense ass second half td score first drive	0.41700000000000004
-233	paid chicken even get 😑😑😑 goes dollars customer	0.604
+233	paid chicken even get 😑😑 goes dollars customer	0.604
 234	chick told look like childish gambino insult compliment	0.542
 235	part buzzing cheeky squashie two not expected sort food angry	0.5379999999999999
 236	delays streatham cmn clap junc amp train took mins mins journey missed trains reading	0.583
@@ -310,15 +310,15 @@
 308	not stealing girl solo crota end flawlessly not try face wrath machine	0.45799999999999996
 309	people fuckin irritate	0.75
 310	freaking hate working word phone rage write writing writerslife writerproblems writer	0.6629999999999999
-311	whaaaat oh hell no jealous got paid fuck whole new level anger love conflicted😬	0.792
+311	whaat oh hell no jealous got paid fuck whole new level anger love conflicted😬	0.792
 312	ever put fist laptops screen time new one lmao hp	0.625
 313	thursdays pm vespers amp meditation prayerful plainsong multisensory candles incense psalms music silence faithful sing listen	0.20800000000000002
 314	resent biting tongue	0.396
 315	huff know pro hillary cnn msnbc made no mention statement would gold em	0.479
 316	epipen public outrage occurs expand pap patient assistance progrm coupons rebates mylan epipen	0.5
 317	gonna give kkk police bitch minimum sentence wattch angry	0.877
-318	fell heard snap hffffhj	0.271
-319	😂😂😭😭😭 resentment	0.43799999999999994
+318	fell heard snap hffhj	0.271
+319	😂😂😭😭 resentment	0.43799999999999994
 320	oh good god quentin letts one comedy turns angry bbctw	0.5
 321	fight elephants wrestled pigs quoteoftheday	0.396
 322	believe got days left backtoreality raging	0.625
@@ -332,11 +332,11 @@
 330	not wrath one kill laughter friedrich nietzsche friedrichnietzsche	0.292
 331	luv seeing man scowl face walking protein shaker clenching fists immediately stop suck dick	0.562
 332	not near kitchen unfortunately cannot cooking snap series	0.33299999999999996
-333	boys dint know game game life death better chose know side wrath come upon us😤😤😤	0.521
+333	boys dint know game game life death better chose know side wrath come upon us😤😤	0.521
 334	not use getting early asf shit goin irritate	0.708
 335	testing	0.25
 336	bon allume madden	0.312
-337	furious 😩😩😩	0.708
+337	furious 😩😩	0.708
 338	asian tiger mosquitoes relentless aggressive kind dealt kid	0.354
 339	sorry guys absolutely no idea time cam tomorrow keep posted	0.20199999999999999
 340	best revenge move get continue succeed never give someone satisfaction watching suffer	0.43799999999999994
@@ -355,7 +355,7 @@
 353	faggy colors nice ok even tho might take offense words lol	0.295
 354	not received verification email asked resent times still nothing	0.604
 355	hell fury like woman scorned william congreve	0.375
-356	wrongdoing grrr fact know emailing displeasure anyway	0.604
+356	wrongdoing grr fact know emailing displeasure anyway	0.604
 357	er ncfc grudge match	0.542
 358	fucked coupon goal	0.667
 359	like going called cardiac arrest turned cut finger medchat	0.542
@@ -431,7 +431,7 @@
 429	pro tip go back work kid reaches mos old stay home longer absolutely miserable	0.396
 430	moving clips youtube tonight vigil held tulsa metropolitan baptist church terencecruther justice anger sadness	0.5
 431	forgot nice area fiery hearths	0.25
-432	ummm blog says simon stehr faking th expect investigation forthwith outrage	0.688
+432	umm blog says simon stehr faking th expect investigation forthwith outrage	0.688
 433	quad shot every day sleep right time detox get raging migraines without coffee	0.43799999999999994
 434	circle dead hate new slushie machine irate livid	0.833
 435	opinion worst delhi govt acrid bitter hypocrisy	0.708
@@ -482,7 +482,7 @@
 480	young people bitter older contestants probably know make bakewell tarts gbbo	0.375
 481	peanut butter takes away sting	0.188
 482	someone make priority list things outraged order racism animalrights abortion cops	0.6459999999999999
-483	mexican ladies irritate fuck outta lil preschool fucking kids welfare amp allllat smh	0.7709999999999999
+483	mexican ladies irritate fuck outta lil preschool fucking kids welfare amp allat smh	0.7709999999999999
 484	oow sting decent new song	0.125
 485	outrage black man kills another black man streets	0.75
 486	angry order months ago placed order card billed never received disappointing	0.7709999999999999
@@ -524,7 +524,7 @@
 522	going back blissful ignorance fury	0.583
 523	haired man strides close watches major flinches away reaction draws growl throat	0.322
 524	standard bitter response feel small club big city	0.396
-525	snap meee	0.521
+525	snap mee	0.521
 526	sorry burst bubble century anymore welcome st century	0.354
 527	aye man fuming xo	0.5
 528	lt feel everything would remember everything evanora hoped would serve fuel creatures anger run rabid gt	0.479
@@ -549,7 +549,7 @@
 547	think anger barrier truth	0.43799999999999994
 548	account follow	0.312
 549	got lot tokens saved wanna spam event song eyes sting im tired	0.41700000000000004
-550	last madden commercial 😆😆😆😆😆😆 tnf	0.146
+550	last madden commercial 😆😆 tnf	0.146
 551	people infuriate	0.792
 552	live die mchanzo honeymoon crashing burning second move together	0.479
 553	wont use using guys cant get nothing right fuming	0.8540000000000001
@@ -565,7 +565,7 @@
 563	remind twenty plenty	0.25
 564	hitting children discipline quite raging hypocrite not	0.562
 565	look teef growl	0.33299999999999996
-566	nahhhhhh snap story got bussing 😂😂😂😂😂😂😂😂😂😂😂😂😂😂	0.41700000000000004
+566	nahh snap story got bussing 😂😂	0.41700000000000004
 567	important thing bestrong hold thoughts	0.147
 568	think must scare coworkers eating like rabid animal breaks srry	0.5
 569	trump supports reach another level irritation within	0.688
@@ -579,7 +579,7 @@
 577	not angry god not get want god gives expect least	0.289
 578	miss	0.146
 579	😳the intensity play extraordinary relentless aflcatsswans aflfinals 🏉👏🏿	0.292
-580	yuuuhh 🙄😭 plus clin ep prevmed ugghhh hahaha	0.43799999999999994
+580	yuuhh 🙄😭 plus clin ep prevmed ugghh hahaha	0.43799999999999994
 581	two ten times interesting particular afternoon goofballs could say worse	0.255
 582	haha well today get beyond pout annoying afraid	0.45799999999999996
 583	get point made reporting charlotte looting not explore looting businesses symbolizes outrage	0.5660000000000001
@@ -634,11 +634,11 @@
 632	nobody street burning looting terrifying innocent citizens either	0.556
 633	world drives whoever assessed tenderhearted vulnerable build guards amp invigorate raging self defense mechanisms	0.529
 634	defend belt aldo not hard grudge holding bitch	0.708
-635	firsttweetever sippin hotchocolate wondering finally gave lt haha hellloooootwitter facebookisforfamily rage	0.542
+635	firsttweetever sippin hotchocolate wondering finally gave lt haha hellootwitter facebookisforfamily rage	0.542
 636	it’s taken granted misogyny air treated normal angry response pathological	0.43799999999999994
 637	content updates provoke income	0.33299999999999996
 638	charlotteriots passion anger act violence nif mourning past away stayhome whyout	0.562
-639	janice griffith snap story 😍😍😍	0.354
+639	janice griffith snap story 😍😍	0.354
 640	real sjw not let america ni found us go get us ni let let ni rage lol	0.542
 641	guys use type language save raging	0.45799999999999996
 642	lol reminders ex gf birthday approaching bad considers acknowledging existence affront	0.583
@@ -649,7 +649,7 @@
 647	perfume smells like smell smokey incense would	0.096
 648	success best revenge whatever thinking something better ⭐️⭐️⭐️⭐️	0.25
 649	seriously dude buy bubble tape phones snap broke another phone	0.45799999999999996
-650	whaaaat oh hell no jealous got paid fuck whole new level love conflicted😬	0.604
+650	whaat oh hell no jealous got paid fuck whole new level love conflicted😬	0.604
 651	not big fan found logical right support no offense anyone	0.43799999999999994
 652	forget mention bought dreamboys tickets 🙄😂	0.354
 653	candice pout gonna take someone eye mate gbbo	0.542
@@ -663,12 +663,12 @@
 661	blame whole season natalie season would different not turned back alliance pissed bitter	0.7709999999999999
 662	lt steve feet feeling blush sting cheeks undress thank much snapped gt	0.33299999999999996
 663	yal aggravate tf outta acting lying yal tell difference dyke man rarely hard tell difference	0.792
-664	yesss apparently popular snap	0.33299999999999996
+664	yess apparently popular snap	0.33299999999999996
 665	losing live business bb gone hold minutes amp whoever picked cut noworkforme	0.542
 666	asked jared marry said no offended	0.562
 667	still got whole season wentworth watch stupid cunt work ruins us 😭😭 raging oldcunt	0.875
 668	trump fear amp anger similar hitler preached come power germany wake america	0.708
-669	yeah hot nigga say im burning uhhhhh	0.509
+669	yeah hot nigga say im burning uhh	0.509
 670	anger resentment hatred destroyer fortune today	0.375
 671	significantly bitter smile let	0.479
 672	found tonight son not practical work counting towards gcse exam ok thought stem rage	0.562
@@ -683,7 +683,7 @@
 681	strong independant practical stop living world fantasy snap faster get used reality better	0.255
 682	madden reason controllers snapped	0.45799999999999996
 683	finally leaving first job soon working since going kind bitter sweet	0.312
-684	omg someone asked sit reluctantly moved huff biiitttccchhhhhh	0.7709999999999999
+684	omg someone asked sit reluctantly moved huff biittcchh	0.7709999999999999
 685	beware fury weak king	0.41700000000000004
 686	cruel cruel man therewillbeblood	0.775
 687	dear indians hard swallow try swallow bitter pill pakistan number one test cricket	0.542
@@ -789,7 +789,7 @@
 787	nothing relentless dog begging food	0.479
 788	swear blocks going hit back	0.708
 789	bet fuming draw	0.583
-790	angry wanna cry😢😢😢	0.75
+790	angry wanna cry😢😢	0.75
 791	involuntarily smile frown photos giggle annoying	0.358
 792	something needs done people hogging machines nobody use machines one time notfair whypay	0.708
 793	ok got called white devil train didnt know whether laugh offended	0.484
@@ -825,12 +825,12 @@
 823	holding grudge make strong makes bitter forgiving make weak sets free	0.312
 824	happened suicide tweet joke obviously could offend anyone	0.542
 825	“he slow anger better mighty rules spirit takes city np bibleverse pride	0.354
-826	get gym discover forgot put gym shoes back bad rage wwhhyyy	0.7290000000000001
+826	get gym discover forgot put gym shoes back bad rage wwhhyy	0.7290000000000001
 827	believe achilles killed	0.479
 828	spend even minutes already irritate seriously bitch shut	0.812
 829	sit home damn much everything starting irritate need get house	0.509
 830	pain aspect human evolution evolution consciousness attachments desire apathy sentimentality tears fury anger	0.562
-831	joined pottermore sorted hufflepuff 😡😡😡	0.43799999999999994
+831	joined pottermore sorted hufflepuff 😡😡	0.43799999999999994
 832	joke cut internet early mistake reinstate no longer need engineer fuming	0.6459999999999999
 833	streets rage hard find itunes stepped guys vinyl nmade simple	0.45799999999999996
 834	unleashing god wrath cain	0.41700000000000004
@@ -878,7 +878,7 @@
 876	ex number time prank revenge prank whatprankishoulddo seriously prank	0.5
 877	ethan someone car revenge grayson	0.292
 878	hey jayme your👂👂 burning cuz talking going tomorrow	0.41700000000000004
-879	stop tracking back fucking potato faced cunt errrr infuriating 😠😠😠😠😠 rooney mufc	0.917
+879	stop tracking back fucking potato faced cunt err infuriating 😠😠 rooney mufc	0.917
 880	low growl escaping oh oh	0.396
 881	put much artefact points fury cant raid literally wasted month life thanks blizzard	0.667
 882	blm outraged shooting nc day turns guy pointed gun police wait facts outrage	0.43799999999999994
@@ -996,7 +996,7 @@
 994	orange one poisonous bitter judge blue one looks tastes delicious	0.312
 995	ive always wondered long angelina put brad crap not gon lie	0.521
 996	focus let love define happy let make bitter get hurt	0.292
-997	website making feel violent rage upgrade options helping either aaaaarrrrgghhh iwanttocancel	0.934
+997	website making feel violent rage upgrade options helping either aaarrgghh iwanttocancel	0.934
 998	kali kitten asked frown curling fair skinned forehead showed scar cat	0.41700000000000004
 999	adults commiting serious crimes name protest like burning library expecting get warning	0.604
 1000	no doubt going struggle year moments like payet take sting	0.45799999999999996
@@ -1070,14 +1070,14 @@
 1068	maybe also attacked tom rabid fans amp clothes always perfect also put	0.6459999999999999
 1069	gave kendrick lamar eat barbecue bitter	0.583
 1070	not learn viral insult ballet stop trying wrongfully stick models pointe shoes	0.479
-1071	ughhh love clean house incense lit aromatherapy	0.26
+1071	ughh love clean house incense lit aromatherapy	0.26
 1072	rare officer shoots without regard want conscience incite inflame	0.6459999999999999
 1073	🔥anger acid harm vessel stored anything poured anger mark twain	0.5
 1074	strike upon thee great vengeance furious anger attempt poison destroy brothers	0.688
-1075	absolutely fuming scratched car 😡😡😡😡😡😡	0.75
+1075	absolutely fuming scratched car 😡😡	0.75
 1076	one chosen clp members mp seats not people dole mates elect candidates fuming	0.682
 1077	not mention gra guy stops let ppl front go wtf blood boiling	0.8540000000000001
-1078	using multiple combs simultaneously like call impressive work ohsnap daaamn	0.29600000000000004
+1078	using multiple combs simultaneously like call impressive work ohsnap daamn	0.29600000000000004
 1079	get shit wrath winter nowhere	0.625
 1080	need new outlet	0.292
 1081	politicallycorrect bs offended assumption usa change visitor amp like	0.583
@@ -1131,12 +1131,12 @@
 1129	fingers fury	0.583
 1130	beyoncé resentment gets feelings every time	0.33299999999999996
 1131	get revenge soon	0.604
-1132	chelsea anything possible haha fuming bet 🙄🙄🙄🙄🙄🙄	0.6459999999999999
+1132	chelsea anything possible haha fuming bet 🙄🙄	0.6459999999999999
 1133	worship feet nwhere wrath mercy meet nand guilty world washed nby love pure stream n—graham kendrick	0.375
 1134	tell happy anniversary not happy ampalaya paitpaitanangpeg	0.341
 1135	poor packaging amazon fulfilled seller furious much	0.75
 1136	blood boiling	0.7290000000000001
-1137	zumba piyo hiit sessions sweaty burning sooooooo good missedoutonsummerbikinibodybutwintersunbodywilldo	0.33299999999999996
+1137	zumba piyo hiit sessions sweaty burning soo good missedoutonsummerbikinibodybutwintersunbodywilldo	0.33299999999999996
 1138	went bodega incense lookd sis behind counter amp like mirror said said said no originally	0.185
 1139	customer service beyond appalling faulty dryer replacement breaks within wks no parts wks engineers no show	0.7290000000000001
 1140	hate guys cant control anger 🙃🙃	0.6459999999999999
@@ -1150,7 +1150,7 @@
 1148	learned let go resentment people hurt keeping like swallowing poison expecting die	0.45799999999999996
 1149	always unhappy easily offended	0.531
 1150	oh man long since played madden trash anymore	0.354
-1151	like aggravate constantly byeeeeeeee	0.562
+1151	like aggravate constantly byee	0.562
 1152	candace amp pout getting right tits gbbo	0.562
 1153	time wounds heels drunkjesus rt lol wisdom quote comedy self revenge grudge hate time funny politics trump potus	0.43799999999999994
 1154	someone rudely says women long hair inner feminist tries not rage	0.604
@@ -1243,9 +1243,9 @@
 1241	rangers celtic	0.22899999999999998
 1242	point voting trump push pieces board game like angry toddler wreck everything everybody	0.562
 1243	like going called cardiac arrest turned cut finger fuming medchat	0.583
-1244	dammit whays going 😤😤😤😤 lol raging smh mobilefails	0.75
+1244	dammit whays going 😤😤 lol raging smh mobilefails	0.75
 1245	forgiveness might make us look weak weakest person one holds anger hatred	0.354
-1246	get gym discover forgot put gym shoes back bad wwhhyyy	0.562
+1246	get gym discover forgot put gym shoes back bad wwhhyy	0.562
 1247	hey folks sorry anything offensive got posted yesterday account got hacked fixed though hope annoyed	0.521
 1248	know cyran still done makeup based jeongguk tiddy like suggested	0.375
 1249	hard get touch one simple question find answer website hour waiting online chat rage	0.667
@@ -1253,9 +1253,9 @@
 1251	saw lil homie rage cam roids thing late come back lost	0.312
 1252	klitschko fury day boxing	0.312
 1253	screened snap kind narcissistic ass would smh	0.479
-1254	really wish road rage damn bad lmaooooo	0.604
+1254	really wish road rage damn bad lmaoo	0.604
 1255	taking offense acount ranks last years sabr	0.312
-1256	dammit whays going 😤😤😤😤 lol smh mobilefails	0.792
+1256	dammit whays going 😤😤 lol smh mobilefails	0.792
 1257	literally fuming fuck sake	0.86
 1258	one chosen clp members mp seats not people dole mates elect candidates	0.43799999999999994
 1259	thought xbox one madden bundle would come physical copy madden not code😴 gonna take fucking forever download lol	0.625
@@ -1275,8 +1275,8 @@
 1273	force neighbours pay people nerve outrage victim	0.833
 1274	way ur angry literally feel ur blood boiling	0.75
 1275	nothing hateful bitter fag	0.75
-1276	ehhh guess want everyone ever burst laughing front of😂	0.33299999999999996
-1277	oh daaaaaaamn getitgirl girlpower rawr chicagopd	0.354
+1276	ehh guess want everyone ever burst laughing front of😂	0.33299999999999996
+1277	oh daamn getitgirl girlpower rawr chicagopd	0.354
 1278	watch un speech see resentment towards us americans 🇺🇸✝🇺🇸	0.521
 1279	ppl like irritate soul	0.45799999999999996
 1280	cam still rattled backlash received made black qb comment suffered wrath white america	0.396
@@ -1332,7 +1332,7 @@
 1330	←would furrow face would redden protests would seem seen unattractive wukong eyes was→	0.48100000000000004
 1331	options table revenge coming	0.45799999999999996
 1332	even says nothing still piss people gotta decide wants make angry	0.43799999999999994
-1333	bitter hurts lmaooo	0.354
+1333	bitter hurts lmaoo	0.354
 1334	magical time year xmas party announced outrage commences gotta love silicon valley millennials	0.429
 1335	making buddy cry bitch wait revenge 🤗👌🏻	0.812
 1336	sitting wrapped fluffy blanket incense burning listening bon iver drinking mulled wine	0.25
@@ -1358,7 +1358,7 @@
 1356	bloody parking ticket 😒💸	0.583
 1357	doll vile creature touchline every game tantrums amp shouts ref would love see	0.479
 1358	indignation whispers date terrific lerman letts centerpiece scene overwhelming sense indignation	0.479
-1359	wanting salty fries mcdonald since yesterday burning fingers eating bc shits 🔥🔥🔥	0.396
+1359	wanting salty fries mcdonald since yesterday burning fingers eating bc shits 🔥🔥	0.396
 1360	never watch greys anatomy ever ever ever ever ever shonda rimes takes away another og character☹️☹️☹️☹️☹️☹️☹️☹️☹️☹️	0.583
 1361	trouble feigned anger gave look told behave knew though one	0.41700000000000004
 1362	india react uri attack revenge	0.43799999999999994
@@ -1384,7 +1384,7 @@
 1382	think may offended	0.5
 1383	anger rises think consequences quote wisdom anger	0.433
 1384	fuming ball anger today	0.708
-1385	meeee lvl not single relentless	0.271
+1385	mee lvl not single relentless	0.271
 1386	think came back twitter not ruffle bushes tuh	0.521
 1387	kik want swap pics post account anonymously wish kik vsvplou kik kikme snap nudes tits snapchat	0.292
 1388	ya girl bitter	0.439
@@ -1414,7 +1414,7 @@
 1412	wont use using guys cant get nothing right	0.708
 1413	revenge	0.542
 1414	years irrelevant absolute joke manutd ticketing fuming noloyalty joke notimpressed	0.873
-1415	stop tracking back fucking potato faced cunt errrr infuriating 😠😠😠😠😠 angry rooney mufc	0.938
+1415	stop tracking back fucking potato faced cunt err infuriating 😠😠 angry rooney mufc	0.938
 1416	yeah know unless offense get something going big	0.41700000000000004
 1417	got angry telling would year old guy looking girl like felt	0.45799999999999996
 1418	kenny born nme washington nkenny fucking liar born fiery pits hell	0.917
@@ -1432,21 +1432,21 @@
 1430	prayers amp protection brothers sisters fighting charlotte machines	0.18899999999999997
 1431	frustration looking elphaba frown aggravation high pitched voice growing	0.604
 1432	got madden ps add trackdawgt lets run	0.312
-1433	ooooooooh god uuuugggghhhhhhhhh rage	0.583
+1433	ooh god uugghh rage	0.583
 1434	straight people even arse straight guys think means threesome fine	0.517
 1435	never forget live cancelled programs allow extend people could call detail outrage behaviour	0.596
 1436	though want offend americans	0.625
 1437	apparently contact sofas meant delivered today old ones gone sitting floor no sofas fuming	0.6459999999999999
 1438	seriously frustrating sometimes ╯°□°）╯︵ ┻━┻ ugh raging	0.688
 1439	life tip know unresolved anger likely cause problems several areas life must recognize amp properly deal	0.41700000000000004
-1440	using multiple combs simultaneously like call impressive work snap ohsnap daaamn	0.292
+1440	using multiple combs simultaneously like call impressive work snap ohsnap daamn	0.292
 1441	need help anger	0.574
 1442	believe putting prices already know struggling pay bill amp change package	0.667
 1443	days never fucking pen nffc	0.85
 1444	would almost took offense actually snapped	0.45799999999999996
 1445	even give pizzas serious fail hungry hangry	0.4
 1446	waiting figure like real quick irritation	0.604
-1447	ooooooooh god uuuugggghhhhhhhhh	0.75
+1447	ooh god uugghh	0.75
 1448	rabid dog ridden child eaten flesh one fellow limbs adults	0.583
 1449	swear blocks going hit back revenge	0.6459999999999999
 1450	seriously frustrating sometimes ╯°□°）╯︵ ┻━┻ ugh	0.5539999999999999
@@ -1533,7 +1533,7 @@
 1531	fucked coupon goal raging	0.7290000000000001
 1532	like hello first born must always laugh jokes	0.324
 1533	hold grudge year barely hold one minutes	0.354
-1534	height irritation person makes hilarious chusssss plz die 😬😬	0.708
+1534	height irritation person makes hilarious chuss plz die 😬😬	0.708
 1535	hi monica write regularly not bees never dared try buzz honey	0.354
 1536	pretty average klitschko fury joshua white	0.41700000000000004
 1537	least ppl left stores huff past year ive never anyone call guest service yet	0.521
@@ -1576,7 +1576,7 @@
 1574	lgbtq media inform inspire entertain amp unite community give platform whose goal offend us attention	0.5
 1575	anyway found short scale today perfect purposes soft hands aggravate chronic tendonitis	0.354
 1576	fucking hell rush damn train also no use fucking min wait still sweating rage smrtruinslives	0.917
-1577	jojo not midnight lets rage wryyyyyy	0.542
+1577	jojo not midnight lets rage wryy	0.542
 1578	bloods boiling	0.708
 1579	yes hc got low know feels damage low enough never mind rng enrage	0.479
 1580	guess convenient target misplaced anger really mad played	0.521
@@ -1585,13 +1585,13 @@
 1583	smh remove ideologically bankrupt opportunistic establishment burning bridges social contracts	0.521
 1584	get bitter get better	0.312
 1585	get embarrassed slightest things fret day hate	0.43799999999999994
-1586	little sister sure hold grudge 😂😂😂	0.33299999999999996
+1586	little sister sure hold grudge 😂😂	0.33299999999999996
 1587	gotta use dark skin emoji offended	0.525
 1588	joke	0.312
 1589	stomach growl woke huh	0.292
 1590	maps yeah yeah yeahs came radio today almost burst tears	0.292
 1591	michelle nothing hating nicole game hahaha bb	0.396
-1592	like hours worth standing calorie burning hours 😭😭😭😭 stworldprobsvs	0.45799999999999996
+1592	like hours worth standing calorie burning hours 😭😭 stworldprobsvs	0.45799999999999996
 1593	schneiderlin taking revenge fouls	0.396
 1594	colinkaepernick protests unjust murder keithlamontscott north carolina injustice speakout	0.5
 1595	icq making mad icq	0.7290000000000001
@@ -1601,7 +1601,7 @@
 1599	best revenge massive success	0.312
 1600	people hurt angry hard know anger remember end day humans bekind	0.25
 1601	realest ever relentless ever inevitable win	0.415
-1602	ummm blog says simon stehr faking th expect investigation forthwith	0.479
+1602	umm blog says simon stehr faking th expect investigation forthwith	0.479
 1603	boycotting till butter pecan comes back furious	0.75
 1604	fucking hell rush damn train also no use fucking min wait still sweating smrtruinslives	0.7709999999999999
 1605	war right outside door rage usatoday	0.5
@@ -1613,7 +1613,7 @@
 1611	prudence suggests bump weeks viewed skepticism media hrc axis angry	0.583
 1612	note self stop laughing things offend ok get mad people notetoself mad upset	0.41700000000000004
 1613	not despise lord ’s discipline not resent rebuke lord disciplines loves proverbs	0.5
-1614	firsttweetever sippin hotchocolate wondering finally gave lt haha hellloooootwitter facebookisforfamily	0.292
+1614	firsttweetever sippin hotchocolate wondering finally gave lt haha hellootwitter facebookisforfamily	0.292
 1615	might pout star baker tho	0.5
 1616	also mostly except synthetic testosterone bits male raging sexist	0.6459999999999999
 1617	sickle cell right pt background could jia allergic reaction bite bee sting among others	0.292
@@ -1630,7 +1630,7 @@
 1628	professor introduce say one interesting fact nhi ethan sun engulf planet fiery explosion one day	0.43799999999999994
 1629	obama must fuming lol	0.5
 1630	democrats voters zero tolerance honesty associate honesty anger hate	0.667
-1631	provocation sets curiosity entity feeding fuel fire speaking quatrains hmmm america needs vigilant	0.5
+1631	provocation sets curiosity entity feeding fuel fire speaking quatrains hmm america needs vigilant	0.5
 1632	indignant wants world knows obama nothing putin wants aleppo syria	0.479
 1633	scrap rage instead	0.583
 1634	well lines sweden goals sure sting	0.312
@@ -1640,7 +1640,7 @@
 1638	yeah dude appreciate support notorious abc peep grateful	0.20800000000000002
 1639	someone throw snap dance party lo rest big homie 🙏🏾	0.375
 1640	anger rises think consequences quote wisdom	0.33299999999999996
-1641	paid chicken even get 😑😑😑 goes dollars customer angry	0.7290000000000001
+1641	paid chicken even get 😑😑 goes dollars customer angry	0.7290000000000001
 1642	fuking fuming	0.8540000000000001
 1643	everyone raging	0.625
 1644	automatic ima keep trying fam thewengerway	0.43799999999999994
@@ -1651,10 +1651,10 @@
 1649	sometimes best motivations come proving wrong energy motivationalquotes	0.25
 1650	block everyone everywhere posting storm think everyone aware damn rain not quit damn	0.812
 1651	miss fact burkeramsey swung amp hit sister jonbenet face golf club previously fit	0.41700000000000004
-1652	ummm dragons fury though	0.271
+1652	umm dragons fury though	0.271
 1653	word normalized media wow no words no words frog boiling pot via media	0.509
 1654	biggest fears incurable std pregnancy mean basically thing anyway forlife annoying irritation weirdsmells	0.583
-1655	website making feel violent rage upgrade options helping either aaaaarrrrgghhh iwanttocancel rage	0.737
+1655	website making feel violent rage upgrade options helping either aaarrgghh iwanttocancel rage	0.737
 1656	get shot lingys face time pretty sure would red hair fuming pretendinghesok ruok aflcatsswans	0.604
 1657	next series celebrity firefighting show chuck burning building voiceover	0.45799999999999996
 1658	earth send email annoyed customer	0.708
@@ -1662,16 +1662,16 @@
 1660	anger resentment hatred destroyer fortune today	0.396
 1661	clash titans wrath titans 🙌🏾🙌🏾🙌🏾	0.312
 1662	awaiting see ur new avataar rowdy action angry young man	0.41700000000000004
-1663	joined pottermore sorted hufflepuff 😡😡😡 fuming	0.708
+1663	joined pottermore sorted hufflepuff 😡😡 fuming	0.708
 1664	disconnected whilst holiday move house st october	0.396
 1665	sorry offend griffin	0.479
 1666	fake people irritate	0.562
 1667	pay good money watch someone slap pout candice	0.6459999999999999
-1668	fast furious monday pm mbc 😍😍😍😍😍😍😍	0.271
+1668	fast furious monday pm mbc 😍😍	0.271
 1669	zero help customer service pushing buck back forth promising callbacks don’t happen loathing	0.6459999999999999
 1670	projection perception see someone else also level within anger worry	0.41700000000000004
 1671	espn assumed wanted free magazines	0.271
-1672	alex growl 😂😂😂	0.312
+1672	alex growl 😂😂	0.312
 1673	wee pop socks keep falling inside shoes	0.562
 1674	aidy physics question naidy ok not gonna ask tristan cause wanna aggravate	0.319
 1675	little prick sting come tennessee get	0.41700000000000004

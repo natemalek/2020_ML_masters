@@ -63,7 +63,7 @@ class CleanText(BaseEstimator, TransformerMixin):
 
     :returns two cleantext functions, one for English and one for Arabic
     """
-    def __init__(self, language = basename_[3]):
+    def __init__(self, language = ''):
         self._language = language
 
     def remove_hashtags(self, input_text):
@@ -133,10 +133,10 @@ class CleanText(BaseEstimator, TransformerMixin):
         return self
 
     def transform(self, X, **transform_params):
-        if self._language == "En":    
+        if self._language == "En":
             ct = X.apply(self.remove_repeating_char).apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.to_lower).apply(self.remove_stopwords_english)
             return ct
-        elif self._language == "Ar":         
+        elif self._language == "Ar":
             ct = X.apply(self.remove_hashtags).apply(self.remove_tashkeel).apply(self.clean_char).apply(self.remove_repeating_char).apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.remove_stopwords_arabic)
             return ct
 
@@ -192,12 +192,12 @@ if __name__ == '__main__':
         # Drop rows with no tweet text
         df_cleaned = df_cleaned[df_cleaned['Tweet'] != '[no_text]']
         df_cleaned.reset_index(drop=True, inplace=True)
-        
+
         # Write to csv
         if len(basename_) == 5:
-            outpath = out_folder_path + '-'.join(['TRIALcleaned', basename_[1], basename_[2], basename_[3], basename_[-1]])
+            outpath = out_folder_path + '-'.join(['cleaned', basename_[1], basename_[2], basename_[3], basename_[-1]])
         elif len(basename_) == 6:
-            outpath = out_folder_path + '-'.join(['TRIALcleaned', basename_[1], basename_[2], basename_[3], basename_[4], basename_[-1]])
+            outpath = out_folder_path + '-'.join(['cleaned', basename_[1], basename_[2], basename_[3], basename_[4], basename_[-1]])
         else:
             print('something went wrong with basename length. It is not 5 or 6 elements long.')
         # For example "data/cleaned/cleaned_Valence_oc_En_train.txt'

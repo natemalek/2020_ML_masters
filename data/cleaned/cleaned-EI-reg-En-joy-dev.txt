@@ -23,9 +23,9 @@
 21	time bed real bed four nights camping bliss	0.5
 22	eclipse angelic 🙏🏿 blessing	0.563
 23	charming smile really make smile believe	0.58
-24	jamessssss good bye dear pleasure	0.294
+24	jamess good bye dear pleasure	0.294
 25	need something something must done nyour anxiety amusing nothing done despair	0.19699999999999998
-26	long 😢😢😢 phelan brilliance	0.059000000000000004
+26	long 😢😢 phelan brilliance	0.059000000000000004
 27	nothing makes happier managing depression well	0.542
 28	whenever turn radio hear bob dylan knocking heaven door played assume died relieved notyet someday	0.21899999999999997
 29	think yondu amp crew rocket amp groot jumps ego planet start laughing	0.547
@@ -34,7 +34,7 @@
 32	wonderful thing able start day laughter	0.787
 33	serious looking folks suffer unused smile muscles behappy hatersgonnahate	0.281
 34	got free dr pepper vending machine awesome	0.682
-35	step brilliance womeninbiz womeninbusiness successs femaleleaders femaleentrepeneurs	0.547
+35	step brilliance womeninbiz womeninbusiness success femaleleaders femaleentrepeneurs	0.547
 36	never excited start semester	0.9690000000000001
 37	delight	0.33299999999999996
 38	beautiful pout	0.5
@@ -148,7 +148,7 @@
 146	bedtime full listen lou reed album transformer full albums underrated days backback enjoyment	0.594
 147	no planning september	0.5
 148	yesterday gone thats old song new song live today get pizza live love laugh wednesdaywisdom follow	0.42200000000000004
-149	omggg bloated wonderful idea start tomorrow	0.353
+149	omgg bloated wonderful idea start tomorrow	0.353
 150	big smile great post greatrafa loverafa	0.557
 151	time brew toast tv anyone else gets earlydoors mumlife lifewithtoddlers	0.526
 152	let no longer languish pain look forward joy gifted achieve life eleesha quote	0.364
@@ -195,7 +195,7 @@
 193	unchallenged present creates complacent future tuesdaythought selfimprovement success excitement	0.516
 194	desmond asleep called got meeting still answered let vent whole way home sweetness	0.7340000000000001
 195	never relived	0.53
-196	bruhhh🙄why ar mon cute chill ughhhhh😍😍😍😍 attractive whyamisingle houston	0.583
+196	bruhh🙄why ar mon cute chill ughh😍😍 attractive whyamisingle houston	0.583
 197	happy birthday zanele ni hope wonderful day n🎊🎉🎈	0.672
 198	thanks love share coke holiday family smile chance win	0.547
 199	wait take family pictures 😩💜💜 excited start fun things babies 👨‍👩‍👧	0.833
@@ -207,9 +207,9 @@
 205	proud mils keep smiling ❤️	0.818
 206	soon trailer likes views	0.46799999999999997
 207	ugly guy whos pleasant geuine happy gt evil attractive guy whos bitter coniving superficial	0.125
-208	ha ha love flats description marlie packer default setting combat mode 😂😂😂😂😂 brilliant wrwc	0.563
+208	ha ha love flats description marlie packer default setting combat mode 😂😂 brilliant wrwc	0.563
 209	thinking fergie music seriously mother someday lmao empowerment adorable	0.662
-210	omgsh alexis sooooo freaking funny bachelorinparadise pizza segment plus love jazzy friendship	0.813
+210	omgsh alexis soo freaking funny bachelorinparadise pizza segment plus love jazzy friendship	0.813
 211	lesson book apply life always choice kev grimey things happen amp chose optimism	0.324
 212	waking scent coffee no pleasure morning carliforniadreaming writers	0.777
 213	hello namjoo unnie welcome paradox deeply sorry late greeting chaey wishing pleasant	0.32799999999999996
@@ -267,12 +267,12 @@
 265	even know na naa koy beautiful nightmare hahahaha oks	0.344
 266	well day started great mocha machine working mcdonalds	0.23399999999999999
 267	exciting day ahead lunch girls foodie yummy myday friends	0.7190000000000001
-268	happy birthday one favorite content creator hope wonderful birthday 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉	0.797
+268	happy birthday one favorite content creator hope wonderful birthday 🎉🎉	0.797
 269	greatest happiness seeing someone like stay happy daidouji tomoyo cardcaptor sakura	0.706
 270	hi thanku follow nus hairdressers love sharing smiles nit universal language nhave fab day	0.667
 271	ever not tired second kid put top workmom grateful	0.348
 272	groovy restaurant got cheeseburger fries discriminate rating yummy delicious politicallycorrect	0.636
-273	happy birthday buddy☺ wishing lots smiles amp success ameen☺ bday days yaayyaaa💃	0.813
+273	happy birthday buddy☺ wishing lots smiles amp success ameen☺ bday days yaayyaa💃	0.813
 274	get free planner think csuf mofuckintitans	0.188
 275	jesus truth psalms righteous glad rejoice lord done obey shout joy	0.563
 276	wow included playlist awesome	0.8059999999999999
@@ -280,7 +280,7 @@
 278	cute smile	0.578
 279	well done twins charlii cadance	0.6940000000000001
 280	need help guys survey friend	0.242
-281	call creepy handsome adorable nicest shark ever ok zora buuuuuut looks like shark	0.484
+281	call creepy handsome adorable nicest shark ever ok zora buut looks like shark	0.484
 282	attitude makes beam delight every time encounter	0.609
 283	reason filled delight see auntie laugh	0.851
 284	snowflake random funny man never dull moment brilliant	0.591
