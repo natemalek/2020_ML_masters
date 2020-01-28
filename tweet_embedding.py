@@ -123,16 +123,16 @@ def compute_lexicon_score(tweet, lexicon_dict, lex_subdict_length):
 
     return tweet_scores
 
-def collect_embeddings(filepath, new_filepath, lexicon):
+def collect_embeddings(filepath, lexicon, embedding_model):
     '''
-    Takes a tsv filepaths with tweets and scores and writes a new file with tweets
+    Takes a tsv filepaths with tweets and scores and creates a dataframe with tweets
     represented as embeddings and the same scores. Takes also a sentiment lexicon
     dictionary.
     
     :param filepath: the filepath to a tsv file
-    :param new_filepath: filepath to new embeddings file
     :param lexicon: a dict of dicts representing a sentiment lexicon. Format:
         {word: {score_type: score, ...}, ...}
+    :param embedding_model: a gensim word embedding model
     '''
     df = pd.read_csv(filepath, delimiter="\t")
     tweet_embeddings = []
@@ -157,7 +157,7 @@ def collect_embeddings(filepath, new_filepath, lexicon):
     new_df = pd.DataFrame()
     new_df["Embedding"] = tweet_embeddings
     new_df["Valence score"] = df["Valence score"]
-    new_df.to_pickle(new_filepath)
+    return new_df
     
 
 if __name__ == "__main__":
@@ -189,8 +189,8 @@ if __name__ == "__main__":
     paths = ["data/cleaned/cleaned-Valence-reg-Ar-train.txt", "data/cleaned/cleaned-Valence-reg-Ar-test.txt", "data/cleaned/cleaned-Valence-reg-Ar-dev.txt"]
     for filepath in paths:
         new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.split(".")[0].split("-")[1:])+".pkl"
-        collect_embeddings(filepath, new_filepath, lexicon)
-    
+        new_df = collect_embeddings(filepath, lexicon, embedding_model)
+        new_df.to_pickle(new_filepath)
     end = time.time()
     print(f"Total time: {end-start}")
     print(f"Time after embedding: {end-embedding_done}")

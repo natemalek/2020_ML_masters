@@ -42,7 +42,7 @@ def basic_regression_model(train_file, test_file):
     
     return pearson_r, p_value
 
-def basic_xgboost_model(train_file, test_file):
+def basic_xgboost_model(df_train, df_test):
     '''
     Trains an xgboost model on training data, predicts on test data,
     and returns the resulting r2_score.
@@ -55,8 +55,6 @@ def basic_xgboost_model(train_file, test_file):
         
     :returns r2_score: a float. 
     '''
-    df_train = pd.read_pickle(train_file)
-    df_test = pd.read_pickle(test_file)
     
     X_train = list(df_train['Embedding'].values)
     y_train = df_train['Valence score'].values
@@ -79,8 +77,11 @@ if __name__ == "__main__":
     train_filepath = sys.argv[1]
     test_filepath = sys.argv[2]
     
+    df_train = pd.read_pickle(train_file)
+    df_test = pd.read_pickle(test_file)
+    
     #lr_score_test, lr_p_value_test = basic_regression_model(train_filepath, test_filepath)
-    xgb_score_test, xgb_test_p_value = basic_xgboost_model(train_filepath, test_filepath)
+    xgb_score_test, xgb_test_p_value = basic_xgboost_model(df_train, df_test)
 
     #print(f"basic LR model pearson r, p_value: {lr_score_test, lr_p_value_test}")
 
