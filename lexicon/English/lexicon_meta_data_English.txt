@@ -1,5 +1,5 @@
 index	filepath	word_index	score_index	emotion_index
-0	./lexicon/English/NRC-AffectIntensity-Lexicon_dummy.txt	0	1	2
-1	./lexicon/English/NRC-Hashtag-Emotion-Lexicon-v0.2_dummy.txt	1	2	0
+0	./lexicon/English/NRC-AffectIntensity-Lexicon.txt	0	1	2
+1	./lexicon/English/NRC-Hashtag-Emotion-Lexicon-v0.2.txt	1	2	0
 2	./lexicon/English/HS-unigrams_dummy.txt	0	1	-1
-3	./lexicon/English/NRC-Emotion-Lexicon-Wordlevel-v0.92_dummy.txt	0	2	1
+3	./lexicon/English/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt	0	2	1
