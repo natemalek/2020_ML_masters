@@ -8,7 +8,6 @@
 # eg: python tweet_embedding.py C:/users/natha/Documents/GoogleNews-vectors-negative300.bin G ./lexicon/English/lexicon_meta_data_English.txt ./data/cleaned/cleaned-Valence-reg-En-train.txt ./data/embeddings/embeddings-Valence-reg-En-train.pkl
 # embedding_filetype: "G" or "A" for GoogleNews/AraVec, respectively
 
-# Arabic: Total tokens not in lexicon: 12513; total words in lexicon: 10498
 
 import pandas as pd
 import numpy as np

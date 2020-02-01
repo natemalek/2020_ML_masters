@@ -5,7 +5,9 @@ import gensim
 import sys
 import os
 
-# to run: python main.py embedding_filename embedding_filetype lexicon_filename train_filename test_filename
+# to run: python main.py embedding_filename embedding_filetype lexicon_filename train_filename test_filename model_type
+# embeddings_filetype: 'A' or 'G' for AraVec, GoogleNews Word2Vec, respectively
+# model_type: 'reg' or 'oc', for regression or ordinal classification, respectively
 
 def main():
     '''
@@ -28,12 +30,15 @@ def main():
 
     if embedding_filetype == "G":
         embedding_model = gensim.models.KeyedVectors.load_word2vec_format(embedding_filename, binary=True)
-    else:
+    elif embedding_filetype == "A":
         embedding_model = gensim.models.Word2Vec.load(embedding_filename)
+    else:
+        print("Invalid embedding_filetype: Must be 'A' or 'G'. Aborting.")
+        return
     
     lexicon = clean_sentiment_lexicon.import_sentiment_lexicons(lexicon_meta_filepath)
     '''
-    base_path = "data/cleaned/cleaned-EI-reg-En-"
+    base_path = "data/cleaned/cleaned-EI-oc-En-"
     emotions = ["anger", "joy", "sadness", "fear"]
     filepaths = []
     

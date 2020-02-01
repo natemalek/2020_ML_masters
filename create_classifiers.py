@@ -71,6 +71,44 @@ def basic_xgboost_model(df_train, df_test):
     
     return pearson_r, p_value
 
+def classification_xgboost_model(df_train, df_test):
+    '''
+    Trains an xgboost model on training data, predicts on test data, rounds to [-3, 3] integer 
+    and returns the resulting r2_score.
+    
+    :param train_file: path to a pkl file with training data. This file
+        should contain a pandas df structure with two columns: "Embedding"
+        and "Valence score".
+    :param test_file: path to a pkl file with test data, structured in the
+        same way as train_file.
+        
+    :returns r2_score: a float. 
+    '''
+    X_train = list(df_train['Embedding'].values)
+    y_train = df_train['Valence score'].values
+
+    X_test = list(df_test['Embedding'].values)
+    y_test = df_test['Valence score'].values
+    
+    xg_reg = xgb.XGBRegressor(objective ='reg:linear', subsample=0.75, learning_rate = 0.1,
+                max_depth = 5, n_estimators = 300)
+    
+    xg_reg.fit(X_train, y_train)
+    predictions = xg_reg.predict(X_test)
+    
+    rounded_predictions = []
+    for entry in predictions:
+        rounded_entry = round(entry)
+        if rounded_entry > 3:
+            rounded_entry = 3
+        elif rounded_entry < -3:
+            rounded_entry = -3
+        rounded_predictions.append(rounded_entry)
+    
+    pearson_r, p_value = pearsonr(y_test, rounded_predictions)
+    
+    return pearson_r, p_value
+
 if __name__ == "__main__":
     
     train_filepath = sys.argv[1]

@@ -1,3 +1,8 @@
+### This file takes a directory as an argument and preprocesses all files in that directory.
+### It also takes a second directory for the storage of new, processed files.
+# to run: python preprocessing.py input_directory output_directory
+# eg. python preprocessing.py data/raw/ data/cleaned/
+
 # Utils for preprocessing
 ### Import all needed modules
 import pandas as pd
@@ -7,6 +12,7 @@ import os
 import emoji
 import collections
 import glob
+import sys
 
 from sklearn.base import BaseEstimator, TransformerMixin
 
@@ -140,10 +146,11 @@ class CleanText(BaseEstimator, TransformerMixin):
             ct = X.apply(self.remove_hashtags).apply(self.remove_tashkeel).apply(self.clean_char).apply(self.remove_repeating_char).apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(self.remove_punctuation).apply(self.remove_digits).apply(self.remove_stopwords_arabic)
             return ct
 
-folder_path = 'data/raw/'
-out_folder_path = 'data/cleaned/'
-
 if __name__ == '__main__':
+    
+    folder_path = sys.argv[1]
+    out_folder_path = sys.argv[2]
+    
 # Get all files in folder to be cleaned
     raw_filepaths = glob.glob(folder_path + '*')
     # Loop over raw files

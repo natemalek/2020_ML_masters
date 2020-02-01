@@ -72,7 +72,9 @@ The preprocessing file takes filepath to a TSV file and returns a cleaned TSV fi
 Additionally, you have to download a list of Arabic stopwords.
 
 #### How to run the script?
-The script can be run by opening the file in Spyder and running it here. [IS THIS CORRECT?]
+Run from command line: python preprocessing.py input_directory output_directory
+input_directory: the path to a directory containing files to be cleaned (and only these files)
+output_directory: the path to a directory where new files will be stored
 
 The input should be structured as a TSV file, ending in '.txt' in order make it work. In the input file the columns should have the following names in order to work "Intensity Class" or "Intensity Score". In the basename, there should be "En" or "Ar", indicating the language of the tweets in order for the script to run correctly.
 
