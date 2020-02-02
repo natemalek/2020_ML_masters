@@ -2,13 +2,11 @@ import pandas as pd
 import sklearn
 import sys
 from sklearn.linear_model import LinearRegression
-#from sklearn.metrics import r2_score
 from scipy.stats.stats import pearsonr
 import xgboost as xgb
 # xgboost tutoral used: https://www.datacamp.com/community/tutorials/xgboost-in-python
 '''
-to run: python create_classifiers.py train_file.pkl test_file.pkl
-example: python create_classifiers.py data/embeddings/embeddings-Valence-reg-En-train.pkl data/embeddings/embeddings-Valence-reg-En-test.pkl
+to run: python regressors.py train_file.pkl test_file.pkl
 '''
 def basic_regression_model(train_file, test_file):
     '''
@@ -116,11 +114,8 @@ if __name__ == "__main__":
     
     df_train = pd.read_pickle(train_file)
     df_test = pd.read_pickle(test_file)
-    
-    #lr_score_test, lr_p_value_test = basic_regression_model(train_filepath, test_filepath)
-    xgb_score_test, xgb_test_p_value = basic_xgboost_model(df_train, df_test)
 
-    #print(f"basic LR model pearson r, p_value: {lr_score_test, lr_p_value_test}")
+    xgb_score_test, xgb_test_p_value = basic_xgboost_model(df_train, df_test)
 
     print(f"basic XGB model pearson r, p_value: {xgb_score_test, xgb_test_p_value}")
     

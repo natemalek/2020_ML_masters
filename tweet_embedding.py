@@ -181,16 +181,5 @@ if __name__ == "__main__":
     new_df = collect_embeddings(data_filename, lexicon, embedding_model)
     new_df.to_pickle(new_filename)
     
-    '''
-    paths = ["data/cleaned/cleaned-Valence-reg-Ar-train.txt", "data/cleaned/cleaned-Valence-reg-Ar-test.txt", "data/cleaned/cleaned-Valence-reg-Ar-dev.txt"]
-    for filepath in paths:
-        new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.split(".")[0].split("-")[1:])+".pkl"
-        
-    end = time.time()
-    print(f"Total time: {end-start}")
-    print(f"Time after embedding: {end-embedding_done}")
-    print(f"Total tokens not in lexicon: {not_in_lexicon}; total words in lexicon: {in_lexicon}")
-    '''
-    
     
     

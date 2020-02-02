@@ -1,8 +1,0 @@
-Results:
-
-model:	data:	features:	dev_pearson_r:	test_pearson_r:
-linreg	V_reg_E	embeddings	0.589		0.586
-xgboost	V_reg_E embeddings	0.642		0.647
-
-xgboost	V_reg_E embeddings+sent_lex	N/A	0.736
-xgboost V_reg_A embeddings+sent_lex	N/A	0.724
