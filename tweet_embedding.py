@@ -1,8 +1,4 @@
-# This file contains util functions for representing tweets using word
-# embeddings
-# Pipeline: Takes a list of tokens as input;
-# extract_embeddings(tokens) returns those as a list of embeddings
-# sum_pool_embeddings(embeddings) returns a sum-pooled embedding vector
+# This file contains util functions for representing tweets using word embeddings
 
 # To run: python tweet_embedding.py embedding_model_filepath embedding_filetype lexicon_meta_filepath data_filepath new_filepath
 # eg: python tweet_embedding.py C:/users/natha/Documents/GoogleNews-vectors-negative300.bin G ./lexicon/English/lexicon_meta_data_English.txt ./data/cleaned/cleaned-Valence-reg-En-train.txt ./data/embeddings/embeddings-Valence-reg-En-train.pkl
