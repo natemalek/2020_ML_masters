@@ -1,13 +1,6 @@
 
 # vaguely_ML_masters
 
-install emoji package
-
-gensim arabic word embeddings:
-    Citation: Abu Bakr Soliman, Kareem Eisa, and Samhaa R. El-Beltagy, “AraVec: A set of Arabic Word Embedding Models for use in Arabic NLP”, in proceedings of the 3rd International Conference on Arabic Computational Linguistics (ACLing 2017), Dubai, UAE, 2017.
-    Download from: https://github.com/bakrianoo/aravec
-
-Arabic sentiment lexica: http://saifmohammad.com/WebPages/ArabicSA.html
 
 ## Introduction
 
@@ -15,8 +8,8 @@ This project is designed to tackle the SemEval 2018 Task 1: Affect in Tweets. It
 
 The "pipeline" for applying these functions is roughly as follows:
 - preprocessing.py is applied to the raw SemEval 2018 Task 1 English and Arabic data.
-clean_sentiment_lexicon.py is applied to the NRC sentiment lexicons listed above.
-regression_main.py is applied to the preprocessed/cleaned data, with the evaluation of the system printed in results.txt.
+- clean_sentiment_lexicon.py is applied to the NRC sentiment lexicons listed above.
+- regression_main.py is applied to the preprocessed/cleaned data, with the evaluation of the system printed in results.txt.
 
 The files tweet_embedding.py and regressors.py are primarily designed to be called by regression_main.py, but can be run independently on appropriate files (for testing of intermediate steps, for instance).
 
@@ -55,7 +48,7 @@ The files are sorted and saved in the following manner:
 - *data*: contains all the data
   - *cleaned*: contains the cleaned datafiles after preprocessing
   - *embeddings*: contains the data used to create word embeddings for both Arabic and English
-  - *raw*: contains the raw data files as downloaded from the SemEval website
+  - *raw*: contains the raw data txt files as downloaded from the SemEval website
 - *lexicon*:
  - *arabic*: contains the sentiment lexicons used for Arabic
  - *english*: contains the sentiment lexicons used for English
@@ -93,17 +86,16 @@ The input should be structured as a TSV file, ending in '.txt' in order make it 
 The output is a .txt file that should look like a TSV file, with the index in the first column, the tweet in the second and the valence or intensity score in the third column.
 
 ### clean_sentiment_lexicon.py
-Quirine
 
-This script contains a collection of functions which clean any amount of sentiment lexica and joins them together in one dictionary. The main function is import_sentiment_lexicons(). This takes the file path to a file containing meta data of the lexicons (see more under Needed files).
+This script contains a collection of functions which clean any amount of sentiment lexica and joins them together in one dictionary. The main function is import_sentiment_lexicons(). This takes the file path to a file containing meta data of the lexicons. The file with the meta data is a txt file formatted as a TSV file. The first row contains the headers. The columns should be the index number which will be added on to the emotion name in the final dictionary. The filepath column should contain the filepath to the lexicon relative from the clean_sentiment_lexicon script. The columns word_index, score_index and emotion_index represent the index of the column in which the word, score and emotion are listed in the lexicon file. If the emotion is not listed then fill in -1. As many lexicons as wanted can be listed in this file.
+
+The output of the import_sentiment_lexicons function is a dictionary of dictionaries. The key of the outer dictionary is a word and its value is a dictionary where the keys are the emotion measurements of all the lexicons and the values are the scores for each emotion measurements.
 
 #### Which packages are needed?
-texting aaaaaaaaaa
+No packages are needed to run this script.
 
 #### How to run the script?
-Which arguments in command line?
-Structure of input, structure of output.
-What should the output look like (so you know you've done it correctly)
+The functions in this script are called in regression_main.py and tweet_embeddings.py.
 
 ### tweet_embedding.py
 This file contains util functions for representing tweets using word embeddings.
