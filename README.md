@@ -47,7 +47,6 @@ The following files were used in this project.
 The files are sorted and saved in the following manner:
 - *data*: contains all the data
   - *cleaned*: contains the cleaned datafiles after preprocessing
-  - *embeddings*: contains the data used to create word embeddings for both Arabic and English
   - *raw*: contains the raw data txt files as downloaded from the SemEval website
 - *lexicon*:
  - *arabic*: contains the sentiment lexicons used for Arabic
@@ -55,6 +54,8 @@ The files are sorted and saved in the following manner:
 - *utilities*: contains a list of stopwords for Arabic
 
 The remaining files found in the main folder contain Python scripts that run the code to clean the data and run the models. Additionally, it contains the eventual results in *results.txt* as well as the README.
+
+Example data files, raw and cleaned, are found in the corresponding data folders. The remaining data used for the project can be downloaded as desired from the SemEval 2018 Task 1 site (https://competitions.codalab.org/competitions/17751#learn_the_details-datasets).
 
 ## Running the scripts
 In this part we will walk you through the steps of each notebook.
