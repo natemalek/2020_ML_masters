@@ -78,9 +78,9 @@ The preprocessing file takes filepath to a TSV file and returns a cleaned TSV fi
 Additionally, you have to download a list of Arabic stopwords.
 
 #### How to run the script?
-Run from command line: python preprocessing.py input_directory output_directory
-input_directory: the path to a directory containing files to be cleaned (and only these files)
-output_directory: the path to a directory where new files will be stored
+Run from command line: "python preprocessing.py input_directory output_directory"
+* input_directory: the path to a directory containing files to be cleaned (and only these files)
+* output_directory: the path to a directory where new files will be stored
 
 The input should be structured as a TSV file, ending in '.txt' in order make it work. In the input file the columns should have the following names in order to work "Intensity Class" or "Intensity Score". In the basename, there should be "En" or "Ar", indicating the language of the tweets in order for the script to run correctly.
 
@@ -127,7 +127,7 @@ Required packages: pandas, sklearn, sys, scipy, xgboost
 
 #### How to run the script?
 Command: "python regressors.py train_file.pkl test_file.pkl"
-train_file.pkl and test_file.pkl structured as is the output of tweet_embedding.py: a pandas df with embeddings in col 1 and
+* train_file.pkl and test_file.pkl structured as is the output of tweet_embedding.py: a pandas df with embeddings in col 1 and
 labels in col 2.
 
 ### regression_main.py
@@ -142,8 +142,8 @@ Required python packages: gensim, os, sys
 
 #### How to run the script?
 Command: "python regression_main.py embedding_filename embedding_filetype lexicon_filename train_filename test_filename model_type"
-embedding_filename: The path to a file containing pretrained word embeddings (either GoogleNews Word2Vec or AraVec).
-embedding_filetype: 'A' or 'G', for AraVec or GoogleNews, respectively
-lexicon_filename: The path to the lexicon metafile. Details on this file can be found in clean_sentiment_lexicon.py documentation.
-train_filename, test_filename: The paths to train and test data, structured as .tsv files with "Tweet" and "Valence Score" columns
-model_type: 'oc' or 'reg', for Ordinal Classification and Regression, respectively.
+* embedding_filename: The path to a file containing pretrained word embeddings (either GoogleNews Word2Vec or AraVec).
+* embedding_filetype: 'A' or 'G', for AraVec or GoogleNews, respectively
+* lexicon_filename: The path to the lexicon metafile. Details on this file can be found in clean_sentiment_lexicon.py documentation.
+* train_filename, test_filename: The paths to train and test data, structured as .tsv files with "Tweet" and "Valence Score" columns
+* model_type: 'oc' or 'reg', for Ordinal Classification and Regression, respectively.
