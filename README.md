@@ -44,16 +44,14 @@ The following packages are needed for running this project. You might need to in
 ### Needed files
 The following files were used in this project.
 
-<<<<<<< HEAD
 - Lexica Arabic and English
 - meta_data files for arabic and english lexica
 =======
 - List of Arabic stopwords imported from [LINK TO THE ARABIC STOPWORDS MODULE]
 - Lexica Arabic and English (http://sentiment.nrc.ca/lexicons-for-research/ and http://www.saifmohammad.com/WebPages/ArabicSA.html)
-- English pre-trained word embeddings: GoogleNews (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) 
+- English pre-trained word embeddings: GoogleNews (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 - Arabic pre-trained word embeddings: AraVec (https://github.com/bakrianoo/aravec/tree/master/AraVec%202.0); specifically, the 300-dimension Twitter SkipGram embeddings were utilized.
 
->>>>>>> 8f4771381f497b28e892fbbe0b341c5a625326d6
 
 ### Folder structure
 The files are sorted and saved in the following manner
@@ -90,7 +88,7 @@ The output is a .txt file that should look like a TSV file, with the index in th
 ### clean_sentiment_lexicon.py
 Quirine
 
-This script contains a collection of functions which clean any amount of sentiment lexica and joins them together in one dictionary. The main function is import_sentiment_lexicons(). This takes the file path to a file containing meta data of the lexicons (see more under Needed files). 
+This script contains a collection of functions which clean any amount of sentiment lexica and joins them together in one dictionary. The main function is import_sentiment_lexicons(). This takes the file path to a file containing meta data of the lexicons (see more under Needed files).
 
 #### Which packages are needed?
 text
@@ -109,7 +107,7 @@ Pipeline: Takes a pandas df .tsv file as input, and outputs a .pkl file with emb
 
 #### Which packages are needed?
 Required packages: pandas, numpy, nltk, gensim, sys, clean_sentiment_lexicon
-Required files: 
+Required files:
 * sentiment lexicon (see clean_sentiment_lexicon documentation)
 * Embedding model(s): GoogleNews (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit), AraVec (https://github.com/bakrianoo/aravec). Filepath to embedding model is passed as a command line argument.
 
@@ -120,7 +118,7 @@ Command: "python tweet_embedding.py embedding_model_filepath embedding_filetype 
 
 ### regressors.py
 This file contains functions for creating, applying, and evaluating xgboost regression models for regression
-and ordinal classification. 
+and ordinal classification.
 It is used primarily as utility functions for regression_main.py, but can be run on its own to read train and test .pkl files
 containing embeddings and labels and output the evaluation of the model to standard output.
 
@@ -150,10 +148,4 @@ lexicon_filename: The path to the lexicon metafile. Details on this file can be 
 train_filename, test_filename: The paths to train and test data, structured as .tsv files with "Tweet" and "Valence Score" columns
 model_type: 'oc' or 'reg', for Ordinal Classification and Regression, respectively.
 
-<<<<<<< HEAD
-### create_classifiers.py
-??
-
 ## References
-=======
->>>>>>> 8f4771381f497b28e892fbbe0b341c5a625326d6
