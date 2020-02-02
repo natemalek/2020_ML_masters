@@ -42,6 +42,7 @@ The following packages are needed for running this project. You might need to in
 
 ### Needed files
 The following files were used in this project.
+<<<<<<< HEAD
 - Lexica Arabic and English
 - meta_data files for Arabic and English lexica
 - List of Arabic stopwords imported from https://github.com/mohataher/arabic-stop-words
@@ -49,6 +50,18 @@ The following files were used in this project.
 - English pre-trained word embeddings: GoogleNews (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
 - Arabic pre-trained word embeddings: AraVec (https://github.com/bakrianoo/aravec/tree/master/AraVec%202.0); specifically, the 300-dimension Twitter SkipGram embeddings were utilized.
 
+=======
+
+- Lexica Arabic and English
+- meta_data files for arabic and english lexica
+=======
+- List of Arabic stopwords imported from https://github.com/mohataher/arabic-stop-words
+- Lexica Arabic and English (http://sentiment.nrc.ca/lexicons-for-research/ and http://www.saifmohammad.com/WebPages/ArabicSA.html)
+- English pre-trained word embeddings: GoogleNews (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
+- Arabic pre-trained word embeddings: AraVec (https://github.com/bakrianoo/aravec/tree/master/AraVec%202.0); specifically, the 300-dimension Twitter SkipGram embeddings were utilized.
+
+
+>>>>>>> 243256ed8c80aef9a347794f295add5466581b12
 ### Folder structure
 The files are sorted and saved in the following manner:
 - *data*: contains all the data
@@ -154,7 +167,10 @@ lexicon_filename: The path to the lexicon metafile. Details on this file can be 
 train_filename, test_filename: The paths to train and test data, structured as .tsv files with "Tweet" and "Valence Score" columns
 model_type: 'oc' or 'reg', for Ordinal Classification and Regression, respectively.
 
+<<<<<<< HEAD
 ### create_classifiers.py
 
 
+=======
+>>>>>>> 243256ed8c80aef9a347794f295add5466581b12
 ## References
