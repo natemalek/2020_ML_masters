@@ -67,13 +67,13 @@
 65	real happiness comes person truly love	0.7809999999999999
 66	ur welcome buddy kids awesome	0.625
 67	great gif joyful	0.7190000000000001
-68	cleared warehouse floor work sooo much beautiful smooth concrete	0.39399999999999996
+68	cleared warehouse floor work soo much beautiful smooth concrete	0.39399999999999996
 69	ty drown god blessing powerful political act silencing cannot go forever	0.242
 70	“when get sad stop sad awesome instead n― barney stinson	0.281
 71	strong stay positive make wonder still smiling	0.565
 72	hilarious self reflection world laughing	0.391
 73	life spicy bar hill looking good look fine soveryfine wow	0.578
-74	sooooo needed call adorable needyaunty pupster	0.578
+74	soo needed call adorable needyaunty pupster	0.578
 75	buthisemails meme hilarity	0.435
 76	hello world program finally ready github	0.5
 77	looks like city fans already blaming ref shock defeat bournemouth amusing	0.182
@@ -89,7 +89,7 @@
 87	tried pur mojito lime mints delicious 😘happy nationalmojitoday contest win ✅💚	0.688
 88	lel already know whole plot dont worry would warned man cid tho bitch slapped gabranths hand away	0.266
 89	morning watched hummingbird two cardinals bunch finches large bunny baby bunny feasting backyard happy	0.871
-90	hope smiling laughing soul love much person 😘😘😘😘 😘😘😘😘	0.8909999999999999
+90	hope smiling laughing soul love much person 😘😘 😘😘	0.8909999999999999
 91	thank much draw whole lot anymore long haired jun inspiring	0.672
 92	watched love hilarious	0.563
 93	psalm come let us sing lord let us make joyful noise rock salvation	0.594
@@ -97,7 +97,7 @@
 95	fuck let us go splendid isolation	0.212
 96	kangaroo jump higher house ofcourse house doesn’t jump elephantsportsllp happy jokeoftheday laugh stayhealthy	0.455
 97	looks beautiful	0.6409999999999999
-98	parents seen sad offered pay st months rent comes home til get straight 😂😂😂😂 blessed ❤️	0.6559999999999999
+98	parents seen sad offered pay st months rent comes home til get straight 😂😂 blessed ❤️	0.6559999999999999
 99	another big game day canada cup next ontario go get boys cheering football sask	0.703
 100	ever heard flirt marketing engaging person playful way person enjoys finds comfort	0.469
 101	nothing like good leg workout start day	0.5670000000000001
@@ -122,7 +122,7 @@
 120	never happier laying awake watch sleep thanks making happy babe	0.909
 121	not childs play happy birthday sir blessed	0.45299999999999996
 122	austin lets take rest day tears happy crying amazing bestdayever kindasad cantfeelmyarms actuallydieing	0.469
-123	miss today 👍💻😋 nthey soooo yummy	0.565
+123	miss today 👍💻😋 nthey soo yummy	0.565
 124	married money mean class means high prices prostitute adorable	0.141
 125	disney trouble casting aladdin warbler glee	0.452
 126	yasso first time kinda fun maybe thanks	0.563
@@ -160,7 +160,7 @@
 158	bad wife ate food	0.387
 159	koi uso great start enjoying alot hope lose interest midway like manga xd	0.406
 160	moms no dancing bus stop might embarrass kid 😂😂 luckytohaveme momonfire giggles	0.545
-161	happy birthday cuzy xxx	0.672
+161	happy birthday cuzy xx	0.672
 162	start sunday first groups depart	0.409
 163	happy th birthday neopet retro nhappy th birthday harrison ford legendary nhappy th birthday krispy kreme delicious	0.6829999999999999
 164	no legit though first ever experience wear makeup pretty ironic tbh giggle no ta pal	0.28800000000000003
@@ -193,7 +193,7 @@
 191	pitpb barnyard full instruments rockin sheep one fuming farmer little sleep funny pitpub pb	0.419
 192	good laugh long sleep two best cures irish proverb laughter sleep happiness	0.531
 193	actually really like hearing thoughts either way hesitate share	0.547
-194	please please please make jalapeño jack sandwich regular looove	0.703
+194	please please please make jalapeño jack sandwich regular loove	0.703
 195	im extremely sad parody not time need laugh	0.109
 196	look bright side coaches get commentary	0.406
 197	adorable little pony	0.47100000000000003
@@ -213,7 +213,7 @@
 211	way late party friend yesterday hilarious	0.515
 212	great start exciting new innovation new challenges vss brilliance	0.6409999999999999
 213	spend day creating smiles today	0.703
-214	year old crying delight right axellllllllll ♥♥♥♥♥	0.672
+214	year old crying delight right axell ♥♥	0.672
 215	cheering friday wait	0.594
 216	apologies sincere make great place holders quietly harbor rage plot adequate revenge tuesdaymotivation	0.273
 217	aw make smile 😉😘	0.758
@@ -225,7 +225,7 @@
 223	chicks even talk look flattered	0.507
 224	codes lyft codes got em use invites want ride anywhere free wonderful	0.42200000000000004
 225	absolutely happy blessed tuesday ❤️	0.75
-226	yessss glad	0.828
+226	yess glad	0.828
 227	wishing blessed happy morning glad you🤔 brighten someone day pursuit happiness	0.75
 228	sadden great talent rip brandon rogers🙏 praying family may short life brings comfort called home early	0.094
 229	hell	0.33899999999999997
@@ -343,7 +343,7 @@
 341	seeing school idols fills energy makes want cheer makes also want sing dance together	0.797
 342	obviously great feel like succeeding help feel guilty says yvonne feels horrible insightsbs	0.23399999999999999
 343	great feeling able cheer passed second bike loop weekend great race	0.7120000000000001
-344	enjoyed delicious salad drenched theon nectar greek extra virgin olive oil absolutely delicious mmmmm yummy healthy	0.773
+344	enjoyed delicious salad drenched theon nectar greek extra virgin olive oil absolutely delicious mmm yummy healthy	0.773
 345	burning desire must love goal thinkandgrowrich health money happiness love	0.516
 346	pardon	0.32299999999999995
 347	original take clothes cheer trouble	0.40299999999999997
@@ -357,7 +357,7 @@
 355	bible reading today shows us lord done great things us amp glad mouth filled laughter amp tongue singing	0.561
 356	allow bekindtoyourself quote	0.43799999999999994
 357	time shine	0.7190000000000001
-358	oswade😡😡 happy birthday till pay shillings borrowed th january 😡😡😡	0.113
+358	oswade😡😡 happy birthday till pay shillings borrowed th january 😡😡	0.113
 359	beyond entertained case sad thing witness 😂😂 watch loving dms flattered cantdoitlikeme poorthing	0.7190000000000001
 360	see smiling past like thinking nfind rest oh soul seas storms still know name jesus ilovejesus	0.578
 361	share trials tests know god always stayed brought survivor grateful truth	0.588
@@ -440,8 +440,8 @@
 438	love see interacting 😸🙏 itsbeensolong laughing	0.652
 439	could wonderful ruined warned really awful baker birthday cake vss	0.141
 440	gonna find baby gonna hold tight gonna grab afternoon delight	0.556
-441	yes love 💞💞💞🎶🎶🎶🎥⚾⚾⚾👏👏👏 thankyou awesomeness	0.894
-442	wooo happy right bought tickets see next summer dublin wait niallhoran dublin music	0.8909999999999999
+441	yes love 💞💞🎶🎶🎥⚾⚾👏👏 thankyou awesomeness	0.894
+442	woo happy right bought tickets see next summer dublin wait niallhoran dublin music	0.8909999999999999
 443	hi miguel awesome thank much updating us claire	0.828
 444	take delight lord give heart’s desires npsalms	0.45299999999999996
 445	love means bright people	0.377
@@ -462,12 +462,12 @@
 460	fear worse aversion risk got got beautiful life	0.375
 461	feel like smile fake add laugh surprised joyful become simplylovejesus	0.609
 462	wish powers multiplied insight understanding made clearer joy	0.531
-463	ohh im kiliigg hahaha flattered thank youuu	0.677
+463	ohh im kiliigg hahaha flattered thank youu	0.677
 464	happy happy birthday girl never fails brighten everyone day thank everything always	0.875
 465	even ganja suppliers also rejoicing bandbaja	0.469
 466	got love power workday everything works great smiling ear ear today 😊😀☺️️😉😁😄😃😀😁 happy	0.8909999999999999
 467	living downtown first time tiff happening schedule today excitement thechildrenact stanleytucci emmathompson	0.6759999999999999
-468	avi♥♥♥a one smile hairstyle pretty	0.5
+468	avi♥♥a one smile hairstyle pretty	0.5
 469	outlier fail btw nothing see	0.29
 470	looks like jrts ideas	0.485
 471	responsible happiness expect others make happy always disappointed	0.359
@@ -488,7 +488,7 @@
 486	happy birthday	0.594
 487	un fu ing real glad live uk right heart aches british cousins	0.121
 488	ah see clever ruby nodded head putting hands sides smiling yang n❝ hehe since	0.406
-489	happy birthday baby wish happiness liiiiife☁💙✨	0.8590000000000001
+489	happy birthday baby wish happiness liife☁💙✨	0.8590000000000001
 490	watch eclipse astral valley longest time totality across country thankful	0.6559999999999999
 491	good morning family took time wish mom happy birthday thank love blessed	0.75
 492	bless friends burst bubble happiness amp replaced contentment necstasy unstrucksound pure bliss	0.8440000000000001
@@ -506,11 +506,11 @@
 504	happy happy birthday hope day awesome drink two five	0.7340000000000001
 505	laughter instant vacation ntake vacation vacation laughter happy alenanaron lifecoach positvity	0.75
 506	bright side work pals treated spotty dotty cookie	0.42200000000000004
-507	best thing australianninjawarrior tonight watching failed attempts bomb slider hilarious laughingsohard 🤣🤣🤣	0.6559999999999999
+507	best thing australianninjawarrior tonight watching failed attempts bomb slider hilarious laughingsohard 🤣🤣	0.6559999999999999
 508	skillroads ai resume creator take risks win happy lose wise wisdom success	0.49200000000000005
 509	tommy phenomenal smashed ajjdin mixes hilarious awesome 😜😂😂👍🏻	0.578
 510	hoping giant ice broke cool ocean bring back great barrier reef optimism amirighttho sigh	0.344
-511	looked like sea weed version cousin adams family reaaaally tall	0.5
+511	looked like sea weed version cousin adams family reaally tall	0.5
 512	keep getting worried amount plastic gets thrown away atm panic enough environment already	0.109
 513	tokyo nfear death much optimism	0.203
 514	proud father mustache babystache adorable newborn	0.848
@@ -557,9 +557,9 @@
 555	hetero guilty pleasure	0.547
 556	saying mountain verifiable evidence says otherwise fake news well surprise	0.281
 557	dry overnight newmarket cool sunny start set fair ladies day good ground	0.469
-558	soooooo excited lost village ✨😎🌈🎪🎷🏕	0.758
+558	soo excited lost village ✨😎🌈🎪🎷🏕	0.758
 559	hello everyone sinong excited na live shows hahaha worry 😃😬	0.625
-560	gooood morning blessing see another day read hope great morning	0.7190000000000001
+560	good morning blessing see another day read hope great morning	0.7190000000000001
 561	everyday stretching elastic bands ready practicing magic entertaining	0.439
 562	madly love love food lt lt lt fuckthatis	0.563
 563	laughter strengthens relationships women attracted someone ability make laugh	0.561
@@ -567,7 +567,7 @@
 565	got mins get work	0.266
 566	turned world smile take heart kiss	0.688
 567	today love life moved 😍😉😘 happy excited	0.968
-568	happy tuesday bren stopping wish great day ahead filled love smiles 😙😙😙 love miss	0.7659999999999999
+568	happy tuesday bren stopping wish great day ahead filled love smiles 😙😙 love miss	0.7659999999999999
 569	love swimming reason love meditating feeling weightlessness	0.606
 570	glad despite weeks mia still talk idiotic shit nturn around bright eyes	0.32799999999999996
 571	ngi iloveyou	0.484
@@ -587,7 +587,7 @@
 585	confused inner fujoshi screaming like trying hard not smile laugh	0.516
 586	another cup coffee cookies smart intelligent brilliant best attorneysatlaw god made us happy	0.855
 587	wear smile one size fits inspire simple simplethings motivation health healthcare relax goals	0.672
-588	yaaay finally brave enought comment vlive	0.516
+588	yaay finally brave enought comment vlive	0.516
 589	adam sandler actually super hilarious amp movies funny amp heartwarming	0.7340000000000001
 590	congrats krishna sir	0.609
 591	pope ndisclose fatima prophecy command ngod angry nplease disclose prophecy ni blessed god daughter	0.172
@@ -652,9 +652,9 @@
 650	geraldo large effortless intelligent entertainment fabulous fun filled start hugely lucrative franchise praisefox	0.47
 651	see smiling steam coffee cup	0.6559999999999999
 652	happiest moments life not actually spent laughing smiling whole time many people around jonaxxbbtwkab	0.531
-653	heeheeee point happen simultaneously disappointing	0.212
-654	noodles tea nyummmmmmy yum yummy ddlg abdl chgl noodles	0.6559999999999999
-655	happy birthday twinnn 💓😘 great day love ya	0.8029999999999999
+653	heehee point happen simultaneously disappointing	0.212
+654	noodles tea nyummy yum yummy ddlg abdl chgl noodles	0.6559999999999999
+655	happy birthday twinn 💓😘 great day love ya	0.8029999999999999
 656	remember kid flipped bottom shirt make pouch put snacks times snacks	0.43799999999999994
 657	casper wyoming witness totality 🌝🌚 amazing eclipse	0.7340000000000001
 658	look little guy connecting magical self nwhat keep life magical magical	0.563
@@ -666,7 +666,7 @@
 664	featuring grilled halibut lime basil crust yellow tomato lobster coulis yummy seafood	0.563
 665	people need learn smile laugh 😂😂 live life	0.606
 666	excited tonight actually feel bit sick	0.625
-667	happy tuesday gray ❤❤❤ excited	0.7340000000000001
+667	happy tuesday gray ❤❤ excited	0.7340000000000001
 668	able sleep boxers probably one best pros comes guy breezy	0.53
 669	lol nah subscrib pm pay day thus anada pm lol stream use de app using ur data smiles	0.516
 670	makes happy makes smile laugh much breathe love long live ff	0.816
@@ -712,7 +712,7 @@
 710	want slap	0.273
 711	person no longer laugh time others laugh thomas szasz humor merryheart	0.344
 712	happy birthday one many founders fabulous company blessed tuesdaymotivation begreat	0.667
-713	rewatching rkellys trapped closet series 😂😂😂 classic hilarious	0.563
+713	rewatching rkellys trapped closet series 😂😂 classic hilarious	0.563
 714	amazonprimeday basically new favorite holiday gps watch food storage pet toys books acquired happy shopping	0.7879999999999999
 715	inspiring see ceo denouncing trump response charlottesville zero risk	0.45299999999999996
 716	happy birthday mamon	0.565
@@ -721,11 +721,11 @@
 719	woohoo enjoy claire happy tuesday	0.645
 720	home grab cheer check sweet early bird deals safe free day	0.516
 721	also wear whatever hell want	0.42200000000000004
-722	mom saw ur insta ur picture black white but☝ nice ur smile winner💕💕🌸🌸🌸	0.625
+722	mom saw ur insta ur picture black white but☝ nice ur smile winner💕💕🌸🌸	0.625
 723	temp dropped sky dark birds went crazy pdx enjoyed solareclipse amazing	0.625
 724	lost many things earned many grateful	0.545
-725	yaaaaaaaaaaaas scotty sinclair wonderful magical	0.7120000000000001
-726	scrolled back gc missed earlier man toooooooooo funny 😂😂😂😂😂 hilarious headassss	0.773
+725	yaas scotty sinclair wonderful magical	0.7120000000000001
+726	scrolled back gc missed earlier man funny 😂😂 hilarious headass	0.773
 727	added copy candide local little free library amp guy grabbed literally seconds later optimism bestofallpossibleworlds	0.485
 728	know like whenever see smile feel happiness around💕	0.848
 729	spirit joyful nature soul joyful john roger joy soultranscendence	0.5
@@ -770,7 +770,7 @@
 768	sometimes create heartbreaks expectations love prevails fear departs learn grateful moments quiet	0.375
 769	thank guys pleasure honor work expedition ‼️👊 🏍️🌍	0.688
 770	see truetwit nwho smiling brightly nwell reckon cool nand reckon rightly	0.609
-771	lmao yassss serious love triangle 😤😫😶 cheering suhyun tho wait	0.45299999999999996
+771	lmao yass serious love triangle 😤😫😶 cheering suhyun tho wait	0.45299999999999996
 772	today wanking target long sexy tongues nthat fetish long yummy tongue nif girl want sent tongue photo love	0.594
 773	haha sent sext vicar holy holy twist bad fun joy laughter n👿	0.594
 774	good news ten weeks friday pretty good day carefree	0.547
@@ -811,7 +811,7 @@
 809	always wondered feelings glad hear	0.672
 810	thanks shoutout see team mortonpark thursday smiles amp laughter guaranteed	0.774
 811	guys really disrespecting women moms still laundry	0.141
-812	mcgregor clown 😂😂😂 hilarious mayweathervsmcgregor	0.565
+812	mcgregor clown 😂😂 hilarious mayweathervsmcgregor	0.565
 813	whatever want want great love able make sacrifices quotes	0.545
 814	hello need grumpy cat leggings mmmkay😂😍 adorable cute infj	0.42200000000000004
 815	let start feels lover happiness loyalty truth	0.515
@@ -819,7 +819,7 @@
 817	apartment not sneak alcohol dorm room worry loud blessed	0.5479999999999999
 818	happy birthday mom wonderful cake delivery youre blessed	0.6559999999999999
 819	happy birthday awesome day keeping cape great	0.797
-820	happy birthday machaaaa 🎈🎉🎊 stay awesome murah rezeki selalu 👍🏻	0.7190000000000001
+820	happy birthday machaa 🎈🎉🎊 stay awesome murah rezeki selalu 👍🏻	0.7190000000000001
 821	thank glad enjoying	0.797
 822	heehee chuckle saw actually get laugh n😀	0.578
 823	leave smile	0.469
@@ -955,7 +955,7 @@
 953	no alarm set long lie no plans tomorrow😍 blissful	0.828
 954	beautiful thing nsmart nstrong nnice nhappy	0.594
 955	happy man	0.6409999999999999
-956	spent looking want look like kardashian give even give dad 😂😂😂😂 omfg😂😭😭😂 hilarious	0.485
+956	spent looking want look like kardashian give even give dad 😂😂 omfg😂😭😭😂 hilarious	0.485
 957	may allah keep us safe providence may replace sadness happiness amp instill endless love heart stay bless	0.5479999999999999
 958	could rn blessed friends support love everything thank enough 😭❤️	0.758
 959	face elimination tonight mahoney roadtomahoney optimism	0.17300000000000001
@@ -964,7 +964,7 @@
 962	salted caramel maryland cookie thins habe definitely kept track slimming world last weeks	0.469
 963	utd fans taste strikers become low enchanted close poverty level strikers hilarious see	0.469
 964	wow wonderfully exciting would happy treat win thank chance ❤️️ retweeted amp following	0.828
-965	happy birthday bronz❣️ love smmm wonderful day	0.688
+965	happy birthday bronz❣️ love smm wonderful day	0.688
 966	took seconds fly mozambique awesomeness	0.621
 967	no pine no apple let call pineapple funny	0.547
 968	happy woman always beautiful woman 😊😇 womanhood beingwoman	0.797
@@ -982,7 +982,7 @@
 980	hey imwearingyourshirt today humbleandkind awesomeness timmcgraw wqmx	0.531
 981	ordered baby want chef take back crownandcollards	0.121
 982	no kind cheerful hoho	0.5
-983	wayyyyy wayy wayyyy	0.688
+983	wayy wayy wayy	0.688
 984	well lovely checked church facebook page given five star review sats wedding bashful	0.547
 985	hailing izu beach sparkling ★twinkle★ star newcomer everyone waiting yohane♪	0.45299999999999996
 986	playing bliss bliss quiet coversation taken six senses album claude challe claudechalle	0.33299999999999996
@@ -994,7 +994,7 @@
 992	need hampden stabilisers first	0.359
 993	damn flamin ni thought funny 😂😂	0.563
 994	longing see face christ jesus rejoice anticipation coming	0.565
-995	every time see gbbo advert sugacravings yummy dietgonetohell 😋😋😋	0.625
+995	every time see gbbo advert sugacravings yummy dietgonetohell 😋😋	0.625
 996	easy day school today last rehearsal show tomorrow excited play nancy oliver straight new project	0.8590000000000001
 997	bro smiling bring us smiles share experience together	0.578
 998	may find center peace soul joy heart understanding mind blessing amp prayer	0.578
@@ -1020,7 +1020,7 @@
 1018	guest affable knowledgeable brilliant	0.484
 1019	ou geek	0.375
 1020	huhh awesome ni obsessed 😍😂	0.7340000000000001
-1021	zayuuum bey tatas got huge lol😋 yummy	0.613
+1021	zayuum bey tatas got huge lol😋 yummy	0.613
 1022	wish servant start house picking dog💩in back yard adorable deplorable	0.379
 1023	patient gave business card given much glee grind thing	0.33299999999999996
 1024	dictionary words joy gladness cheerfulness exultation rapture pleasure delight	0.5479999999999999
@@ -1031,12 +1031,12 @@
 1029	laughing way bank america paying	0.29
 1030	woke horrible cloggy summer cold attractive 😉😩	0.141
 1031	thoughtoftheday perpetual optimism force multiplier colin powell quote optimism positivity	0.563
-1032	felt laughing hard sleep remember why🤦🏾‍♀️😂😂😂	0.609
+1032	felt laughing hard sleep remember why🤦🏾‍♀️😂😂	0.609
 1033	luca always vivid joyful careful runs	0.406
 1034	whitehorse see hubcap going nd ave yukontumbleweed yukon	0.281
 1035	despacito came life nur aroma flared life nur almond eyes makes pulse gushing nur smiles gleam bright	0.6559999999999999
 1036	spread smiles around everywhere go spreadingsmiles smiles healtyliving laughoutloud happinessallaround	0.672
-1037	wow sooo much talent glad still playing	0.578
+1037	wow soo much talent glad still playing	0.578
 1038	bf rewatched episode gravityfalls fanboying yeahscience	0.484
 1039	jen awful funny tide turned show elated amused goes love fest oh collusion	0.547
 1040	would ever grateful could record garden forgiveness gentleman amazing	0.621

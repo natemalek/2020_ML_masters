@@ -60,7 +60,7 @@
 58	looking like heyday	0.517
 59	going away want see hurt changing hearts minds really option no	0.375
 60	laundry watching show bunch strangers birthday	0.5579999999999999
-61	breezy breezy breezy breezy buzzinnnnnn	0.645
+61	breezy breezy breezy breezy buzzinn	0.645
 62	never make decision angry gt lt never make promis happy	0.467
 63	made cry shake point parents calm give calming tablets	0.21
 64	delight lane tonight witness debuts young talent could backbone club coys	0.871
@@ -142,9 +142,9 @@
 140	connie came back hey seem bit lively	0.55
 141	dream trying steal kidney blackmarket whydidiwatchthat	0.33299999999999996
 142	obama admin rejects texas plan refugees vetted terrorism texas pulls fed refugee resettlement program aiding	0.355
-143	joined pottermore sorted hufflepuff 😡😡😡	0.25
+143	joined pottermore sorted hufflepuff 😡😡	0.25
 144	impractical jokers practically genius laughter goodthesoul impracticaljokers bingewatching	0.732
-145	nana hoco bc dream since freshman year awe 😙❤❤❤	0.732
+145	nana hoco bc dream since freshman year awe 😙❤❤	0.732
 146	chirp	0.569
 147	ghost stefano reflects grim indignity murdered corrupt cops faux love days	0.452
 148	like right way pray right way give not grudgingly necessity cheerfully woficc	0.591
@@ -185,7 +185,7 @@
 183	mc listen days nbogum days feel gloomy listen ccm spiritual song often nchurch oppa mode	0.42200000000000004
 184	help feel melancholic	0.33899999999999997
 185	assure no laughter increasing anger costs arrogance westminster	0.121
-186	😩😩😩😩 heads melted tired sleep nightmare	0.113
+186	😩😩 heads melted tired sleep nightmare	0.113
 187	think pre prepped debate answers potential hilarity	0.607
 188	thing feed naay raging something brother filling gaps	0.35
 189	women like girls resent looking great wish still looked like washed	0.449
@@ -222,7 +222,7 @@
 220	circle dead hate new slushie machine livid	0.342
 221	assured eventual destruction would interests public cheerfully accept sherlock holmes	0.5
 222	bright side youtube heroes leafy finally get banned	0.484
-223	breezy luvvvv	0.645
+223	breezy luvv	0.645
 224	love looking old statuses facebook one four years ago day glee many opinions	0.611
 225	incredible anthony weiner caught chasing busty milkmaid across park double speed jaunty music plays	0.387
 226	yes rejoicing	0.833
@@ -234,7 +234,7 @@
 232	geometry today hannah started crying laughter ms canning said pp lol	0.75
 233	rather dump gasoline run burning building use excel	0.259
 234	opinion worst delhi govt acrid hypocrisy	0.32799999999999996
-235	heart actually sunk looooool confused	0.306
+235	heart actually sunk lool confused	0.306
 236	tell bodies cheering deaths black people cops fear killing us	0.27399999999999997
 237	days sober wanna ruin	0.433
 238	yr old man threw saucepan boiling water garda amp hit garda shaft brush letterkenny district court	0.266
@@ -269,7 +269,7 @@
 267	violently screams four winds aint ever getting older cute jovial rhythm starts moves hips along waves arms air	0.685
 268	hahahahahaha oh gosh hilarious black man trying keep racism alive get man	0.73
 269	way thinking wants absolute hope born absolute despair	0.414
-270	ukulele bag fallen apart welll least life yet	0.45299999999999996
+270	ukulele bag fallen apart well least life yet	0.45299999999999996
 271	gunna make cry need glee day	0.39299999999999996
 272	hey see sent emails thousands gone panic	0.33899999999999997
 273	despite absolute delight children would feel kitten home misery husband would feel	0.414
@@ -293,7 +293,7 @@
 291	room would go russell howard tom odell michael buble pants nogood dire	0.21
 292	happy live nyc see tomorrow	0.774
 293	awe miss	0.433
-294	never dull moment talking nell 😂😂😂😂😋	0.7340000000000001
+294	never dull moment talking nell 😂😂😋	0.7340000000000001
 295	congress attended midterm liveliness differently constraints qmiv	0.503
 296	impossible say hope don’t unwittingly trigger ferocious side hell hath no fury	0.172
 297	really hate mel sue think hilarious awful	0.29600000000000004
@@ -461,18 +461,18 @@
 459	haters like crickets chirp day walk past shut fuck idol	0.531
 460	thinking trying comedy youtube always fond time nut comedy maybeoneday hopefullyfunny lol	0.963
 461	sunk meeting twins	0.452
-462	lydiaaaa ones supposed know make nervous	0.233
-463	happppy happppyyyyyy happppppyyyyy haaapppyyyy birthday best friend love lots 💖💖💖💖💖💖💖🎉🎊 chapter bdaygirl love	0.9420000000000001
+462	lydiaa ones supposed know make nervous	0.233
+463	happy happyy happyy haappyy birthday best friend love lots 💖💖🎉🎊 chapter bdaygirl love	0.9420000000000001
 464	admittedly went series thinking see jedi heyday not dysfunctional un peacekeepers space	0.315
 465	please tell us protesting injustice requires burning beating looting terrible optics toussaintromain true leader	0.259
 466	issues broadband bill charged month signed airtel hilarious	0.6609999999999999
 467	happened breezy	0.484
-468	brennan cook breezy get back together😍😍😍	0.6609999999999999
+468	brennan cook breezy get back together😍😍	0.6609999999999999
 469	actually chooses drink sparkling water	0.5
 470	true way render happy love work find pleasure francoise de motteville	0.675
 471	im like better moment cuz panic later obviously not better every opportunity choose make seem	0.65
 472	well evaluation came back minimally effective student test scores parcc sunk eval time quit teaching	0.156
-473	sound like vampires saying wanna sink teeth tt lads talents 😂😂😂😂😂😂	0.672
+473	sound like vampires saying wanna sink teeth tt lads talents 😂😂	0.672
 474	getting comedic relief season premiere modernfamily girl needs hilarious	0.75
 475	aw no problem felt like speaking felt want overcome not discouraged	0.484
 476	ciara asks sci fi movie julie amp jen stare claire phone joey bolts cab honks lmao	0.75
@@ -560,7 +560,7 @@
 558	single tear joyous deleted monster brought generations despair	0.667
 559	man lose may actually nervous breakdown	0.433
 560	high fantasy feel like could make melancholy college age slice life thing work	0.358
-561	loving pitch far 🤗🤗🤗 chills	0.7340000000000001
+561	loving pitch far 🤗🤗 chills	0.7340000000000001
 562	friend messaged ugh hungry wait breakfast socialmedia winewednesday funny laughing	0.7829999999999999
 563	accept challenges feel exhilaration victory george patton quote yeg	0.563
 564	star trek online update download oh fuming yay	0.6409999999999999
@@ -578,14 +578,14 @@
 576	swear guy friends scaredy cats horror movies haunted houses wtf	0.27399999999999997
 577	ask get apologies offended due respect alan think fed duff info	0.594
 578	scott dann injured aka worst nightmare	0.092
-579	rooney needs come absolutely dreadful 🙈🙈🙈 class goal showing team	0.36700000000000005
+579	rooney needs come absolutely dreadful 🙈🙈 class goal showing team	0.36700000000000005
 580	thank balloons today goodday	0.7859999999999999
 581	bilal abood iraq immigrant lives mesquite texas sentenced months prison lying feds terrorism	0.37
-582	mmmm kinda sad hope shake school	0.21
+582	mm kinda sad hope shake school	0.21
 583	happy anger sad melancholy confusion woodspurge	0.23399999999999999
 584	wait said cheerfully grinned	0.75
 585	liar bully president say every vote matter well sorry not get vote year	0.32799999999999996
-586	snap meee	0.446
+586	snap mee	0.446
 587	know painted quite grim picture chances simply stand surely die	0.217
 588	first weekend fall let see stay disciplined seasons goals fitness running sober mindset firstfriday family	0.586
 589	swear people dont wanna see happy like try anything fuck got going	0.36700000000000005
@@ -626,7 +626,7 @@
 624	want pour tears someone right tired upset	0.113
 625	fun funniest person funsville much hilarity usual thank ❤️	0.823
 626	found thin mints freezer clean elated	0.7170000000000001
-627	furious 😩😩😩	0.081
+627	furious 😩😩	0.081
 628	hilarious not freudian slip eh	0.821
 629	kinda wished watched mischievous kiss playful kiss	0.532
 630	heres get brock sable tag team mr mrs awol watch glee	0.55
@@ -674,7 +674,7 @@
 672	spent big little sis tomorrow beyond happy saw mums	0.883
 673	took awfy long time spot goal disallowed ☺️ pleasing	0.609
 674	need stop second guess go first thought go	0.433
-675	shd embrrssd jack bp meds twice still take days not express expressscripts horrible	0.172
+675	shd embrrssd jack bp meds twice still take days not express expresscripts horrible	0.172
 676	great see matilda happy new chair provide access lots new experiences	0.8590000000000001
 677	always leads kind hilarity average people never experience especially breakups	0.419
 678	nice see balotelli back best good player lost way bit	0.845
@@ -692,7 +692,7 @@
 690	ryan gosling eva mendes finally joyful funny dont boss dont argue everything kids go mini car trips focus love	0.633
 691	sadly not enough names whole farewell tour situation would make shy away good value et	0.345
 692	friends hate much amount bully	0.281
-693	rejoicing lil bit prematured dont think🤔🤔🤔	0.375
+693	rejoicing lil bit prematured dont think🤔🤔	0.375
 694	cheerful voice echoed grand familiar home smile blossoming rosy brims mom reciprocated	0.7390000000000001
 695	little nose irritation little chills body not flu flu flu fallsongs	0.242
 696	smell freshly cut grass even cheer boy oh boy	0.371
@@ -717,7 +717,7 @@
 715	fat buoyant day water stuff	0.518
 716	ignoring rioters like current administration ignores terrorism obviously make stop	0.41700000000000004
 717	twd comes soon happy	0.932
-718	seeing something hurt much past front not single sign grieve magicalllll	0.452
+718	seeing something hurt much past front not single sign grieve magicall	0.452
 719	ever get nerve quit restaurant find tonite glee	0.5
 720	fine mat tonight without sleep theres no worry side water	0.5
 721	haha like optimism cause make situation less mind boggling	0.581
@@ -743,7 +743,7 @@
 741	dentist said going numb front lip feel got lips like pete burns right pout	0.532
 742	“when give cheerfully accept gratefully everyone blessed ”―maya angelou	0.6829999999999999
 743	really pedal like nutter get anywhere remember sedate	0.377
-744	website making feel violent rage upgrade options helping either aaaaarrrrgghhh iwanttocancel rage	0.086
+744	website making feel violent rage upgrade options helping either aaarrgghh iwanttocancel rage	0.086
 745	hate overthinking like jus wanna happy pls	0.426
 746	projection perception see someone else also level within anger	0.25
 747	intermit animated ncaa pittsburgh vs mississippi sprightly shiny bbva level peg varsity football telly scra	0.5
@@ -755,7 +755,7 @@
 753	horror hll sure lol nhappy decision	0.7809999999999999
 754	amazing something gets stuck head shake memory sometimes miss people lot wish knew	0.532
 755	pretentious dick night gallery fucking used towel dry sink	0.29600000000000004
-756	nooooo poor blue bell not	0.2
+756	noo poor blue bell not	0.2
 757	girls hairy arms scare	0.36700000000000005
 758	hi berniebrocialists genders lived swingish state would hesitation vote clinton amp would supporting	0.44799999999999995
 759	jay brad pitt cheated bey stayed angie left cheaters love lust sex couples relationships date marriage divorce	0.552
@@ -769,7 +769,7 @@
 767	getting close poll many ignorant ppl depressing painful something needs change bethechange	0.086
 768	lowkey want go chirp anna lol say hi atkins one favourite coaches smart caring	0.696
 769	indian time already ur birthday stupendous birthday wish success laughter lots love hugs	0.629
-770	😂😂😂 know crazy shocking	0.645
+770	😂😂 know crazy shocking	0.645
 771	thenicebot melbjs smile wink across web thenicebot	0.65
 772	fucking muppet stalker	0.233
 773	tend sick lord christ give rest weary bless dying soothe suffering pity afflicted shield joyous	0.645
@@ -791,7 +791,7 @@
 789	not worry get glass guy bill us	0.43799999999999994
 790	block trying discourage us	0.321
 791	happy birthday jin young princejinyoungday happyjinyoungday got happy birthday	0.8440000000000001
-792	got dick recently right happy not sick smiling life good 😭😭😭	0.46799999999999997
+792	got dick recently right happy not sick smiling life good 😭😭	0.46799999999999997
 793	contentwiththelordsportion satisfy us early thy mercy may rejoice amp glad days ps gladness joy	0.759
 794	heart left long slight pout turned smile nheheh kidding no fine	0.581
 795	strongwomen terrify weakmen let bully wear loving consistency truth rough times hang ❤️	0.536
@@ -800,7 +800,7 @@
 798	gleesome threesome	0.42200000000000004
 799	profoundly disappointing experience pay almost remedy defect product sold terrible	0.161
 800	thenicebot indymn thought holidays could not get cheerful met thenicebot الخفجي	0.6
-801	go away please begging »»» depression anxiety worry fear sadness ndreams joy baby found sits andisbench	0.19399999999999998
+801	go away please begging »» depression anxiety worry fear sadness ndreams joy baby found sits andisbench	0.19399999999999998
 802	modern family never fails cheer especially phil	0.655
 803	gatherp th strength not try drink pain away sober fighter strong lovely dreamer	0.33899999999999997
 804	contentwiththelordsportion satisfy us early thy mercy may rejoice amp glad days ps gladness joy delight	0.86
@@ -833,7 +833,7 @@
 831	discipleship training detox something messy fearful cutoff choosefreedom cryout	0.207
 832	come let whatever dismal	0.431
 833	people hit try shake talking hide communism	0.36700000000000005
-834	punchline king back 🔥🔥🔥🔥🔥🔥🔥💯💯💯 bright city lights	0.621
+834	punchline king back 🔥🔥💯💯 bright city lights	0.621
 835	watching driven food going devon ave eat nihari makes gleeful af	0.6
 836	meanwhile getting train hope really really enjoy hotel shennan	0.569
 837	know much bloody pout take	0.207
@@ -960,7 +960,7 @@
 958	taking feelings kei unfairly lips form frown tries walk away	0.266
 959	melancholy hill	0.33899999999999997
 960	must knowing blithe means adj happy cheerful	0.833
-961	ukulele bag fallen apart welll least life yet optimism	0.371
+961	ukulele bag fallen apart well least life yet optimism	0.371
 962	held back skull smiling kiss	0.629
 963	brilliant lost joyous plot us year admits fan	0.593
 964	exhilarating	0.589
@@ -1021,7 +1021,7 @@
 1019	left phone mcds panic	0.278
 1020	refs gt favor tonight terrible	0.24100000000000002
 1021	lord thy god midst thee mighty save rejoice thee joy nzephaniah kjv	0.645
-1022	omg nol love much love ur cheery face hugs 😘😘😘	0.855
+1022	omg nol love much love ur cheery face hugs 😘😘	0.855
 1023	discover alarming rate bees dying important way life	0.359
 1024	old sadly	0.141
 1025	horror	0.379
@@ -1039,7 +1039,7 @@
 1037	good morning joyful people choose happiness great day today morning happiness grandmercurejktkemayoran	0.917
 1038	always indeed wonderful experience flying guys today bestinbusiness delight happyme	0.9
 1039	today reached subscribers yt happy goodday thankful	0.875
-1040	trying loveee somebody wanna love somebody right guess no pleasing	0.426
+1040	trying lovee somebody wanna love somebody right guess no pleasing	0.426
 1041	mustacheharbor tiburonchamber plus hearty pour yachtrock mustacheharbor	0.655
 1042	still younger spry trump	0.466
 1043	due hearty lawsuit nascar raise beer prices accommodate losses	0.313
@@ -1080,7 +1080,7 @@
 1078	completely blown away cast tonight fathomevents speechless	0.677
 1079	night sparkling let go wonderstruck blushing way home valeriebot	0.7240000000000001
 1080	anyway found short scale today perfect purposes soft hands aggravate chronic tendonitis	0.565
-1081	totes listen endless hilarity tom odell raaar morning 😂😂😂	0.7
+1081	totes listen endless hilarity tom odell raar morning 😂😂	0.7
 1082	grim piece laughter stricken day	0.8440000000000001
 1083	god physically weak whole day much shaking	0.172
 1084	yo yo yo name darthvader ni feel like need puff inhaler no rapper sick bars bars rap	0.5
@@ -1098,7 +1098,7 @@
 1096	beautiful day lord made rejoice glad	0.75
 1097	thank much home stunned happy think sunk yet wow	0.6609999999999999
 1098	pos rejoicing someone death	0.42200000000000004
-1099	loool understand pessimism	0.688
+1099	lool understand pessimism	0.688
 1100	sadly sort poster died afaik	0.23399999999999999
 1101	step boiling broccoli tbh	0.532
 1102	many gloomy days	0.33299999999999996
@@ -1150,7 +1150,7 @@
 1148	second pair scales bought stopped working battery change issue aware unhappy	0.161
 1149	even get started hillary fancy fundraisers depressing	0.21
 1150	manchester united manchester city happy days efl	0.758
-1151	shd embrrssd jack bp meds twice still take days not express expressscripts	0.321
+1151	shd embrrssd jack bp meds twice still take days not express expresscripts	0.321
 1152	gave rugby bet roosters nrl	0.391
 1153	want saturday want good lsat	0.42200000000000004
 1154	awareness time awareness time lost awareness time lost	0.345

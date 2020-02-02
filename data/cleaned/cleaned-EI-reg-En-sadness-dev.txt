@@ -106,7 +106,7 @@
 104	could soul crushing despair also might marshmallows breakfast	0.483
 105	past test exam cdl achieved	0.261
 106	every day always get bit sad finished lunch	0.7290000000000001
-107	follow bc tv show keeps laughing🤣 startle guest sitting couch booo	0.23199999999999998
+107	follow bc tv show keeps laughing🤣 startle guest sitting couch boo	0.23199999999999998
 108	jenny white dumbest trying get lost	0.423
 109	want digital art bad dad let use ipad till exams	0.475
 110	wow hope win thanks	0.135
@@ -170,7 +170,7 @@
 168	wtf shawty ass	0.414
 169	knife clean tough enough fire gun not tough enough get hands dirty awful	0.625
 170	new kennedy american politics sadly mom daughter charming toe nail	0.563
-171	probably watching sad bts video bc im sad iwannacryy halppp	0.7959999999999999
+171	probably watching sad bts video bc im sad iwannacryy halpp	0.7959999999999999
 172	paid arsehole couple new found glory tickets gonna great start birthday weekend	0.225
 173	oh hast thou done thy configurations despair	0.48100000000000004
 174	watched video took troye concert last year happy little pill im crying miss	0.875
@@ -202,7 +202,7 @@
 200	not fall dark side😂😂	0.20800000000000002
 201	awe thank	0.15
 202	mistrust medical profession cover important patients	0.5579999999999999
-203	look upon mine affliction amp ​​​ pain​ amp forgive sins ps	0.46299999999999997
+203	look upon mine affliction amp ​​ pain​ amp forgive sins ps	0.46299999999999997
 204	caleb nightmare zombies dream freedom	0.40399999999999997
 205	next time go lagos gate crash somebody owambe dressed lace gele eat amala shake waist😑	0.156
 206	damn tired hell never get day week anymore wanna call bad lil hrs sounds good	0.6
@@ -214,7 +214,7 @@
 212	good morning happy tuesday hope terrific day enjoy tons	0.16699999999999998
 213	come conclusion online world seriously fucked absolutely no words describe bleak grim	0.531
 214	felt guilt playing game horrible rainbowsixsiege	0.7879999999999999
-215	imagine suffering chronic depression told unattractive chip shoulder dwp wrag www gov uk mentalhealth	0.7290000000000001
+215	imagine suffering chronic depression told unattractive chip shoulder dwp wrag ww gov uk mentalhealth	0.7290000000000001
 216	spent time energy protecting michael flynn son coward awful parent	0.5710000000000001
 217	not bad think may come back haunt	0.304
 218	sound rain pretty peaceful annoyed mood	0.5
@@ -236,12 +236,12 @@
 234	blackest abyss despair alonzo	0.705
 235	guess never worry	0.447
 236	world know difference drunk sober one word coherence	0.48
-237	eeeeekkkk nproduct launch 😍✋💖 ni literally b•u•z•z•i•n•g nsingle sachets 😍😍 nmessage 😜🙆💜 loveyourlifestyle shakes	0.212
+237	eekk nproduct launch 😍✋💖 ni literally b•u•z•z•i•n•g nsingle sachets 😍😍 nmessage 😜🙆💜 loveyourlifestyle shakes	0.212
 238	well must sting	0.304
 239	posted snap dad someone thought grandmother crying	0.447
 240	last sunday youtube glitch making lose subs heartbreaking channel size nearly though ksubs youtube soon	0.4
 241	nah governor call someone bum amp love calls communist montclair crying	0.36
-242	much caffeine dyyyying jitters shakes paranoia heartbeat ☕💔	0.648
+242	much caffeine dyying jitters shakes paranoia heartbeat ☕💔	0.648
 243	spent mixer yet dough hook chips dough buy new one thing happens unhappy	0.8690000000000001
 244	jeong su easy get along everybody likes not intimidated like reminds seunghoon	0.386
 245	post trnsmt blues	0.313
@@ -271,7 +271,7 @@
 269	lighter note ngg nkaissery amp total man rate jubilee losing votes	0.40399999999999997
 270	still devastated sad tariq tariqlive channel no professorblacktruth well youtubefail epicfail tariqnasheed	0.769
 271	absolutely two worst national anthem singers ever heard screwed words awful	0.667
-272	soooo annoyed wait start morning	0.65
+272	soo annoyed wait start morning	0.65
 273	hearing song phone glued ears like singer spoke mad mad hahah	0.563
 274	remember nro gave cnn grief relentless hc email crusade either	0.455
 275	depressed today bitter sweet watching kids go back school made really miss babies broke backtoschool	0.9
@@ -286,7 +286,7 @@
 284	work sober 🤦🏽‍♂️ not	0.518
 285	shooting ever making mistakes ever jumped pool sharks long time ago relentless resilient	0.5
 286	aleesha—kitchen sink twenty one pilots	0.318
-287	made happy woman thx casey sigh worththewait cry beyootifulll	0.375
+287	made happy woman thx casey sigh worththewait cry beyootifull	0.375
 288	new us citizens swearing tears congratulations	0.214
 289	oh schade	0.528
 290	saw first larsen trap today stressed magpie never ever want see angry distressed wildlife	0.792
@@ -361,16 +361,16 @@
 359	would like hear podcast going refuting entire article extra indignation please	0.41700000000000004
 360	sad ultimately apparently not supported completely mostly working	0.444
 361	click download pc message says thank downloading itunes nso download frustrated	0.42
-362	know cow day thing ended showed min late looking like cow no sandwich sadness 😅😅😅	0.596
+362	know cow day thing ended showed min late looking like cow no sandwich sadness 😅😅	0.596
 363	woke still not hardly believing happened last night	0.659
 364	unhappy cost leaving eu published letter outlining reasons stay instead idiot	0.605
-365	knw temper paaa lol chill dear pissed waii else worry saaa sorry	0.611
+365	knw temper paa lol chill dear pissed waii else worry saa sorry	0.611
 366	back twitter madden madden maddenmobile ea nfl espn packers	0.22
 367	put hold minutes till hung not happy terribleservice unhappy stayed	0.818
 368	ya kind depressing think	0.5529999999999999
 369	etika polneraffs long lost brother confirmed	0.536
 370	please ruin party origin blues	0.48
-371	get feeling might reviewing showing stages full poor 😴😴😴 dull	0.41700000000000004
+371	get feeling might reviewing showing stages full poor 😴😴 dull	0.41700000000000004
 372	started depression amp anxiety shits suicide thoughts bad thoughts thts hugging night	0.792
 373	blah blah blah kyrie etc leaving boston real news devastated celtics fave someonegetmeajerseyteeasap	0.696
 374	build resentment silence really anyone favors	0.364
@@ -384,7 +384,7 @@
 382	love seeing reminds not one miserable work	0.5
 383	hmm looks like no one available respond like waiting doomsday reply burning question no answer	0.425
 384	came damn boy jokes stayed great actual job 👍🏾	0.28800000000000003
-385	coulda sworn interview vampire hmmm mandela effect anyone interviewwithavampire annerice books horror ilovevamps	0.342
+385	coulda sworn interview vampire hmm mandela effect anyone interviewwithavampire annerice books horror ilovevamps	0.342
 386	hey everything gonna okay may god kiss weary face everything gonna alright let peace tonight	0.391
 387	twitter days massive critical debate people like annoying depressing dull	0.705
 388	lost without mom plus tired sick full cold another day paradise upset unwell missyoumommybear 💖💖	0.789

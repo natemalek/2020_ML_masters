@@ -87,7 +87,7 @@
 85	first ever doctors appointment without mum daunting	0.6609999999999999
 86	man hate spider man even watch yet	0.569
 87	nervous	0.741
-88	im sad im shocking bcoz suddenly grab hair pushing pull nhoooooooy jezaz panabangi😭🙏😆😂😂	0.733
+88	im sad im shocking bcoz suddenly grab hair pushing pull nhooy jezaz panabangi😭🙏😆😂😂	0.733
 89	jeered even next year seem get every last european including brits think dreadful	0.5579999999999999
 90	solar eclipse annoyed mood grateful cantwait awe cool soon	0.321
 91	horrible exactly happen	0.745
@@ -115,7 +115,7 @@
 113	remember ron reagan said tear wall trump afraid others obviously feel safe	0.5
 114	man filling dad life insurance paperwork really put damper tuesday morning really makes feel final	0.635
 115	worst customer service days get diagnostic appt disappointing ittakesminutestorunadiagnostic	0.536
-116	😂😂😂😂 nu mean overprice english clubs nreal madrid see bayern no threat look	0.259
+116	😂😂 nu mean overprice english clubs nreal madrid see bayern no threat look	0.259
 117	one point wanted rba sa hahaha pero di jud oy di jud ga humss ta	0.483
 118	strapless wedding dresses look awful people njulianne hough looked great 👌🏼	0.2
 119	bully	0.517
@@ -179,7 +179,7 @@
 177	may disabled discouraged disappointed gaining weight not defeated gonna wit	0.5539999999999999
 178	improve makeup dear avoid reduction viewership	0.375
 179	generally educated person speaks one language auspol monolingual lazy smug scared snowflake	0.42200000000000004
-180	tmr important day determine future really nervous xxx	0.8540000000000001
+180	tmr important day determine future really nervous xx	0.8540000000000001
 181	love shack shake	0.11199999999999999
 182	ten amazing snap power gets short back swing threat rd atp 🎾🎾	0.28600000000000003
 183	bet people saw horrid dracula flick new mummy prolly agree	0.419
@@ -294,7 +294,7 @@
 292	i’m glad hear kara don’t hesitate get touch need cheryl	0.125
 293	fear not life fear letting back life fears	0.897
 294	writing delivers disturbing images mind reader one writing shudder badvisual	0.537
-295	maaaan fox amp hound no joke also pinocchio got damned terrifying legit horror film	0.589
+295	maan fox amp hound no joke also pinocchio got damned terrifying legit horror film	0.589
 296	working shopping amazon prime deals instead	0.41100000000000003
 297	know mean emma rice wise children angelacarter panic	0.804
 298	perusing menu would like green tea shake please no whipped cream dusted matcha perhaps straw	0.125
@@ -358,15 +358,15 @@
 356	mccain revolting	0.429
 357	everything tried shop today small around bust area next size baggy everywhere else aahahha nightmare	0.55
 358	basically throwing kitchen sink one	0.42
-359	coming depaul welcome week cali 🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄 pissed	0.433
+359	coming depaul welcome week cali 🙄🙄 pissed	0.433
 360	ray lewis middle raven defense oh lord fear	0.833
 361	house sitting mil feeding baby cat starts scratching door mummy needs nappy terrified neveragain nope	0.8170000000000001
 362	growl like dog see lifts gives space	0.426
-363	damn sight getting scared af makes feeel sooo bad feel afraid cause mom come	0.6
+363	damn sight getting scared af makes feel soo bad feel afraid cause mom come	0.6
 364	dump gt make panic even bigger make people sell bottom gt buy low gt pump	0.565
 365	ik pmln darling haunt nightmares dressed like dream best thing ever gameovernawaz	0.479
 366	first question followers ready directed please shy respond	0.306
-367	absolutely blown away evening incredible sets slick choreography holy moly insaaane vocals awe	0.13
+367	absolutely blown away evening incredible sets slick choreography holy moly insaane vocals awe	0.13
 368	afraid might kill not good	0.8390000000000001
 369	new alarm praying wake morning feeling like oh evolution	0.33299999999999996
 370	hahaha almost fell sofa laughing point wee jump scared	0.55
@@ -415,18 +415,18 @@
 413	everyone loves horror monster zombies clown scary dracula frankenstein darksouls darkside metal	0.446
 414	mine baby headache love smile frown wrong right pain happiness everything	0.16699999999999998
 415	months behind issue nit allow guys bully around like	0.607
-416	going student nurse weeks eeeeppp newexperience scared excitedmuch	0.833
-417	hahaaa fuming 😞😂	0.375
+416	going student nurse weeks eepp newexperience scared excitedmuch	0.833
+417	hahaa fuming 😞😂	0.375
 418	headache	0.643
 419	real abt donaldtrumpjr mtg not asked show proof trumpdossier amp threaten blackmail resistance putinspuppet	0.5710000000000001
 420	well time think concern bright shiny price tag match	0.38299999999999995
-421	eyebrow ffff haunt forever	0.633
+421	eyebrow fff haunt forever	0.633
 422	message cnbc sending care melissa lee horrible smile joe kernan needs braces	0.44799999999999995
 423	nervous tomorrow origin game remember decider next year biggest game time	0.596
 424	williams lake evacuation alert fires rage near city developments overnight forecast	0.621
 425	horoscopes terrible says obsessed really not 🤷🏾‍♀️	0.45299999999999996
 426	goldman proved pr nightmare bank’s investment arm blasted snapping labeled “hunger bonds	0.621
-427	ahhhhhhhhhhhh dread omfg good	0.38299999999999995
+427	ahh dread omfg good	0.38299999999999995
 428	go back time st grade walk shove bully playground little asshole stupidreasonstousetimetravel	0.32799999999999996
 429	reminds little monster though tiny scale one genuinely horrific villains ever seen	0.603
 430	lost translation sad tired upset noservice	0.667
@@ -434,7 +434,7 @@
 432	awake days hours sleepy tired weary raspberrypi nodered bot iot sunshinecoast	0.55
 433	much world make us afraid much faith make us unafraid	0.435
 434	watching scottishopenherochallenge last night smoke flames tense sound effects lively commentary boring dull shite	0.4
-435	shit time mean others pussyfoot around amp make anxiety worse 😡😡😡	0.758
+435	shit time mean others pussyfoot around amp make anxiety worse 😡😡	0.758
 436	best make horror story	0.5329999999999999
 437	graduate hope time start learning finnish putting quite long	0.44799999999999995
 438	day tom	0.517
@@ -484,7 +484,7 @@
 482	discouraged	0.625
 483	coworker took eclipse glasses keys phone lunch money scared	0.828
 484	mtpdaily look giving camera umm angry frightened terrified ifeelyourpain notmypresident	0.722
-485	wow season going goooooooooooooooooooooddddddddddd ahhhhh shocking intense	0.426
+485	wow season going goodd ahh shocking intense	0.426
 486	point maximum danger point minimum fear	0.366
 487	concern dio claws	0.64
 488	advance retard lever decompression lever oil pump clutch	0.48200000000000004
@@ -541,7 +541,7 @@
 539	amazing statement really clears things believeme tremendous maga russia	0.24100000000000002
 540	falter katli	0.345
 541	spooky one water big roaches crawling back terrible	0.742
-542	considering fine getting tattoos blood tests terrify get one aaaaahhhh	0.845
+542	considering fine getting tattoos blood tests terrify get one aahh	0.845
 543	gg bro lost cool	0.271
 544	no one law suspicion soldier something wrong held accountable	0.435
 545	whoever decided put chat functions company websites customer service deserves medals hate talking phone	0.446
@@ -618,7 +618,7 @@
 616	facts horrific ways could kill fact animals	0.7240000000000001
 617	start youtube channel techno ayan please follow friends	0.23399999999999999
 618	thought cried relative death something know truth wanna burst	0.5
-619	active days day soooo restless restless months	0.431
+619	active days day soo restless restless months	0.431
 620	thought day nremain unruffled thes says ye brethren not weary well many years	0.26899999999999996
 621	good reminded first step nnd step pls start practicing spare us horror tweets	0.536
 622	watched thedarktower amp ask let destroy literary masterpiece beyond crap disappointment fixit	0.46299999999999997
@@ -660,7 +660,7 @@
 658	scare already scared	0.94
 659	amarnathterrorattack saddened hear need take strict action terrorism	0.732
 660	thanks perspective shocking getting point near number every week	0.5
-661	quick annoyingly vague scream void aaaaaaaaaagh nervous excited terrified trying not get hopes	0.852
+661	quick annoyingly vague scream void aagh nervous excited terrified trying not get hopes	0.852
 662	actually gunna miss america lot	0.5379999999999999
 663	keep head clear focused not let intimidate use children silence hate man	0.5379999999999999
 664	good morning margo are😀have terrific tuesday dear	0.268
@@ -771,7 +771,7 @@
 769	man bitter manu making great strides	0.26
 770	kind cops reason people hate cops amp cant trust anything	0.613
 771	republicans need offer detailed competitive plan buy counter terrorism plan	0.426
-772	soooo need longer episodes 🙏🏽🙏🏽😫😫 insecure	0.574
+772	soo need longer episodes 🙏🏽🙏🏽😫😫 insecure	0.574
 773	yeah say hopefully never get horrific waste skin	0.638
 774	racing around seven seas nchasing girls making robberies causing panic everywhere go nparty hardy titanic	0.2
 775	thing shocking truth lies people tell cover	0.574
@@ -847,7 +847,7 @@
 845	nervous laughter ensues	0.596
 846	asked someone help low key mentor adulthood anxiety	0.652
 847	every one concept try cram brain feel like pushing three panic	0.792
-848	daniel killing ex doeee🍫🍫🍫😛 insecure	0.688
+848	daniel killing ex doee🍫🍫😛 insecure	0.688
 849	irrelevant skinny body vile personality bully	0.625
 850	great workout morning alongside thx courtney legs still	0.271
 851	awe thanks much ❤️❤️ love	0.161
@@ -856,11 +856,11 @@
 854	call sick line hysterically crying awkward anxiety depression prob gonna get fired 💔lol	0.758
 855	anxiety	0.78
 856	go occupational services place drug test yet know heck going great blah	0.5479999999999999
-857	proud parents fb kids school report shitting graces arriving 😂😂😂 troublemaker	0.4
+857	proud parents fb kids school report shitting graces arriving 😂😂 troublemaker	0.4
 858	no lot questions creating suspicion plz take otherwise	0.534
 859	love conquering fears gaining strength grace 💪🏼💫💜 aerialsilks aerialarts	0.28600000000000003
 860	let depression take stage	0.7290000000000001
-861	boring stations side bully tough someone sha 😞😑😑😑	0.5
+861	boring stations side bully tough someone sha 😞😑😑	0.5
 862	reminds us amp early pinot grigio still makes us shudder	0.467
 863	no offense post makes look like opinion disrespecter	0.431
 864	never knew situation dire	0.741
@@ -895,7 +895,7 @@
 893	think finally admit need see dentist little bit toothache last night fear scared phobia	0.938
 894	ya writes horror everything today world looks normal dark individual	0.5770000000000001
 895	im sorry voted jeans lt look banging tf needs food anyway ur student existential dread feeds us	0.605
-896	okay sus let hurt go hugging ya bitter ass 😂😂😂	0.259
+896	okay sus let hurt go hugging ya bitter ass 😂😂	0.259
 897	lost glasses right supposed see movie chinese theater pissed	0.593
 898	not answered question amarnathterrorattack perps killed like rabid dogs praise army	0.5329999999999999
 899	hate tan lines refuse tan salon anymore	0.5
@@ -919,7 +919,7 @@
 917	fear illusion michael jordan wednesdaywisdom illusion	0.40399999999999997
 918	horror fiends watch tonight	0.46399999999999997
 919	mornin sexy phantom crush hottie happy tremendous totally fun tuesday love hugs enjoy xxoo love yas tons bunches xxoo	0.115
-920	clearly appreciate sub harmonics one💯😂😂😂👍🏿	0.14
+920	clearly appreciate sub harmonics one💯😂😂👍🏿	0.14
 921	motherfucking mind think anyone could say better terrifying biggestcrybabyinhistory	0.69
 922	restless nights early mornings good 😫😪	0.556
 923	thing tho pout actually serious	0.466
@@ -927,13 +927,13 @@
 925	know moods dreadful sleep hours naturally nwould rather sleeping right honest though	0.5479999999999999
 926	joker job make public smile amp not spread hatred way	0.35
 927	shitty worst feeling ever depressed anxiety	0.9420000000000001
-928	yessss waiting epi birds sucks im waiting walking dead new season😩	0.517
+928	yess waiting epi birds sucks im waiting walking dead new season😩	0.517
 929	omg kidding thought pence bad go even farther	0.5539999999999999
 930	number ppl took wrong way not alarming srsly think lyt dat man oy	0.483
 931	fear not god discouraged god strengthens helps time	0.33899999999999997
 932	horrid see move let not rewrite history best servant hughes none shone	0.677
 933	best bridge despair hope good night sleep	0.45299999999999996
-934	funny feeling mayweather mcgregor become trilogy make million make hmmm suspicion 💵💰	0.426
+934	funny feeling mayweather mcgregor become trilogy make million make hmm suspicion 💵💰	0.426
 935	always preferred quiver	0.35
 936	thexfactor returns next week exclaims trend notification noh deep fucking joy exclaims dreadful pastitsselldate quitit	0.467
 937	little twitter saga lately tea thing horrific plus never fresh milk put	0.517

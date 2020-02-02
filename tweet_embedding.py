@@ -1,14 +1,9 @@
-# This file contains util functions for representing tweets using word
-# embeddings
-# Pipeline: Takes a list of tokens as input;
-# extract_embeddings(tokens) returns those as a list of embeddings
-# sum_pool_embeddings(embeddings) returns a sum-pooled embedding vector
+# This file contains util functions for representing tweets using word embeddings
 
-# To run: python tweet_embedding.py embedding_model_filepath embedding_filetype lexicon_meta_filepath
-# eg: python tweet_embedding.py C:/users/natha/Documents/GoogleNews-vectors-negative300.bin G ./lexicon/English/lexicon_meta_data_English.txt
+# To run: python tweet_embedding.py embedding_model_filepath embedding_filetype lexicon_meta_filepath data_filepath new_filepath
+# eg: python tweet_embedding.py C:/users/natha/Documents/GoogleNews-vectors-negative300.bin G ./lexicon/English/lexicon_meta_data_English.txt ./data/cleaned/cleaned-Valence-reg-En-train.txt ./data/embeddings/embeddings-Valence-reg-En-train.pkl
 # embedding_filetype: "G" or "A" for GoogleNews/AraVec, respectively
 
-# Arabic: Total tokens not in lexicon: 12513; total words in lexicon: 10498
 
 import pandas as pd
 import numpy as np
@@ -123,16 +118,16 @@ def compute_lexicon_score(tweet, lexicon_dict, lex_subdict_length):
 
     return tweet_scores
 
-def collect_embeddings(filepath, new_filepath, lexicon):
+def collect_embeddings(filepath, lexicon, embedding_model):
     '''
-    Takes a tsv filepaths with tweets and scores and writes a new file with tweets
+    Takes a tsv filepaths with tweets and scores and creates a dataframe with tweets
     represented as embeddings and the same scores. Takes also a sentiment lexicon
     dictionary.
     
     :param filepath: the filepath to a tsv file
-    :param new_filepath: filepath to new embeddings file
     :param lexicon: a dict of dicts representing a sentiment lexicon. Format:
         {word: {score_type: score, ...}, ...}
+    :param embedding_model: a gensim word embedding model
     '''
     df = pd.read_csv(filepath, delimiter="\t")
     tweet_embeddings = []
@@ -157,7 +152,7 @@ def collect_embeddings(filepath, new_filepath, lexicon):
     new_df = pd.DataFrame()
     new_df["Embedding"] = tweet_embeddings
     new_df["Valence score"] = df["Valence score"]
-    new_df.to_pickle(new_filepath)
+    return new_df
     
 
 if __name__ == "__main__":
@@ -165,6 +160,8 @@ if __name__ == "__main__":
     embedding_filename = sys.argv[1]
     embedding_filetype = sys.argv[2]
     lexicon_meta_filepath = sys.argv[3]
+    data_filename = sys.argv[4]
+    new_filename = sys.argv[5]
     
     start = time.time()
 
@@ -177,24 +174,8 @@ if __name__ == "__main__":
     
     lexicon = clean_sentiment_lexicon.import_sentiment_lexicons(lexicon_meta_filepath)
     
-    '''
-    Arabic_train_filepath = "./data/cleaned/cleaned-Valence-reg-Ar-train.txt"
-    
-    train_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-train.txt"
-    test_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-test.txt"
-    dev_filepath = "./data/cleaned/cleaned-EI-reg-En-anger-dev.txt"
-    
-    paths = [dev_filepath, test_filepath, train_filepath]
-    '''
-    paths = ["data/cleaned/cleaned-Valence-reg-Ar-train.txt", "data/cleaned/cleaned-Valence-reg-Ar-test.txt", "data/cleaned/cleaned-Valence-reg-Ar-dev.txt"]
-    for filepath in paths:
-        new_filepath = "./data/embeddings/embeddings-"+'-'.join(filepath.split(".")[0].split("-")[1:])+".pkl"
-        collect_embeddings(filepath, new_filepath, lexicon)
-    
-    end = time.time()
-    print(f"Total time: {end-start}")
-    print(f"Time after embedding: {end-embedding_done}")
-    print(f"Total tokens not in lexicon: {not_in_lexicon}; total words in lexicon: {in_lexicon}")
+    new_df = collect_embeddings(data_filename, lexicon, embedding_model)
+    new_df.to_pickle(new_filename)
     
     
     

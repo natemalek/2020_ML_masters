@@ -1,8 +1,21 @@
-Results:
-
-model:	data:	features:	dev_pearson_r:	test_pearson_r:
-linreg	V_reg_E	embeddings	0.589		0.586
-xgboost	V_reg_E embeddings	0.642		0.647
-
-xgboost	V_reg_E embeddings+sent_lex	N/A	0.736
-xgboost V_reg_A embeddings+sent_lex	N/A	0.724
+File	Pearson_r
+data/cleaned/cleaned-EI-reg-En-anger-train.txt	0.5879651652742992
+data/cleaned/cleaned-EI-reg-En-joy-train.txt	0.5994522493507315
+data/cleaned/cleaned-EI-reg-En-sadness-train.txt	0.5753356599076238
+data/cleaned/cleaned-EI-reg-En-fear-train.txt	0.6500537796838229
+data/cleaned/cleaned-EI-oc-En-anger-train.txt	0.4935928821583488
+data/cleaned/cleaned-EI-oc-En-joy-train.txt	0.5525592924582422
+data/cleaned/cleaned-EI-oc-En-sadness-train.txt	0.4834760179176543
+data/cleaned/cleaned-EI-oc-En-fear-train.txt	0.4796549698021149
+data/cleaned/cleaned-Valence-oc-En-train.txt	0.6931739272178523
+data/cleaned/cleaned-Valence-reg-En-train.txt	0.7189631558103168
+data/cleaned/cleaned-EI-reg-Ar-anger-train.txt	0.46791033659541525
+data/cleaned/cleaned-EI-reg-Ar-joy-train.txt	0.658728366424719
+data/cleaned/cleaned-EI-reg-Ar-sadness-train.txt	0.6170336046108724
+data/cleaned/cleaned-EI-reg-Ar-fear-train.txt	0.4980531882353434
+data/cleaned/cleaned-EI-oc-Ar-anger-train.txt	0.3727103877377454
+data/cleaned/cleaned-EI-oc-Ar-joy-train.txt	0.5263538705369349
+data/cleaned/cleaned-EI-oc-Ar-sadness-train.txt	0.5775838231678985
+data/cleaned/cleaned-EI-oc-Ar-fear-train.txt	0.4715454538560678
+data/cleaned/cleaned-Valence-oc-Ar-train.txt	0.7061529457077129
+data/cleaned/cleaned-Valence-reg-Ar-train.txt	0.7244132869009681
